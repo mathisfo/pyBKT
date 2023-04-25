@@ -2,3 +2,8 @@ __pycache__/
 *.py[cod]
 *.o
 *.so
+*.eggs
+/build/
+.DS_Store
+/dist/
+pyBKT.egg-info
