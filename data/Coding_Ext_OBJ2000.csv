@@ -1,0 +1,1162 @@
+user_id,skill_name,type,activityId,correct,visited_At,order_Id,class
+norway22102,Variables and Operations,Coding,second_in_days,0,2023-03-17 11:18:49.719,5,OBJ2000
+norway22127,Variables and Operations,Coding,second_in_days,1,2023-03-17 14:08:47.461,273,OBJ2000
+norway22127,Variables and Operations,Coding,rectangle_perimeter,0,2023-03-17 14:11:15.15,274,OBJ2000
+norway22127,Variables and Operations,Coding,rectangle_perimeter,1,2023-03-17 14:11:15.15,275,OBJ2000
+norway22127,Variables and Operations,Coding,days_to_week_conversion,1,2023-03-17 14:22:22.005,276,OBJ2000
+norway22127,Variables and Operations,Coding,percentage_correctness,0,2023-03-17 14:34:40.611,281,OBJ2000
+norway22127,Variables and Operations,Coding,percentage_correctness,0,2023-03-17 14:34:40.611,282,OBJ2000
+norway22127,Variables and Operations,Coding,percentage_correctness,1,2023-03-17 14:34:40.611,283,OBJ2000
+norway22127,Variables and Operations,Coding,compute_average,0,2023-03-17 14:36:49.934,284,OBJ2000
+norway22127,Variables and Operations,Coding,compute_average,1,2023-03-17 14:36:49.934,285,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,333,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,334,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,335,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,336,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,337,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,338,OBJ2000
+norway22105,Variables and Operations,Coding,second_in_days,0,2023-03-17 15:23:01.056,339,OBJ2000
+norway22127,Boolean Expressions,Coding,love6,1,2023-03-17 19:11:01.976,393,OBJ2000
+norway22127,Boolean Expressions,Coding,is_special,0,2023-03-17 19:14:41.822,394,OBJ2000
+norway22127,Boolean Expressions,Coding,is_special,0,2023-03-17 19:14:41.822,395,OBJ2000
+norway22127,Boolean Expressions,Coding,is_special,1,2023-03-17 19:14:41.822,396,OBJ2000
+norway22127,Boolean Expressions,Coding,check_start_end_character,0,2023-03-17 19:30:30.781,397,OBJ2000
+norway22127,Boolean Expressions,Coding,check_start_end_character,0,2023-03-17 19:30:30.781,398,OBJ2000
+norway22127,Boolean Expressions,Coding,check_start_end_character,1,2023-03-17 19:30:30.781,399,OBJ2000
+norway22127,Boolean Expressions,Coding,squirrel_play,1,2023-03-17 19:38:19.407,400,OBJ2000
+norway22127,If-Else,Coding,sortaSum,1,2023-03-17 19:54:53.713,401,OBJ2000
+norway22127,If-Else,Coding,twoAsOne,1,2023-03-17 19:58:35.025,402,OBJ2000
+norway22127,If-Else,Coding,greenTicket,1,2023-03-17 20:04:38.142,403,OBJ2000
+norway22127,If-Else,Coding,in1To10,0,2023-03-17 20:23:04.247,410,OBJ2000
+norway22127,If-Else,Coding,in1To10,0,2023-03-17 20:23:04.247,411,OBJ2000
+norway22127,If-Else,Coding,in1To10,0,2023-03-17 20:23:04.247,412,OBJ2000
+norway22108,Boolean Expressions,Coding,love6,0,2023-03-17 21:11:39.12,423,OBJ2000
+norway22108,Boolean Expressions,Coding,love6,0,2023-03-17 21:11:39.12,424,OBJ2000
+norway22108,Boolean Expressions,Coding,love6,0,2023-03-17 21:11:39.12,425,OBJ2000
+norway22108,Boolean Expressions,Coding,love6,0,2023-03-17 21:11:39.12,426,OBJ2000
+norway22108,Boolean Expressions,Coding,love6,1,2023-03-17 21:11:39.12,427,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,428,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,429,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,430,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,431,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,432,OBJ2000
+norway22108,Variables and Operations,Coding,second_in_days,0,2023-03-17 21:18:28.557,433,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,0,2023-03-17 21:23:40.004,434,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,0,2023-03-17 21:23:40.004,435,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,1,2023-03-17 21:23:40.004,436,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_3,0,2023-03-17 21:26:01.254,437,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_3,0,2023-03-17 21:26:01.254,438,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_3,0,2023-03-17 21:26:01.254,439,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_3,1,2023-03-17 21:26:01.254,440,OBJ2000
+norway22114,Strings,Coding,first_half,0,2023-03-17 23:21:06.338,441,OBJ2000
+norway22114,Strings,Coding,first_half,0,2023-03-17 23:21:06.338,442,OBJ2000
+norway22114,Strings,Coding,first_half,0,2023-03-17 23:21:06.338,443,OBJ2000
+norway22114,Strings,Coding,first_half,1,2023-03-17 23:21:06.338,444,OBJ2000
+norway22114,Strings,Coding,non_start,0,2023-03-17 23:28:48.417,445,OBJ2000
+norway22114,Strings,Coding,non_start,1,2023-03-17 23:28:48.417,446,OBJ2000
+norway22114,Strings,Coding,make_out_word,0,2023-03-17 23:33:11.926,447,OBJ2000
+norway22114,Strings,Coding,make_out_word,1,2023-03-17 23:33:11.926,448,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,1,2023-03-18 10:30:14.583,449,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_3,1,2023-03-18 10:31:50.242,450,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,579,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,580,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,581,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,582,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,583,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,584,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,585,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,586,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,587,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,588,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,589,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,590,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,591,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-18 12:20:51.763,592,OBJ2000
+norway22114,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,1,2023-03-18 12:20:51.763,593,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,916,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,917,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,918,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,919,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,920,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,921,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,922,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,923,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,924,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,925,OBJ2000
+norway22127,While Loops,Coding,while1_coding,0,2023-03-19 12:08:45.012,926,OBJ2000
+norway22127,While Loops,Coding,while1_coding,1,2023-03-19 12:08:45.012,927,OBJ2000
+norway22127,While Loops,Coding,while2_coding,0,2023-03-19 12:58:02.105,966,OBJ2000
+norway22127,While Loops,Coding,while2_coding,0,2023-03-19 12:58:02.105,967,OBJ2000
+norway22127,While Loops,Coding,while2_coding,0,2023-03-19 12:58:02.105,968,OBJ2000
+norway22127,While Loops,Coding,while2_coding,0,2023-03-19 12:58:02.105,969,OBJ2000
+norway22127,While Loops,Coding,while2_coding,0,2023-03-19 12:58:02.105,970,OBJ2000
+norway22127,While Loops,Coding,while2_coding,1,2023-03-19 12:58:02.105,971,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,972,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,973,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,974,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,975,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,976,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,977,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,978,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,979,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,980,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,981,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,982,OBJ2000
+norway22127,While Loops,Coding,while3_coding,0,2023-03-19 13:12:16.478,983,OBJ2000
+norway22127,While Loops,Coding,while4_coding,0,2023-03-19 13:33:02.144,984,OBJ2000
+norway22127,While Loops,Coding,while4_coding,0,2023-03-19 13:33:02.144,985,OBJ2000
+norway22127,While Loops,Coding,while4_coding,0,2023-03-19 13:33:02.144,986,OBJ2000
+norway22127,While Loops,Coding,while4_coding,1,2023-03-19 13:33:02.144,987,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_1,1,2023-03-19 14:59:29.602,1025,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,0,2023-03-19 15:02:27.384,1026,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,0,2023-03-19 15:02:27.384,1027,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,0,2023-03-19 15:02:27.384,1028,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,0,2023-03-19 15:02:27.384,1029,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,0,2023-03-19 15:02:27.384,1030,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_2,1,2023-03-19 15:02:27.384,1031,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_3,1,2023-03-19 15:07:59.267,1032,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1033,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1034,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1035,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1036,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1037,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,0,2023-03-19 15:09:58.465,1038,OBJ2000
+norway22127,Objects and Classes,Coding,object_classes_4,1,2023-03-19 15:09:58.465,1039,OBJ2000
+norway22114,Strings,Coding,repeat_last_char,0,2023-03-19 15:24:52.342,1040,OBJ2000
+norway22114,Strings,Coding,repeat_last_char,0,2023-03-19 15:24:52.342,1041,OBJ2000
+norway22114,Strings,Coding,repeat_last_char,0,2023-03-19 15:24:52.342,1042,OBJ2000
+norway22114,Strings,Coding,repeat_last_char,1,2023-03-19 15:24:52.342,1043,OBJ2000
+norway22114,Strings,Coding,first_last_swap,0,2023-03-19 15:30:01.169,1044,OBJ2000
+norway22114,Strings,Coding,first_last_swap,0,2023-03-19 15:30:01.169,1045,OBJ2000
+norway22114,Strings,Coding,first_last_swap,1,2023-03-19 15:30:01.169,1046,OBJ2000
+norway22114,Strings,Coding,end_characters,1,2023-03-19 15:41:47.582,1047,OBJ2000
+norway22114,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-19 15:50:16.231,1048,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1049,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1050,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1051,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1052,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1053,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1054,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1055,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1056,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1057,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1058,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1059,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1060,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1061,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1062,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1063,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1064,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1065,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,0,2023-03-19 17:21:57.493,1066,OBJ2000
+norway22114,Nested Loops,Coding,symmetrical_array,1,2023-03-19 17:21:57.493,1067,OBJ2000
+norway22114,Nested Loops,Coding,nested_loops_1,0,2023-03-19 17:39:21.558,1068,OBJ2000
+norway22114,Boolean Expressions,Coding,love6,0,2023-03-19 17:51:56.205,1069,OBJ2000
+norway22114,Boolean Expressions,Coding,love6,0,2023-03-19 17:51:56.205,1070,OBJ2000
+norway22114,Boolean Expressions,Coding,love6,0,2023-03-19 17:51:56.205,1071,OBJ2000
+norway22114,Boolean Expressions,Coding,love6,0,2023-03-19 17:51:56.205,1072,OBJ2000
+norway22114,Boolean Expressions,Coding,love6,1,2023-03-19 17:51:56.205,1073,OBJ2000
+norway22114,Boolean Expressions,Coding,is_special,0,2023-03-19 17:58:33.09,1074,OBJ2000
+norway22114,Boolean Expressions,Coding,is_special,0,2023-03-19 17:58:33.09,1075,OBJ2000
+norway22114,Boolean Expressions,Coding,is_special,0,2023-03-19 17:58:33.09,1076,OBJ2000
+norway22114,Boolean Expressions,Coding,is_special,0,2023-03-19 17:58:33.09,1077,OBJ2000
+norway22114,Boolean Expressions,Coding,is_special,1,2023-03-19 17:58:33.09,1078,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,0,2023-03-19 18:01:01.861,1079,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,0,2023-03-19 18:01:01.861,1080,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,0,2023-03-19 18:01:01.861,1081,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,0,2023-03-19 18:01:01.861,1082,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,0,2023-03-19 18:01:01.861,1083,OBJ2000
+norway22114,Boolean Expressions,Coding,check_start_end_character,1,2023-03-19 18:01:01.861,1084,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-20 01:10:45.271,1197,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-20 01:10:45.271,1198,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-20 01:10:45.271,1199,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,0,2023-03-20 01:10:45.271,1200,OBJ2000
+norway22108,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_2,1,2023-03-20 01:10:45.271,1201,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1202,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1203,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1204,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1205,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1206,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1207,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,0,2023-03-20 01:20:57.757,1208,OBJ2000
+norway22108,Boolean Expressions,Coding,in_order,1,2023-03-20 01:20:57.757,1209,OBJ2000
+norway22108,Boolean Expressions,Coding,squirrel_play,0,2023-03-20 01:25:47.43,1210,OBJ2000
+norway22108,Boolean Expressions,Coding,squirrel_play,0,2023-03-20 01:25:47.43,1211,OBJ2000
+norway22108,Boolean Expressions,Coding,squirrel_play,0,2023-03-20 01:25:47.43,1212,OBJ2000
+norway22108,Boolean Expressions,Coding,squirrel_play,1,2023-03-20 01:25:47.43,1213,OBJ2000
+norway22108,Arrays,Coding,arrays_1,0,2023-03-20 01:29:15.295,1214,OBJ2000
+norway22108,Arrays,Coding,arrays_1,0,2023-03-20 01:29:15.295,1215,OBJ2000
+norway22108,Arrays,Coding,arrays_1,0,2023-03-20 01:29:15.295,1216,OBJ2000
+norway22108,Arrays,Coding,arrays_1,1,2023-03-20 01:29:15.295,1217,OBJ2000
+norway22108,Arrays,Coding,arrays_2,0,2023-03-20 01:30:16.125,1218,OBJ2000
+norway22108,Arrays,Coding,arrays_2,0,2023-03-20 01:30:16.125,1219,OBJ2000
+norway22108,Arrays,Coding,arrays_2,0,2023-03-20 01:30:16.125,1220,OBJ2000
+norway22108,Arrays,Coding,arrays_2,0,2023-03-20 01:30:16.125,1221,OBJ2000
+norway22108,Arrays,Coding,arrays_2,0,2023-03-20 01:30:16.125,1222,OBJ2000
+norway22108,Arrays,Coding,arrays_2,1,2023-03-20 01:30:16.125,1223,OBJ2000
+norway22108,Arrays,Coding,arrays_3,0,2023-03-20 01:32:09.163,1224,OBJ2000
+norway22108,Arrays,Coding,arrays_3,0,2023-03-20 01:32:09.163,1225,OBJ2000
+norway22108,Arrays,Coding,arrays_3,1,2023-03-20 01:32:09.163,1226,OBJ2000
+norway22108,Arrays,Coding,array_4,0,2023-03-20 01:35:18.431,1227,OBJ2000
+norway22108,Arrays,Coding,array_4,0,2023-03-20 01:35:18.431,1228,OBJ2000
+norway22108,Arrays,Coding,array_4,0,2023-03-20 01:35:18.431,1229,OBJ2000
+norway22108,Arrays,Coding,array_4,1,2023-03-20 01:35:18.431,1230,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1231,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1232,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1233,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1234,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1235,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1236,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1237,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1238,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1239,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1240,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1241,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1242,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1243,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,0,2023-03-20 01:36:38.401,1244,OBJ2000
+norway22108,Arrays,Coding,fixing_order_of_numbers,1,2023-03-20 01:36:38.401,1245,OBJ2000
+norway22142,If-Else,Coding,sortaSum,0,2023-03-20 12:10:05.798,1343,OBJ2000
+norway22142,If-Else,Coding,sortaSum,0,2023-03-20 12:10:05.798,1344,OBJ2000
+norway22142,If-Else,Coding,sortaSum,1,2023-03-20 12:10:05.798,1345,OBJ2000
+norway22142,Objects and Classes,Coding,object_classes_4,0,2023-03-20 13:31:24.129,1346,OBJ2000
+norway22142,Objects and Classes,Coding,object_classes_4,0,2023-03-20 13:31:24.129,1347,OBJ2000
+norway22142,Objects and Classes,Coding,object_classes_4,1,2023-03-20 13:31:24.129,1348,OBJ2000
+norway22142,Nested Loops,Coding,nested_loops_1,0,2023-03-20 13:53:57.625,1349,OBJ2000
+norway22142,Nested Loops,Coding,nested_loops_1,0,2023-03-20 13:53:57.625,1350,OBJ2000
+norway22142,Nested Loops,Coding,nested_loops_1,0,2023-03-20 13:53:57.625,1351,OBJ2000
+norway22142,Nested Loops,Coding,nested_loops_1,1,2023-03-20 13:53:57.625,1352,OBJ2000
+norway22114,ArrayLists,Coding,array_lst_1,0,2023-03-20 14:31:50.201,1353,OBJ2000
+norway22114,ArrayLists,Coding,array_lst_1,0,2023-03-20 14:31:50.201,1354,OBJ2000
+norway22114,ArrayLists,Coding,array_lst_1,0,2023-03-20 14:31:50.201,1355,OBJ2000
+norway22114,ArrayLists,Coding,array_lst_1,1,2023-03-20 14:31:50.201,1356,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1389,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1390,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1391,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1392,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1393,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1394,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1395,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1396,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1397,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1398,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1399,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1400,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1401,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1402,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1403,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1404,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1405,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1406,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1407,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1408,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1409,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1410,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1411,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1412,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1413,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1414,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1415,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1416,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1417,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1418,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1419,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1420,OBJ2000
+norway22132,Strings,Coding,end_characters,0,2023-03-20 18:51:02.213,1421,OBJ2000
+norway22132,Strings,Coding,end_characters,1,2023-03-20 18:51:02.213,1422,OBJ2000
+norway22132,Strings,Coding,first_last_swap,0,2023-03-20 19:47:27.692,1423,OBJ2000
+norway22132,Strings,Coding,first_half,1,2023-03-20 19:51:05.773,1424,OBJ2000
+norway22132,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 19:52:18.871,1425,OBJ2000
+norway22132,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 19:52:18.871,1426,OBJ2000
+norway22132,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 19:52:18.871,1427,OBJ2000
+norway22132,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-03-20 19:52:18.871,1428,OBJ2000
+norway22132,Strings,Coding,repeat_last_char,0,2023-03-20 19:52:34.929,1429,OBJ2000
+norway22132,Strings,Coding,make_out_word,0,2023-03-20 19:52:49.473,1430,OBJ2000
+norway22132,Strings,Coding,non_start,0,2023-03-20 19:52:58.132,1431,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 20:54:52.287,1432,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 20:54:52.287,1433,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 20:54:52.287,1434,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 20:54:52.287,1435,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-20 20:54:52.287,1436,OBJ2000
+norway22138,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-03-20 20:54:52.287,1437,OBJ2000
+norway22138,Strings,Coding,end_characters,0,2023-03-20 21:11:44.9,1438,OBJ2000
+norway22138,Strings,Coding,end_characters,0,2023-03-20 21:11:44.9,1439,OBJ2000
+norway22138,Strings,Coding,end_characters,0,2023-03-20 21:11:44.9,1440,OBJ2000
+norway22138,Strings,Coding,end_characters,0,2023-03-20 21:11:44.9,1441,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1442,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1443,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1444,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1445,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1446,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1447,OBJ2000
+norway22108,Strings,Coding,end_characters,0,2023-03-20 21:24:21.978,1448,OBJ2000
+norway22138,Strings,Coding,first_half,0,2023-03-20 21:24:59.842,1449,OBJ2000
+norway22138,Strings,Coding,first_half,0,2023-03-20 21:24:59.842,1450,OBJ2000
+norway22138,Strings,Coding,first_half,0,2023-03-20 21:24:59.842,1451,OBJ2000
+norway22138,Strings,Coding,non_start,0,2023-03-20 21:25:57.912,1452,OBJ2000
+norway22138,Strings,Coding,non_start,0,2023-03-20 21:25:57.912,1453,OBJ2000
+norway22138,Strings,Coding,non_start,0,2023-03-20 21:25:57.912,1454,OBJ2000
+norway22138,Strings,Coding,make_out_word,1,2023-03-20 21:27:35.91,1455,OBJ2000
+norway22138,Strings,Coding,repeat_last_char,0,2023-03-20 21:28:10.61,1456,OBJ2000
+norway22138,Strings,Coding,repeat_last_char,1,2023-03-20 21:28:10.61,1457,OBJ2000
+norway22138,Strings,Coding,first_last_swap,0,2023-03-20 21:29:20.179,1458,OBJ2000
+norway22105,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-21 11:10:56.43,1461,OBJ2000
+norway22105,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-21 11:10:56.43,1462,OBJ2000
+norway22105,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-21 11:10:56.43,1463,OBJ2000
+norway22105,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-21 11:10:56.43,1464,OBJ2000
+norway22105,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-03-21 11:10:56.43,1465,OBJ2000
+norway22105,Arrays,Coding,arrays_2,0,2023-03-21 11:14:26.699,1466,OBJ2000
+norway22105,Arrays,Coding,arrays_2,0,2023-03-21 11:14:26.699,1467,OBJ2000
+norway22105,Arrays,Coding,arrays_2,0,2023-03-21 11:14:26.699,1468,OBJ2000
+norway22105,Strings,Coding,repeat_last_char,1,2023-03-21 11:15:41.466,1469,OBJ2000
+norway22105,Strings,Coding,make_out_word,1,2023-03-21 11:17:12.121,1470,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_1,1,2023-03-21 11:21:55.998,1471,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_2,0,2023-03-21 11:24:10.552,1472,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_2,0,2023-03-21 11:24:10.552,1473,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_2,0,2023-03-21 11:24:10.552,1474,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_3,0,2023-03-21 11:26:57.992,1475,OBJ2000
+norway22105,Objects and Classes,Coding,object_classes_4,1,2023-03-21 11:28:29.995,1476,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1482,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1483,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1484,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1485,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1486,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1487,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1488,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1489,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1490,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1491,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1492,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1493,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1494,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1495,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1496,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1497,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1498,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1499,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1500,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1501,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1502,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1503,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,0,2023-03-21 14:38:50.461,1504,OBJ2000
+norway22110,Variables and Operations,Coding,compute_average,1,2023-03-21 14:38:50.461,1505,OBJ2000
+norway22114,For Loops,Coding,for1_coding,1,2023-03-23 07:46:19.28,1564,OBJ2000
+norway22114,For Loops,Coding,for2_coding,0,2023-03-23 07:55:46.867,1565,OBJ2000
+norway22127,Strings,Coding,non_start,1,2023-03-25 21:23:54.837,1838,OBJ2000
+norway22112,Variables and Operations,Coding,compute_average,0,2023-03-27 21:16:18.537,2024,OBJ2000
+norway22112,Variables and Operations,Coding,compute_average,0,2023-03-27 21:16:18.537,2025,OBJ2000
+norway22112,Variables and Operations,Coding,compute_average,0,2023-03-27 21:16:18.537,2026,OBJ2000
+norway22112,Variables and Operations,Coding,compute_average,0,2023-03-27 21:16:18.537,2027,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2137,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2138,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2139,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2140,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2141,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2142,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2143,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2144,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2145,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2146,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2147,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2148,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,0,2023-03-28 13:04:38.572,2149,OBJ2000
+norway22150,Variables and Operations,Coding,compute_average,1,2023-03-28 13:04:38.572,2150,OBJ2000
+norway22150,Variables and Operations,Coding,days_to_week_conversion,1,2023-03-28 14:30:48.191,2175,OBJ2000
+norway22150,Variables and Operations,Coding,rectangle_perimeter,0,2023-03-28 14:31:14.846,2176,OBJ2000
+norway22150,Variables and Operations,Coding,rectangle_perimeter,0,2023-03-28 14:31:14.846,2177,OBJ2000
+norway22150,Variables and Operations,Coding,rectangle_perimeter,1,2023-03-28 14:31:14.846,2178,OBJ2000
+norway22150,Variables and Operations,Coding,second_in_days,1,2023-03-28 14:43:47.274,2231,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2240,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2241,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2242,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2243,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2244,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2245,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2246,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2247,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2248,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,0,2023-03-28 14:44:52.406,2249,OBJ2000
+norway22150,Variables and Operations,Coding,percentage_correctness,1,2023-03-28 14:44:52.406,2250,OBJ2000
+norway22114,Inheritance,Coding,inheritance_1,0,2023-03-28 14:52:34.765,2255,OBJ2000
+norway22114,Inheritance,Coding,inheritance_1,1,2023-03-28 14:52:34.765,2256,OBJ2000
+norway22114,Inheritance,Coding,inheritance_2,1,2023-03-28 14:54:29.825,2257,OBJ2000
+norway22114,Objects and Classes,Coding,object_classes_1,1,2023-03-28 15:06:49.015,2268,OBJ2000
+norway22114,Objects and Classes,Coding,object_classes_4,1,2023-03-28 15:08:38.128,2269,OBJ2000
+norway22114,Objects and Classes,Coding,object_classes_2,1,2023-03-28 15:11:02.815,2270,OBJ2000
+norway22114,Objects and Classes,Coding,object_classes_3,1,2023-03-28 15:15:46.686,2271,OBJ2000
+norway22114,Arrays,Coding,arrays_1,1,2023-03-28 15:33:07.773,2321,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2322,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2323,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2324,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2325,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2326,OBJ2000
+norway22114,Arrays,Coding,arrays_2,0,2023-03-28 15:34:29.409,2327,OBJ2000
+norway22114,Arrays,Coding,arrays_3,1,2023-03-28 15:41:08.004,2328,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2627,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2628,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2629,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2630,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2631,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2632,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2633,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2634,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2635,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2636,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2637,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2638,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2639,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2640,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2641,OBJ2000
+norway22150,Strings,Coding,first_half,0,2023-03-29 21:15:24.086,2642,OBJ2000
+norway22150,Strings,Coding,first_half,1,2023-03-29 21:15:24.086,2643,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2644,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2645,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2646,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2647,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2648,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2649,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2650,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2651,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2652,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2653,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2654,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2655,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2656,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2657,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2658,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2659,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2660,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2661,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2662,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,0,2023-03-29 21:22:56.076,2663,OBJ2000
+norway22150,Strings,Coding,repeat_last_char,1,2023-03-29 21:22:56.076,2664,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2700,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2701,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2702,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2703,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2704,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-03-30 10:49:32.081,2705,OBJ2000
+norway22150,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-03-30 10:49:32.081,2706,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2707,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2708,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2709,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2710,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2711,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2712,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2713,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2714,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2715,OBJ2000
+norway22150,Strings,Coding,end_characters,0,2023-03-30 11:07:26.244,2716,OBJ2000
+norway22150,Strings,Coding,end_characters,1,2023-03-30 11:07:26.244,2717,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2718,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2719,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2720,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2721,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2722,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2723,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2724,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2725,OBJ2000
+norway22150,Strings,Coding,non_start,0,2023-03-30 11:22:55.283,2726,OBJ2000
+norway22150,Strings,Coding,non_start,1,2023-03-30 11:22:55.283,2727,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2728,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2729,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2730,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2731,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2732,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2733,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2734,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2735,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2736,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2737,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2738,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2739,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2740,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2741,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2742,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2743,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2744,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2745,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2746,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2747,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2748,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2749,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2750,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2751,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2752,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2753,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2754,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2755,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2756,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2757,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2758,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2759,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2760,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2761,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2762,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2763,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2764,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2765,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2766,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2767,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2768,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2769,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2770,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2771,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2772,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2773,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2774,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2775,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2776,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2777,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2778,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2779,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2780,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2781,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2782,OBJ2000
+norway22150,Strings,Coding,first_last_swap,0,2023-03-30 11:59:29.588,2783,OBJ2000
+norway22150,Strings,Coding,first_last_swap,1,2023-03-30 11:59:29.588,2784,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2785,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2786,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2787,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2788,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2789,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2790,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2791,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2792,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2793,OBJ2000
+norway22150,Strings,Coding,make_out_word,0,2023-03-30 12:46:01.802,2794,OBJ2000
+norway22150,Strings,Coding,make_out_word,1,2023-03-30 12:46:01.802,2795,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2828,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2829,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2830,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2831,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2832,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2833,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2834,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2835,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2836,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2837,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2838,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2839,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2840,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2841,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2842,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,0,2023-03-30 16:19:48.925,2843,OBJ2000
+norway22137,Variables and Operations,Coding,compute_average,1,2023-03-30 16:19:48.925,2844,OBJ2000
+norway22137,Strings,Coding,first_half,0,2023-03-30 17:12:47.857,2845,OBJ2000
+norway22137,Strings,Coding,first_half,0,2023-03-30 17:12:47.857,2846,OBJ2000
+norway22137,Strings,Coding,first_half,0,2023-03-30 17:12:47.857,2847,OBJ2000
+norway22137,Strings,Coding,first_half,1,2023-03-30 17:12:47.857,2848,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2849,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2850,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2851,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2852,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2853,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2854,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2855,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,0,2023-03-30 17:35:41.227,2856,OBJ2000
+norway22137,Boolean Expressions,Coding,love6,1,2023-03-30 17:35:41.227,2857,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_1,1,2023-03-30 18:00:40.686,2858,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2859,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2860,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2861,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2862,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2863,OBJ2000
+norway22137,Objects and Classes,Coding,object_classes_2,0,2023-03-30 18:13:32.962,2864,OBJ2000
+norway22160,Variables and Operations,Coding,second_in_days,0,2023-03-30 19:54:41.019,2893,OBJ2000
+norway22160,Variables and Operations,Coding,second_in_days,0,2023-03-30 19:54:41.019,2894,OBJ2000
+norway22160,Variables and Operations,Coding,second_in_days,0,2023-03-30 19:54:41.019,2895,OBJ2000
+norway22160,Variables and Operations,Coding,second_in_days,0,2023-03-30 19:54:41.019,2896,OBJ2000
+norway22160,Variables and Operations,Coding,second_in_days,1,2023-03-30 19:54:41.019,2897,OBJ2000
+norway22160,Variables and Operations,Coding,days_to_week_conversion,1,2023-03-30 20:01:20.2,2898,OBJ2000
+norway22160,Variables and Operations,Coding,compute_average,0,2023-03-30 20:02:59.59,2899,OBJ2000
+norway22160,Variables and Operations,Coding,compute_average,1,2023-03-30 20:02:59.59,2900,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2901,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2902,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2903,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2904,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2905,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2906,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,0,2023-03-30 20:04:22.439,2907,OBJ2000
+norway22160,Variables and Operations,Coding,percentage_correctness,1,2023-03-30 20:04:22.439,2908,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2992,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2993,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2994,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2995,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2996,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 08:20:06.85,2997,OBJ2000
+norway22110,Variables and Operations,Coding,percentage_correctness,1,2023-03-31 08:20:06.85,2998,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,2999,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3000,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3001,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3002,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3003,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3004,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 08:32:53.788,3005,OBJ2000
+norway22110,Variables and Operations,Coding,days_to_week_conversion,1,2023-03-31 08:32:53.788,3006,OBJ2000
+norway22110,Variables and Operations,Coding,rectangle_perimeter,0,2023-03-31 08:57:45.07,3007,OBJ2000
+norway22110,Variables and Operations,Coding,rectangle_perimeter,0,2023-03-31 08:57:45.07,3008,OBJ2000
+norway22110,Variables and Operations,Coding,rectangle_perimeter,1,2023-03-31 08:57:45.07,3009,OBJ2000
+norway22110,Variables and Operations,Coding,second_in_days,1,2023-03-31 09:32:32.206,3010,OBJ2000
+norway22104,Variables and Operations,Coding,compute_average,0,2023-03-31 13:56:52.964,3098,OBJ2000
+norway22104,Variables and Operations,Coding,compute_average,0,2023-03-31 13:56:52.964,3099,OBJ2000
+norway22104,Variables and Operations,Coding,compute_average,0,2023-03-31 13:56:52.964,3100,OBJ2000
+norway22104,Variables and Operations,Coding,compute_average,1,2023-03-31 13:56:52.964,3101,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3102,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3103,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3104,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3105,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3106,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3107,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3108,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3109,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3110,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3111,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3112,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3113,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3114,OBJ2000
+norway22104,Variables and Operations,Coding,percentage_correctness,0,2023-03-31 14:01:10.067,3115,OBJ2000
+norway22104,Variables and Operations,Coding,second_in_days,0,2023-03-31 14:34:51.64,3146,OBJ2000
+norway22104,Variables and Operations,Coding,second_in_days,1,2023-03-31 14:34:51.64,3147,OBJ2000
+norway22104,Variables and Operations,Coding,days_to_week_conversion,0,2023-03-31 14:36:59.291,3148,OBJ2000
+norway22104,Variables and Operations,Coding,days_to_week_conversion,1,2023-03-31 14:36:59.291,3149,OBJ2000
+norway22104,Variables and Operations,Coding,rectangle_perimeter,1,2023-03-31 14:39:52.224,3150,OBJ2000
+norway22131,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-04-02 00:04:30.795,3298,OBJ2000
+norway22131,Strings,Coding,repeat_last_char,1,2023-04-02 00:23:23.051,3299,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3433,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3434,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3435,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3436,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3437,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3438,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3439,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3440,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3441,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3442,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3443,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3444,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3445,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3446,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3447,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3448,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3449,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3450,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3451,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3452,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3453,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3454,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3455,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3456,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3457,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3458,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3459,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3460,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3461,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3462,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3463,OBJ2000
+norway22175,If-Else,Coding,sortaSum,0,2023-04-03 12:05:03.948,3464,OBJ2000
+norway22175,If-Else,Coding,sortaSum,1,2023-04-03 12:05:03.948,3465,OBJ2000
+norway22107,Variables and Operations,Coding,compute_average,0,2023-04-03 12:39:50.428,3481,OBJ2000
+norway22107,Variables and Operations,Coding,compute_average,1,2023-04-03 12:39:50.428,3482,OBJ2000
+norway22107,Variables and Operations,Coding,percentage_correctness,0,2023-04-03 12:42:24.163,3485,OBJ2000
+norway22107,Variables and Operations,Coding,percentage_correctness,0,2023-04-03 12:42:24.163,3486,OBJ2000
+norway22107,Variables and Operations,Coding,percentage_correctness,1,2023-04-03 12:42:24.163,3487,OBJ2000
+norway22107,Variables and Operations,Coding,days_to_week_conversion,1,2023-04-03 12:47:29.841,3488,OBJ2000
+norway22107,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-03 12:48:39.733,3489,OBJ2000
+norway22107,Variables and Operations,Coding,rectangle_perimeter,1,2023-04-03 12:48:39.733,3490,OBJ2000
+norway22107,Variables and Operations,Coding,second_in_days,1,2023-04-03 12:50:46.692,3491,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_1,1,2023-04-03 13:30:15.313,3519,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3525,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3526,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3527,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3528,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3529,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3530,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 13:37:47.967,3531,OBJ2000
+norway22107,Strings,Coding,is_is_substring_or_ not_is_not_substring,1,2023-04-03 13:37:47.967,3532,OBJ2000
+norway22107,Strings,Coding,end_characters,1,2023-04-03 14:17:49.846,3555,OBJ2000
+norway22107,Strings,Coding,first_half,1,2023-04-03 14:18:04.728,3556,OBJ2000
+norway22107,Strings,Coding,non_start,0,2023-04-03 14:27:21.984,3557,OBJ2000
+norway22107,Strings,Coding,non_start,1,2023-04-03 14:27:21.984,3558,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3559,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3560,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3561,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3562,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3563,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3564,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3565,OBJ2000
+norway22107,Strings,Coding,first_last_swap,0,2023-04-03 14:29:32.535,3566,OBJ2000
+norway22107,Strings,Coding,first_last_swap,1,2023-04-03 14:29:32.535,3567,OBJ2000
+norway22107,Strings,Coding,repeat_last_char,0,2023-04-03 14:49:14.915,3568,OBJ2000
+norway22107,Strings,Coding,repeat_last_char,0,2023-04-03 14:49:14.915,3569,OBJ2000
+norway22107,Strings,Coding,repeat_last_char,1,2023-04-03 14:49:14.915,3570,OBJ2000
+norway22107,Strings,Coding,make_out_word,0,2023-04-03 14:53:11.49,3571,OBJ2000
+norway22107,Strings,Coding,make_out_word,1,2023-04-03 14:53:11.49,3572,OBJ2000
+norway22107,If-Else,Coding,sortaSum,1,2023-04-03 17:09:58.752,3584,OBJ2000
+norway22107,If-Else,Coding,twoAsOne,0,2023-04-03 17:12:30.471,3587,OBJ2000
+norway22107,If-Else,Coding,twoAsOne,1,2023-04-03 17:12:30.471,3588,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3594,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3595,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3596,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3597,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3598,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3599,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3600,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3601,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3602,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3603,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3604,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3605,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3606,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3607,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3608,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3609,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3610,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3611,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3612,OBJ2000
+norway22107,If-Else,Coding,in1To10,0,2023-04-03 17:16:50.55,3613,OBJ2000
+norway22107,If-Else,Coding,in1To10,1,2023-04-03 17:16:50.55,3614,OBJ2000
+norway22107,If-Else,Coding,greenTicket,0,2023-04-03 17:29:42.309,3615,OBJ2000
+norway22107,If-Else,Coding,greenTicket,0,2023-04-03 17:29:42.309,3616,OBJ2000
+norway22107,If-Else,Coding,greenTicket,1,2023-04-03 17:29:42.309,3617,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3618,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3619,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3620,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3621,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3622,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3623,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3624,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3625,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3626,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3627,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3628,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3629,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3630,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3631,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3632,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3633,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3634,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3635,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3636,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3637,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3638,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3639,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3640,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3641,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3642,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3643,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3644,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3645,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3646,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3647,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3648,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3649,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3650,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3651,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3652,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3653,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3654,OBJ2000
+norway22107,If-Else,Coding,without2,0,2023-04-03 17:29:43.379,3655,OBJ2000
+norway22107,If-Else,Coding,without2,1,2023-04-03 17:29:43.379,3656,OBJ2000
+norway22104,Strings,Coding,first_half,0,2023-04-03 18:25:24.843,3659,OBJ2000
+norway22104,Strings,Coding,first_half,0,2023-04-03 18:25:24.843,3660,OBJ2000
+norway22104,Strings,Coding,first_half,0,2023-04-03 18:25:24.843,3661,OBJ2000
+norway22104,Strings,Coding,first_half,1,2023-04-03 18:25:24.843,3662,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3663,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3664,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3665,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3666,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3667,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3668,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3669,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3670,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3671,OBJ2000
+norway22104,Strings,Coding,is_is_substring_or_ not_is_not_substring,0,2023-04-03 18:42:36.441,3672,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3673,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3674,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3675,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3676,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3677,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3678,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3679,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3680,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3681,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3682,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3683,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3684,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3685,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3686,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,0,2023-04-03 18:53:43.077,3687,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_2,1,2023-04-03 18:53:43.077,3688,OBJ2000
+norway22104,Strings,Coding,end_characters,0,2023-04-03 18:55:01.683,3689,OBJ2000
+norway22104,Strings,Coding,end_characters,0,2023-04-03 18:55:01.683,3690,OBJ2000
+norway22104,Strings,Coding,end_characters,0,2023-04-03 18:55:01.683,3691,OBJ2000
+norway22104,Strings,Coding,end_characters,1,2023-04-03 18:55:01.683,3692,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_3,0,2023-04-03 19:56:29.359,3693,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_3,0,2023-04-03 19:56:29.359,3694,OBJ2000
+norway22175,Objects and Classes,Coding,object_classes_3,1,2023-04-03 19:56:29.359,3695,OBJ2000
+norway22160,For Loops,Coding,for1_coding,0,2023-04-03 22:27:15.801,3719,OBJ2000
+norway22160,For Loops,Coding,for1_coding,0,2023-04-03 22:27:15.801,3720,OBJ2000
+norway22160,For Loops,Coding,for1_coding,0,2023-04-03 22:27:15.801,3721,OBJ2000
+norway22160,For Loops,Coding,for1_coding,0,2023-04-03 22:27:15.801,3722,OBJ2000
+norway22160,For Loops,Coding,for1_coding,1,2023-04-03 22:27:15.801,3723,OBJ2000
+norway22160,For Loops,Coding,for2_coding,1,2023-04-03 22:31:11.325,3724,OBJ2000
+norway22160,For Loops,Coding,for3_coding,0,2023-04-03 22:32:47.912,3725,OBJ2000
+norway22160,For Loops,Coding,for3_coding,1,2023-04-03 22:32:47.912,3726,OBJ2000
+norway22160,If-Else,Coding,sortaSum,0,2023-04-03 22:36:12.304,3727,OBJ2000
+norway22160,If-Else,Coding,sortaSum,0,2023-04-03 22:36:12.304,3728,OBJ2000
+norway22160,If-Else,Coding,sortaSum,0,2023-04-03 22:36:12.304,3729,OBJ2000
+norway22160,If-Else,Coding,sortaSum,0,2023-04-03 22:36:12.304,3730,OBJ2000
+norway22160,If-Else,Coding,sortaSum,1,2023-04-03 22:36:12.304,3731,OBJ2000
+norway22175,Variables and Operations,Coding,second_in_days,0,2023-04-04 14:53:52.54,3900,OBJ2000
+norway22175,Variables and Operations,Coding,second_in_days,0,2023-04-04 14:53:52.54,3901,OBJ2000
+norway22175,Variables and Operations,Coding,second_in_days,0,2023-04-04 14:53:52.54,3902,OBJ2000
+norway22175,Variables and Operations,Coding,second_in_days,0,2023-04-04 14:53:52.54,3903,OBJ2000
+norway22175,Variables and Operations,Coding,second_in_days,1,2023-04-04 14:53:52.54,3904,OBJ2000
+norway22175,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-04 15:04:06.867,3906,OBJ2000
+norway22175,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-04 15:04:06.867,3907,OBJ2000
+norway22175,Variables and Operations,Coding,rectangle_perimeter,1,2023-04-04 15:04:06.867,3908,OBJ2000
+norway22175,Strings,Coding,first_half,0,2023-04-04 17:33:21.755,3974,OBJ2000
+norway22175,Strings,Coding,first_half,0,2023-04-04 17:33:21.755,3975,OBJ2000
+norway22175,Strings,Coding,first_half,0,2023-04-04 17:33:21.755,3976,OBJ2000
+norway22175,Strings,Coding,first_half,0,2023-04-04 17:33:21.755,3977,OBJ2000
+norway22175,Strings,Coding,first_half,0,2023-04-04 17:33:21.755,3978,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3979,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3980,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3981,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3982,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3983,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,0,2023-04-04 17:43:41.154,3984,OBJ2000
+norway22175,If-Else,Coding,twoAsOne,1,2023-04-04 17:43:41.154,3985,OBJ2000
+norway22101,Variables and Operations,Coding,second_in_days,0,2023-04-04 23:16:27.772,4050,OBJ2000
+norway22101,Variables and Operations,Coding,second_in_days,0,2023-04-04 23:16:27.772,4051,OBJ2000
+norway22101,Variables and Operations,Coding,second_in_days,0,2023-04-04 23:16:27.772,4052,OBJ2000
+norway22101,Variables and Operations,Coding,second_in_days,0,2023-04-04 23:16:27.772,4053,OBJ2000
+norway22101,Variables and Operations,Coding,second_in_days,0,2023-04-04 23:16:27.772,4054,OBJ2000
+norway22101,Arrays,Coding,arrays_1,0,2023-04-04 23:27:33.076,4055,OBJ2000
+norway22101,Arrays,Coding,arrays_1,1,2023-04-04 23:27:33.076,4056,OBJ2000
+norway22101,Arrays,Coding,arrays_2,0,2023-04-04 23:29:09.186,4057,OBJ2000
+norway22101,Arrays,Coding,arrays_2,1,2023-04-04 23:29:09.186,4058,OBJ2000
+norway22101,Arrays,Coding,fixing_order_of_numbers,0,2023-04-04 23:30:59.299,4059,OBJ2000
+norway22101,Arrays,Coding,fixing_order_of_numbers,0,2023-04-04 23:30:59.299,4060,OBJ2000
+norway22101,Arrays,Coding,fixing_order_of_numbers,0,2023-04-04 23:30:59.299,4061,OBJ2000
+norway22101,Arrays,Coding,fixing_order_of_numbers,0,2023-04-04 23:30:59.299,4062,OBJ2000
+norway22101,Arrays,Coding,fixing_order_of_numbers,1,2023-04-04 23:30:59.299,4063,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4064,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4065,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4066,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4067,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4068,OBJ2000
+norway22109,If-Else,Coding,sortaSum,0,2023-04-04 23:32:31.594,4069,OBJ2000
+norway22101,Arrays,Coding,array_4,0,2023-04-04 23:34:26.026,4070,OBJ2000
+norway22101,Arrays,Coding,array_4,1,2023-04-04 23:34:26.026,4071,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4072,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4073,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4074,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4075,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4076,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4077,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4078,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4079,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4080,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4081,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4082,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4083,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4084,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4085,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4086,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4087,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4088,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4089,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4090,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4091,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4092,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4093,OBJ2000
+norway22101,If-Else,Coding,sortaSum,0,2023-04-04 23:42:17.999,4094,OBJ2000
+norway22109,If-Else,Coding,twoAsOne,0,2023-04-04 23:42:31.405,4095,OBJ2000
+norway22109,If-Else,Coding,twoAsOne,0,2023-04-04 23:42:31.405,4096,OBJ2000
+norway22109,If-Else,Coding,twoAsOne,0,2023-04-04 23:42:31.405,4097,OBJ2000
+norway22109,If-Else,Coding,twoAsOne,0,2023-04-04 23:42:31.405,4098,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4099,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4100,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4101,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4102,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4103,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4104,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4105,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4106,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4107,OBJ2000
+norway22109,Strings,Coding,first_last_swap,0,2023-04-04 23:48:20.925,4108,OBJ2000
+norway22109,Arrays,Coding,arrays_1,1,2023-04-04 23:58:19.406,4109,OBJ2000
+norway22109,Arrays,Coding,arrays_2,0,2023-04-04 23:59:01.165,4110,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4111,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4112,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4113,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4114,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4115,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4116,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4117,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4118,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4119,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4120,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4121,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4122,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4123,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4124,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4125,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4126,OBJ2000
+norway22101,While Loops,Coding,while1_coding,0,2023-04-04 23:59:26.413,4127,OBJ2000
+norway22109,Arrays,Coding,arrays_3,0,2023-04-05 00:00:02.844,4128,OBJ2000
+norway22109,Arrays,Coding,arrays_3,1,2023-04-05 00:00:02.844,4129,OBJ2000
+norway22101,ArrayLists,Coding,array_lst_1,0,2023-04-05 00:00:48.62,4130,OBJ2000
+norway22101,ArrayLists,Coding,array_lst_1,1,2023-04-05 00:00:48.62,4131,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4132,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4133,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4134,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4135,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4136,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4137,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4138,OBJ2000
+norway22101,Inheritance,Coding,inheritance_1,0,2023-04-05 00:03:57.698,4139,OBJ2000
+norway22109,Variables and Operations,Coding,second_in_days,0,2023-04-05 00:12:12.584,4140,OBJ2000
+norway22109,For Loops,Coding,for1_coding,0,2023-04-05 00:14:28.51,4141,OBJ2000
+norway22109,For Loops,Coding,for1_coding,0,2023-04-05 00:14:28.51,4142,OBJ2000
+norway22109,For Loops,Coding,for1_coding,0,2023-04-05 00:14:28.51,4143,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_1,0,2023-04-05 00:14:29.351,4144,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_1,1,2023-04-05 00:14:29.351,4145,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_2,0,2023-04-05 00:15:44.884,4146,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_2,0,2023-04-05 00:15:44.884,4147,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_2,0,2023-04-05 00:15:44.884,4148,OBJ2000
+norway22101,Objects and Classes,Coding,object_classes_2,0,2023-04-05 00:15:44.884,4149,OBJ2000
+norway22109,Boolean Expressions,Coding,love6,0,2023-04-05 00:16:08.976,4150,OBJ2000
+norway22109,Boolean Expressions,Coding,love6,0,2023-04-05 00:16:08.976,4151,OBJ2000
+norway22109,Boolean Expressions,Coding,love6,0,2023-04-05 00:16:08.976,4152,OBJ2000
+norway22109,Boolean Expressions,Coding,love6,0,2023-04-05 00:16:08.976,4153,OBJ2000
+norway22109,Boolean Expressions,Coding,love6,0,2023-04-05 00:16:08.976,4154,OBJ2000
+norway22101,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,0,2023-04-05 00:17:44.476,4155,OBJ2000
+norway22101,Two-Dimensional Arrays,Coding,pcrs_2d_arrays_1,1,2023-04-05 00:17:44.476,4156,OBJ2000
+norway22109,Arrays,Coding,fixing_order_of_numbers,0,2023-04-05 00:18:16.639,4157,OBJ2000
+norway22109,Arrays,Coding,fixing_order_of_numbers,0,2023-04-05 00:18:16.639,4158,OBJ2000
+norway22109,Arrays,Coding,fixing_order_of_numbers,1,2023-04-05 00:18:16.639,4159,OBJ2000
+norway22101,Strings,Coding,first_half,0,2023-04-05 00:18:37.861,4160,OBJ2000
+norway22101,Strings,Coding,first_half,0,2023-04-05 00:18:37.861,4161,OBJ2000
+norway22101,Strings,Coding,first_half,0,2023-04-05 00:18:37.861,4162,OBJ2000
+norway22101,Strings,Coding,first_half,0,2023-04-05 00:18:37.861,4163,OBJ2000
+norway22109,Arrays,Coding,array_4,0,2023-04-05 00:20:28.766,4164,OBJ2000
+norway22109,Arrays,Coding,array_4,0,2023-04-05 00:20:28.766,4165,OBJ2000
+norway22109,Arrays,Coding,array_4,1,2023-04-05 00:20:28.766,4166,OBJ2000
+norway22109,Objects and Classes,Coding,object_classes_1,1,2023-04-05 00:23:18.124,4169,OBJ2000
+norway22109,Objects and Classes,Coding,object_classes_4,1,2023-04-05 00:24:06.033,4170,OBJ2000
+norway22109,Objects and Classes,Coding,object_classes_3,0,2023-04-05 00:24:42.871,4171,OBJ2000
+norway22101,Nested Loops,Coding,nested_loops_1,0,2023-04-05 00:26:08.308,4172,OBJ2000
+norway22101,Nested Loops,Coding,nested_loops_1,1,2023-04-05 00:26:08.308,4173,OBJ2000
+norway22109,Objects and Classes,Coding,object_classes_2,0,2023-04-05 00:26:47.791,4174,OBJ2000
+norway22109,Inheritance,Coding,inheritance_1,1,2023-04-05 00:29:08.816,4175,OBJ2000
+norway22109,Inheritance,Coding,inheritance_2,1,2023-04-05 00:30:15.026,4176,OBJ2000
+norway22101,For Loops,Coding,for1_coding,0,2023-04-05 00:30:46.152,4177,OBJ2000
+norway22109,ArrayLists,Coding,array_lst_1,1,2023-04-05 00:31:47.41,4178,OBJ2000
+norway22101,Arrays,Coding,arrays_3,1,2023-04-05 18:58:25.3,4564,OBJ2000
+norway22160,Arrays,Coding,arrays_1,1,2023-04-05 19:34:13.325,4565,OBJ2000
+norway22160,While Loops,Coding,while1_coding,0,2023-04-05 19:39:23.152,4566,OBJ2000
+norway22160,Boolean Expressions,Coding,love6,1,2023-04-05 19:46:43.671,4568,OBJ2000
+norway22160,Boolean Expressions,Coding,is_special,0,2023-04-05 19:49:22.638,4569,OBJ2000
+norway22160,Boolean Expressions,Coding,is_special,0,2023-04-05 19:49:22.638,4570,OBJ2000
+norway22160,Boolean Expressions,Coding,is_special,0,2023-04-05 19:49:22.638,4571,OBJ2000
+norway22160,ArrayLists,Coding,array_lst_1,0,2023-04-05 19:51:31.369,4572,OBJ2000
+norway22160,Strings,Coding,first_half,0,2023-04-05 19:52:31.407,4573,OBJ2000
+norway22160,Strings,Coding,first_last_swap,0,2023-04-05 19:59:15.22,4574,OBJ2000
+norway22160,Objects and Classes,Coding,object_classes_1,0,2023-04-05 20:01:27.531,4575,OBJ2000
+norway22160,Objects and Classes,Coding,object_classes_1,0,2023-04-05 20:01:27.531,4576,OBJ2000
+norway22160,Objects and Classes,Coding,object_classes_1,0,2023-04-05 20:01:27.531,4577,OBJ2000
+norway22160,Objects and Classes,Coding,object_classes_1,0,2023-04-05 20:01:27.531,4578,OBJ2000
+norway22160,Objects and Classes,Coding,object_classes_1,0,2023-04-05 20:01:27.531,4579,OBJ2000
+norway22160,Nested Loops,Coding,nested_loops_1,1,2023-04-05 20:06:20.714,4580,OBJ2000
+norway22160,Nested Loops,Coding,nested_loops_2,1,2023-04-05 20:08:27.142,4581,OBJ2000
+norway22104,Strings,Coding,non_start,1,2023-04-06 10:21:48.941,4616,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4617,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4618,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4619,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4620,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4621,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4622,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4623,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4624,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4625,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4626,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4627,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4628,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4629,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4630,OBJ2000
+norway22104,Strings,Coding,first_last_swap,0,2023-04-06 11:21:06.988,4631,OBJ2000
+norway22104,Strings,Coding,repeat_last_char,0,2023-04-07 14:13:49.418,4632,OBJ2000
+norway22104,Strings,Coding,repeat_last_char,0,2023-04-07 14:13:49.418,4633,OBJ2000
+norway22104,Strings,Coding,repeat_last_char,0,2023-04-07 14:13:49.418,4634,OBJ2000
+norway22104,Strings,Coding,repeat_last_char,0,2023-04-07 14:13:49.418,4635,OBJ2000
+norway22104,Strings,Coding,repeat_last_char,1,2023-04-07 14:13:49.418,4636,OBJ2000
+norway22104,Strings,Coding,make_out_word,0,2023-04-07 14:33:30.852,4637,OBJ2000
+norway22104,Strings,Coding,make_out_word,1,2023-04-07 14:33:30.852,4638,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4639,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4640,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4641,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4642,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4643,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4644,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4645,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4646,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4647,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4648,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4649,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4650,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4651,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4652,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,0,2023-04-07 16:58:11.468,4653,OBJ2000
+norway22104,Boolean Expressions,Coding,in_order,1,2023-04-07 16:58:11.468,4654,OBJ2000
+norway22104,Boolean Expressions,Coding,squirrel_play,0,2023-04-07 17:49:01.688,4655,OBJ2000
+norway22104,Boolean Expressions,Coding,squirrel_play,0,2023-04-07 17:49:01.688,4656,OBJ2000
+norway22104,Boolean Expressions,Coding,squirrel_play,1,2023-04-07 17:49:01.688,4657,OBJ2000
+norway22150,Boolean Expressions,Coding,love6,1,2023-04-11 10:54:23.069,4658,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4659,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4660,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4661,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4662,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4663,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4664,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4665,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4666,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4667,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4668,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4669,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,0,2023-04-11 10:58:59.062,4670,OBJ2000
+norway22150,Boolean Expressions,Coding,in_order,1,2023-04-11 10:58:59.062,4671,OBJ2000
+norway22150,Boolean Expressions,Coding,squirrel_play,0,2023-04-11 11:10:17.477,4672,OBJ2000
+norway22150,Boolean Expressions,Coding,squirrel_play,0,2023-04-11 11:10:17.477,4673,OBJ2000
+norway22150,Boolean Expressions,Coding,squirrel_play,0,2023-04-11 11:10:17.477,4674,OBJ2000
+norway22150,Boolean Expressions,Coding,squirrel_play,0,2023-04-11 11:10:17.477,4675,OBJ2000
+norway22150,Boolean Expressions,Coding,squirrel_play,1,2023-04-11 11:10:17.477,4676,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4677,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4678,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4679,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4680,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4681,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4682,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4683,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,0,2023-04-11 11:24:25.45,4684,OBJ2000
+norway22150,Boolean Expressions,Coding,is_special,1,2023-04-11 11:24:25.45,4685,OBJ2000
+norway22150,Boolean Expressions,Coding,check_start_end_character,0,2023-04-11 11:34:44.38,4686,OBJ2000
+norway22150,Boolean Expressions,Coding,check_start_end_character,0,2023-04-11 11:34:44.38,4687,OBJ2000
+norway22150,Boolean Expressions,Coding,check_start_end_character,0,2023-04-11 11:34:44.38,4688,OBJ2000
+norway22150,Boolean Expressions,Coding,check_start_end_character,1,2023-04-11 11:34:44.38,4689,OBJ2000
+norway22175,Variables and Operations,Coding,days_to_week_conversion,1,2023-04-11 12:29:52.944,4690,OBJ2000
+norway22175,Variables and Operations,Coding,percentage_correctness,1,2023-04-11 12:30:57.008,4691,OBJ2000
+norway22175,Variables and Operations,Coding,compute_average,0,2023-04-11 12:31:32.162,4692,OBJ2000
+norway22175,Variables and Operations,Coding,compute_average,0,2023-04-11 12:31:32.162,4693,OBJ2000
+norway22175,Variables and Operations,Coding,compute_average,1,2023-04-11 12:31:32.162,4694,OBJ2000
+norway22175,If-Else,Coding,greenTicket,0,2023-04-12 10:18:25.107,4697,OBJ2000
+norway22175,If-Else,Coding,greenTicket,1,2023-04-12 10:18:25.107,4698,OBJ2000
+norway22149,Variables and Operations,Coding,second_in_days,0,2023-04-13 08:13:55.713,4702,OBJ2000
+norway22149,Variables and Operations,Coding,second_in_days,0,2023-04-13 08:13:55.713,4703,OBJ2000
+norway22149,Variables and Operations,Coding,second_in_days,0,2023-04-13 08:13:55.713,4704,OBJ2000
+norway22104,While Loops,Coding,smallest_integer,0,2023-04-13 08:28:10.868,4705,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4706,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4707,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4708,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4709,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4710,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4711,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4712,OBJ2000
+norway22149,Variables and Operations,Coding,rectangle_perimeter,0,2023-04-13 09:57:45.601,4713,OBJ2000
+norway22149,Boolean Expressions,Coding,love6,1,2023-04-13 10:04:24.57,4714,OBJ2000
+norway22149,Boolean Expressions,Coding,is_special,0,2023-04-13 10:05:12.02,4715,OBJ2000
+norway22149,Boolean Expressions,Coding,is_special,1,2023-04-13 10:05:12.02,4716,OBJ2000
+norway22149,Boolean Expressions,Coding,in_order,1,2023-04-13 10:09:32.935,4717,OBJ2000
+norway22149,Boolean Expressions,Coding,check_start_end_character,0,2023-04-13 10:10:14.954,4718,OBJ2000
+norway22149,Boolean Expressions,Coding,check_start_end_character,1,2023-04-13 10:10:14.954,4719,OBJ2000
+norway22149,Boolean Expressions,Coding,squirrel_play,1,2023-04-13 10:12:05.854,4720,OBJ2000
+norway22149,Strings,Coding,first_half,0,2023-04-13 10:13:04.605,4721,OBJ2000
+norway22149,If-Else,Coding,sortaSum,1,2023-04-13 10:14:19.228,4722,OBJ2000
+norway22149,If-Else,Coding,twoAsOne,1,2023-04-13 10:15:10.33,4723,OBJ2000
+norway22149,If-Else,Coding,greenTicket,1,2023-04-13 10:21:16.612,4724,OBJ2000
+norway22149,If-Else,Coding,without2,0,2023-04-13 10:21:48.748,4725,OBJ2000
+norway22149,If-Else,Coding,without2,1,2023-04-13 10:21:48.748,4726,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4727,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4728,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4729,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4730,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4731,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4732,OBJ2000
+norway22150,If-Else,Coding,sortaSum,0,2023-04-13 17:24:50.281,4733,OBJ2000
+norway22150,If-Else,Coding,sortaSum,1,2023-04-13 17:24:50.281,4734,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4735,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4736,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4737,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4738,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4739,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,0,2023-04-13 17:52:27.537,4740,OBJ2000
+norway22150,If-Else,Coding,twoAsOne,1,2023-04-13 17:52:27.537,4741,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4742,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4743,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4744,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4745,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4746,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4747,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4748,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4749,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4750,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4751,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4752,OBJ2000
+norway22150,If-Else,Coding,greenTicket,0,2023-04-13 18:07:18.627,4753,OBJ2000
+norway22150,If-Else,Coding,greenTicket,1,2023-04-13 18:07:18.627,4754,OBJ2000
+norway22150,If-Else,Coding,without2,1,2023-04-13 18:32:19.569,4755,OBJ2000
+norway22150,If-Else,Coding,in1To10,1,2023-04-13 18:54:03.881,4756,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4768,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4769,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4770,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4771,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4772,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4773,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4774,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4775,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4776,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4777,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4778,OBJ2000
+norway22150,While Loops,Coding,while1_coding,0,2023-04-15 12:13:21.612,4779,OBJ2000
+norway22150,While Loops,Coding,while1_coding,1,2023-04-15 12:13:21.612,4780,OBJ2000
+norway22150,While Loops,Coding,while2_coding,0,2023-04-15 12:28:46.884,4781,OBJ2000
+norway22150,While Loops,Coding,while2_coding,1,2023-04-15 12:28:46.884,4782,OBJ2000
+norway22150,While Loops,Coding,while3_coding,0,2023-04-15 12:30:59.301,4783,OBJ2000
+norway22150,While Loops,Coding,while3_coding,1,2023-04-15 12:30:59.301,4784,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4785,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4786,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4787,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4788,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4789,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4790,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4791,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4792,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4793,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4794,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4795,OBJ2000
+norway22150,While Loops,Coding,smallest_integer,0,2023-04-15 12:31:34.793,4796,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4797,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4798,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4799,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4800,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4801,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4802,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4803,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4804,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4805,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4806,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4807,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4808,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4809,OBJ2000
+norway22150,While Loops,Coding,while4_coding,0,2023-04-15 12:38:11.109,4810,OBJ2000
+norway22150,While Loops,Coding,while5_coding,1,2023-04-15 12:43:45.93,4811,OBJ2000
+norway22150,ArrayLists,Coding,array_lst_1,0,2023-04-15 12:54:49.11,4812,OBJ2000
+norway22150,ArrayLists,Coding,array_lst_1,0,2023-04-15 12:54:49.11,4813,OBJ2000
+norway22150,ArrayLists,Coding,array_lst_1,1,2023-04-15 12:54:49.11,4814,OBJ2000
+norway22127,Strings,Coding,first_half,0,2023-04-15 13:35:51.303,4815,OBJ2000
+norway22127,Strings,Coding,first_half,1,2023-04-15 13:35:51.303,4816,OBJ2000
+norway22127,Strings,Coding,make_out_word,0,2023-04-15 13:42:03.159,4817,OBJ2000
+norway22127,Strings,Coding,make_out_word,1,2023-04-15 13:42:03.159,4818,OBJ2000
+norway22127,Strings,Coding,repeat_last_char,1,2023-04-15 14:10:33.658,4819,OBJ2000

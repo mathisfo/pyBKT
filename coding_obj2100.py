@@ -13,26 +13,27 @@ def main():
     # model.fetch_dataset('https://raw.githubusercontent.com/CAHLR/pyBKT-examples/master/data/as.csv', '.')
 
     # load data from csv
-    df = pd.read_csv("data/challenges.csv")
+    df = pd.read_csv("data/Coding_Ext_OBJ2100.csv")
 
     # Train a simple BKT model on one skill in the CT dataset
     # Note that calling fit deletes any previous trained BKT model!
     # model.fit(data_path = 'ct.csv', skills = "Plot imperfect radical")
 
     # model.fit(data_path = 'as.csv', forgets = True, skills = 'Box and Whisker')
-    model.fit(data=df, forgets=False, skills="Strings", multiprior='user_id')
+    model.fit(data=df, forgets=False, skills="Strings")
 
     preds_df = model.predict(data=df)
-    model.params().to_json("challenges_multiprior_forgets_false.json")
 
     # View the trained parameters!
     # print(model.params())
+
+    model.params().to_json("OBJ2100_Strings_coding_ext_basic_F_False.json")
 
     # Save predictions to a CSV file
 
     preds_df[preds_df["skill_name"] == "Strings"][
         ["user_id", "correct", "correct_predictions", "state_predictions"]
-    ].to_csv("challenges_multiprior_forgets_false.csv", index=False)
+    ].to_csv("OBJ2100_Strings_coding_ext_basic_F_False.csv", index=False)
 
 
 if __name__ == "__main__":
