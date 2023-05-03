@@ -1,0 +1,9 @@
+{
+  "value": {
+    "('Strings', 'prior', 'default')": 0.5583792132,
+    "('Strings', 'learns', 'default')": 0.0069077731,
+    "('Strings', 'guesses', 'default')": 0.1806070673,
+    "('Strings', 'slips', 'default')": 0.2029565328,
+    "('Strings', 'forgets', 'default')": 0.062847051
+  }
+}
