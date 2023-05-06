@@ -1,0 +1,394 @@
+user_id,skill_name,type,activityId,correct,attempt_count,successRate,sequence,visited_At,completed_At,order_id,class
+norway22102,Variables and Operations,Challenges,JDecInc3,0,5,0.2,"0,0,0,0,1",2023-03-17 11:24:41.968,2023-03-17 11:27:53.242,3,OBJ2000
+norway22102,Variables and Operations,Challenges,FahrenheitToCelsius,0,2,0.5,"0,1",2023-03-17 11:39:04.788,2023-03-17 11:41:55.868,18,OBJ2000
+norway22102,Variables and Operations,Challenges,DisplayTime2,0,4,0.25,"0,0,0,1",2023-03-17 11:42:06.427,2023-03-17 11:55:26.123,29,OBJ2000
+norway22102,Variables and Operations,Challenges,VendingMachine2,1,1,1,1,2023-03-17 11:55:54.107,2023-03-17 11:58:18.628,47,OBJ2000
+norway22114,Variables and Operations,Challenges,JDecInc2,1,1,1,1,2023-03-17 12:02:58.935,2023-03-17 12:58:25.588,48,OBJ2000
+norway22102,Variables and Operations,Challenges,PythagoreanTheorem2,0,5,0.2,"0,0,0,0,1",2023-03-17 12:24:57.34,2023-03-17 12:26:16.158,68,OBJ2000
+norway22102,Variables and Operations,Challenges,PythagoreanTheorem2,-1,5,0.2,"0,0,0,0,1",2023-03-17 12:24:57.35,2023-03-17 12:26:16.158,69,OBJ2000
+norway22114,Variables and Operations,Challenges,JDecInc3,1,1,1,1,2023-03-17 12:58:58.249,2023-03-17 14:05:51.657,89,OBJ2000
+norway22114,Variables and Operations,Challenges,FahrenheitToCelsius,1,1,1,1,2023-03-17 14:13:07.998,2023-03-17 14:23:19.104,131,OBJ2000
+norway22114,Variables and Operations,Challenges,DisplayTime2,0,6,0.33,"0,0,0,0,1,1",2023-03-17 14:23:27.761,2023-03-17 14:46:57.806,132,OBJ2000
+norway22127,Variables and Operations,Challenges,JDecInc2,0,2,0.5,"0,1",2023-03-17 14:39:22.955,#N/A,158,OBJ2000
+norway22127,Variables and Operations,Challenges,JDecInc3,1,1,1,1,2023-03-17 14:46:09.853,2023-03-17 14:48:02.253,169,OBJ2000
+norway22127,Variables and Operations,Challenges,JDecInc3,-1,1,1,1,2023-03-17 14:46:09.854,2023-03-17 14:48:02.253,170,OBJ2000
+norway22114,Variables and Operations,Challenges,VendingMachine2,1,1,1,1,2023-03-17 14:47:08.236,#N/A,171,OBJ2000
+norway22127,Strings,Challenges,Initials2,0,3,0.33,"0,0,1",2023-03-17 14:52:15.527,2023-03-17 14:57:04.872,174,OBJ2000
+norway22127,Strings,Challenges,Initials3,1,1,1,1,2023-03-17 14:57:10.74,2023-03-17 14:58:34.654,176,OBJ2000
+norway22127,Strings,Challenges,StringAddition2,0,3,0.33,"0,0,1",2023-03-17 14:58:36.271,2023-03-17 15:09:28.831,178,OBJ2000
+norway22127,Strings,Challenges,StringAddition2,-1,3,0.33,"0,0,1",2023-03-17 14:58:36.272,2023-03-17 15:09:28.831,179,OBJ2000
+norway22114,Variables and Operations,Challenges,BmiCalculator2,1,1,1,1,2023-03-17 15:04:23.966,#N/A,181,OBJ2000
+norway22105,Variables and Operations,Challenges,PythagoreanTheorem2,1,1,1,1,2023-03-17 15:05:11.211,2023-03-17 15:07:26.044,183,OBJ2000
+norway22105,Variables and Operations,Challenges,JDecInc2,0,6,0.17,"0,0,0,0,0,1",2023-03-17 15:08:00.05,2023-03-17 15:13:00.911,184,OBJ2000
+norway22105,Variables and Operations,Challenges,JDecInc3,0,2,0.5,"0,1",2023-03-17 15:13:03.375,2023-03-17 15:14:55.89,185,OBJ2000
+norway22105,Variables and Operations,Challenges,FahrenheitToCelsius,0,3,0.33,"0,0,1",2023-03-17 15:15:28.045,2023-03-17 15:16:41.188,186,OBJ2000
+norway22105,Variables and Operations,Challenges,DisplayTime2,0,4,0.25,"0,0,0,1",2023-03-17 15:17:06.656,2023-03-17 15:19:29.647,187,OBJ2000
+norway22105,Variables and Operations,Challenges,VendingMachine2,0,3,0.33,"0,0,1",2023-03-17 15:19:40.504,2023-03-17 15:20:46.994,188,OBJ2000
+norway22105,Variables and Operations,Challenges,BmiCalculator2,0,4,0.25,"0,0,0,1",2023-03-17 15:20:56.516,2023-03-17 15:22:30.511,189,OBJ2000
+norway22105,Variables and Operations,Challenges,BmiCalculator2,-1,4,0.25,"0,0,0,1",2023-03-17 15:20:56.517,2023-03-17 15:22:30.511,190,OBJ2000
+norway22114,Variables and Operations,Challenges,PythagoreanTheorem2,0,6,0.17,"0,0,0,0,0,1",2023-03-17 15:50:44.604,2023-03-20 14:28:06.032,191,OBJ2000
+norway22114,Variables and Operations,Challenges,PythagoreanTheorem2,-1,6,0.17,"0,0,0,0,0,1",2023-03-17 15:50:44.605,2023-03-20 14:28:06.033,192,OBJ2000
+norway22127,Boolean Expressions,Challenges,JPhoneAge2,1,1,1,1,2023-03-17 18:47:52.481,2023-03-17 18:52:01.386,193,OBJ2000
+norway22127,Boolean Expressions,Challenges,JFailCourse2,1,1,1,1,2023-03-17 18:52:03.307,2023-03-17 18:52:56.777,194,OBJ2000
+norway22127,Boolean Expressions,Challenges,JFailCourse3,1,1,1,1,2023-03-17 18:52:56.849,2023-03-17 18:55:03.367,195,OBJ2000
+norway22127,Boolean Expressions,Challenges,JRentCar2,1,1,1,1,2023-03-17 18:55:02.231,2023-03-17 18:57:28.771,196,OBJ2000
+norway22127,Boolean Expressions,Challenges,JRentCar3,1,1,1,1,2023-03-17 18:58:01.018,2023-03-17 18:59:06.168,197,OBJ2000
+norway22127,Boolean Expressions,Challenges,JBooleanDryHot2,1,1,1,1,2023-03-17 18:59:06.479,2023-03-17 19:01:08.069,198,OBJ2000
+norway22127,Boolean Expressions,Challenges,JBooleanDryHot3,1,1,1,1,2023-03-17 19:01:07.099,2023-03-17 19:02:10.298,199,OBJ2000
+norway22127,Boolean Expressions,Challenges,JBooleanDryHot4,1,1,1,1,2023-03-17 19:02:11.767,2023-03-17 19:03:48.72,200,OBJ2000
+norway22127,Boolean Expressions,Challenges,JThreeBoolean2,0,3,0.33,"0,0,1",2023-03-17 19:04:02.029,2023-03-17 19:05:48.861,201,OBJ2000
+norway22127,Boolean Expressions,Challenges,JThreeBoolean3,1,1,1,1,2023-03-17 19:06:10.03,2023-03-17 19:07:41.424,202,OBJ2000
+norway22127,Boolean Expressions,Challenges,JThreeBoolean3,-1,1,1,1,2023-03-17 19:06:10.04,2023-03-17 19:07:41.424,203,OBJ2000
+norway22127,If-Else,Challenges,ifElseOddEven,1,1,1,1,2023-03-17 19:46:11.606,2023-03-17 19:46:48.069,204,OBJ2000
+norway22127,If-Else,Challenges,JIfElseWages2,1,1,1,1,2023-03-17 19:46:49.393,2023-03-17 19:50:03.273,205,OBJ2000
+norway22127,If-Else,Challenges,JIfElseIfGrade2,1,1,1,1,2023-03-17 19:50:16.758,2023-03-17 19:51:12.851,206,OBJ2000
+norway22127,If-Else,Challenges,JNestedIfTemperature2,1,1,1,1,2023-03-17 19:51:34.034,2023-03-17 19:53:47.759,207,OBJ2000
+norway22127,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-03-17 19:53:56.598,2023-03-17 19:54:54.352,208,OBJ2000
+norway22127,If-Else,Challenges,JNestedIfMaxOfThree,-1,1,1,1,2023-03-17 19:53:56.599,2023-03-17 19:54:54.352,209,OBJ2000
+norway22108,If-Else,Challenges,ifElseOddEven,1,1,1,1,2023-03-17 20:13:06.559,2023-03-17 20:14:11.007,211,OBJ2000
+norway22108,If-Else,Challenges,JIfElseWages2,0,9,0.11,"0,0,0,0,0,0,0,0,1",2023-03-17 20:14:12.181,2023-03-17 21:09:38.238,212,OBJ2000
+norway22108,If-Else,Challenges,JIfElseIfGrade2,1,1,1,1,2023-03-17 20:22:23.221,2023-03-17 20:23:22.452,214,OBJ2000
+norway22108,If-Else,Challenges,JNestedIfTemperature2,1,1,1,1,2023-03-17 20:23:25.122,2023-03-17 20:29:03.333,217,OBJ2000
+norway22108,If-Else,Challenges,JNestedIfMaxOfThree,0,2,0.5,"0,1",2023-03-17 20:29:02.991,2023-03-17 21:05:00.502,220,OBJ2000
+norway22127,While Loops,Challenges,JLargestDivisor,1,1,1,1,2023-03-17 20:36:48.876,2023-03-17 20:38:27.473,222,OBJ2000
+norway22127,While Loops,Challenges,JInput2,1,1,1,1,2023-03-17 20:38:28.492,2023-03-17 20:39:52.272,226,OBJ2000
+norway22127,While Loops,Challenges,JInput3,1,1,1,1,2023-03-17 20:39:54.287,2023-03-17 20:41:10.461,227,OBJ2000
+norway22127,While Loops,Challenges,JInput4,0,3,0.33,"0,0,1",2023-03-17 20:41:29.083,2023-03-17 20:44:46.882,228,OBJ2000
+norway22114,Strings,Challenges,Initials2,0,3,0.33,"0,0,1",2023-03-17 22:54:30.016,2023-03-17 22:56:07.692,229,OBJ2000
+norway22114,Strings,Challenges,Initials3,1,1,1,1,2023-03-17 22:56:08.09,2023-03-17 22:57:20.979,230,OBJ2000
+norway22114,Strings,Challenges,StringAddition2,0,5,0.2,"0,0,0,0,1",2023-03-17 22:57:21.566,2023-03-17 23:00:35.117,231,OBJ2000
+norway22114,Strings,Challenges,JEscapeChar2,1,1,1,1,2023-03-17 23:00:34.803,2023-03-17 23:20:37.344,232,OBJ2000
+norway22114,Strings,Challenges,JEscapeChar3,0,4,0.25,"0,0,0,1",2023-03-17 23:01:21.093,#N/A,233,OBJ2000
+norway22114,Strings,Challenges,JStringEqual2,1,1,1,1,2023-03-17 23:01:25.957,2023-03-17 23:15:27.539,234,OBJ2000
+norway22114,Strings,Challenges,JCharAt2,1,1,1,1,2023-03-17 23:15:26.445,2023-03-17 23:16:11.235,235,OBJ2000
+norway22114,Strings,Challenges,JCharAt2,-1,1,1,1,2023-03-17 23:15:26.446,2023-03-17 23:16:11.236,236,OBJ2000
+norway22131,Inheritance,Challenges,AnimalTester2,0,4,0.25,"0,0,0,1",2023-03-18 00:57:49.57,#N/A,237,OBJ2000
+norway22131,Inheritance,Challenges,AnimalTester2,-1,4,0.25,"0,0,0,1",2023-03-18 00:57:49.58,#N/A,238,OBJ2000
+norway22131,Variables and Operations,Challenges,JDecInc3,0,3,0.33,"0,0,1",2023-03-18 01:51:21.377,2023-03-18 01:54:19.445,239,OBJ2000
+norway22131,Variables and Operations,Challenges,BmiCalculator2,0,2,0.5,"0,1",2023-03-18 02:25:07.359,#N/A,240,OBJ2000
+norway22131,Variables and Operations,Challenges,VendingMachine2,0,5,0.2,"0,0,0,0,1",2023-03-18 02:27:59.768,2023-03-18 02:29:16.098,241,OBJ2000
+norway22114,Objects and Classes,Challenges,PointTester2,0,2,0.5,"0,1",2023-03-18 09:13:25.388,2023-03-18 09:20:01.69,242,OBJ2000
+norway22114,Objects and Classes,Challenges,TVTester2,0,4,0.25,"0,0,0,1",2023-03-18 09:20:20.878,2023-03-18 09:25:00.372,243,OBJ2000
+norway22114,Objects and Classes,Challenges,Transactions2,0,3,0.33,"0,0,1",2023-03-18 09:39:42.676,2023-03-18 10:06:05.35,244,OBJ2000
+norway22114,Objects and Classes,Challenges,LoanTester2,1,1,1,1,2023-03-18 10:06:09.44,2023-03-18 10:12:38.511,245,OBJ2000
+norway22114,Objects and Classes,Challenges,LoanTester2,-1,1,1,1,2023-03-18 10:06:09.45,2023-03-18 10:12:38.512,246,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JArrays2dBasic2,1,1,1,1,2023-03-18 10:30:48.599,2023-03-18 10:31:18.753,247,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JArrays2dBasic3,1,1,1,1,2023-03-18 10:31:19.327,2023-03-18 10:31:50.854,248,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JPrintMedalsRowColumnTotal,0,4,0.25,"0,0,0,1",2023-03-18 10:31:59.316,2023-03-18 10:41:29.658,249,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JSodaSurverySodaAvg,0,12,0.08,"0,0,0,0,0,0,0,0,0,0,0,1",2023-03-18 10:41:30.185,2023-03-18 10:59:32.414,250,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JSodaSurverySodaRespondentAvg,0,4,0.25,"0,0,0,1",2023-03-18 10:59:32.374,2023-03-18 11:53:26.48,251,OBJ2000
+norway22114,Two-Dimensional Arrays,Challenges,JSodaSurverySodaRespondentAvg,-1,4,0.25,"0,0,0,1",2023-03-18 10:59:32.375,2023-03-18 11:53:26.49,252,OBJ2000
+norway22131,Two-Dimensional Arrays,Challenges,JArrays2dBasic2,1,1,1,1,2023-03-18 12:31:51.556,2023-03-18 12:32:32.992,253,OBJ2000
+norway22131,Two-Dimensional Arrays,Challenges,JArrays2dBasic2,-1,1,1,1,2023-03-18 12:31:51.557,2023-03-18 12:32:32.992,254,OBJ2000
+norway22127,While Loops,Challenges,JAverageEvenNums,1,1,1,1,2023-03-19 11:49:12.014,2023-03-19 11:50:27.117,358,OBJ2000
+norway22127,While Loops,Challenges,JAverageDouble,1,1,1,1,2023-03-19 11:50:26.385,2023-03-19 11:52:31.113,359,OBJ2000
+norway22127,While Loops,Challenges,JAdjacentConsecutives,1,1,1,1,2023-03-19 11:52:33.328,2023-03-19 11:54:22.703,360,OBJ2000
+norway22127,While Loops,Challenges,JAdjacentGreater,0,2,0.5,"0,1",2023-03-19 11:54:28.149,2023-03-19 11:58:39.422,363,OBJ2000
+norway22127,While Loops,Challenges,JSumDigits,1,1,1,1,2023-03-19 12:01:40.553,2023-03-19 12:03:33.126,367,OBJ2000
+norway22127,While Loops,Challenges,JReverseNumber,1,1,1,1,2023-03-19 12:03:54.599,2023-03-19 12:05:01.026,369,OBJ2000
+norway22127,While Loops,Challenges,JWinPercentageInput,0,4,0.25,"0,0,0,1",2023-03-19 12:05:02.536,2023-03-19 12:08:07.367,371,OBJ2000
+norway22127,While Loops,Challenges,JWinPercentageInput,-1,4,0.25,"0,0,0,1",2023-03-19 12:05:02.537,2023-03-19 12:08:07.367,372,OBJ2000
+norway22127,Objects and Classes,Challenges,PointTester2,0,2,0.5,"0,1",2023-03-19 13:59:02.935,2023-03-19 14:01:24.895,398,OBJ2000
+norway22127,Objects and Classes,Challenges,TVTester2,1,1,1,1,2023-03-19 14:51:58.046,2023-03-19 14:54:13.459,402,OBJ2000
+norway22127,Objects and Classes,Challenges,Transactions2,1,1,1,1,2023-03-19 14:54:15.816,2023-03-19 14:56:23.713,403,OBJ2000
+norway22127,Objects and Classes,Challenges,LoanTester2,1,1,1,1,2023-03-19 14:56:21.941,2023-03-19 14:59:05.536,404,OBJ2000
+norway22127,Objects and Classes,Challenges,LoanTester2,-1,1,1,1,2023-03-19 14:56:21.942,2023-03-19 14:59:05.536,405,OBJ2000
+norway22114,Boolean Expressions,Challenges,JPhoneAge2,0,2,0.5,"0,1",2023-03-19 16:00:36.695,2023-03-19 16:02:35.742,406,OBJ2000
+norway22114,Boolean Expressions,Challenges,JFailCourse2,1,1,1,1,2023-03-19 16:02:36.943,2023-03-19 16:03:19.397,407,OBJ2000
+norway22114,Boolean Expressions,Challenges,JFailCourse3,1,1,1,1,2023-03-19 16:03:19.177,2023-03-19 16:04:19.79,408,OBJ2000
+norway22114,Boolean Expressions,Challenges,JRentCar2,0,2,0.5,"0,1",2023-03-19 16:04:22.348,2023-03-19 16:05:21.215,409,OBJ2000
+norway22114,Boolean Expressions,Challenges,JRentCar3,1,1,1,1,2023-03-19 16:05:21.498,2023-03-19 16:06:18.665,410,OBJ2000
+norway22114,Boolean Expressions,Challenges,JBooleanDryHot2,0,2,0.5,"0,1",2023-03-19 16:06:19.053,2023-03-19 16:09:07.677,411,OBJ2000
+norway22114,Boolean Expressions,Challenges,JBooleanDryHot3,1,1,1,1,2023-03-19 16:09:07.269,2023-03-19 16:09:55.994,412,OBJ2000
+norway22114,Boolean Expressions,Challenges,JBooleanDryHot4,1,1,1,1,2023-03-19 16:09:55.486,2023-03-19 17:21:35.708,413,OBJ2000
+norway22114,Boolean Expressions,Challenges,JThreeBoolean2,0,4,0.25,"0,0,0,1",2023-03-19 17:39:34.122,#N/A,414,OBJ2000
+norway22114,Boolean Expressions,Challenges,JThreeBoolean3,1,1,1,1,2023-03-19 17:48:10.281,2023-03-19 17:49:34.537,415,OBJ2000
+norway22114,Boolean Expressions,Challenges,JThreeBoolean3,-1,1,1,1,2023-03-19 17:48:10.282,2023-03-19 17:49:34.538,416,OBJ2000
+norway22114,If-Else,Challenges,ifElseOddEven,0,2,0.5,"0,1",2023-03-19 18:06:41.619,2023-03-19 18:07:20.426,417,OBJ2000
+norway22114,If-Else,Challenges,JIfElseWages2,0,3,0.33,"0,0,1",2023-03-19 18:07:19.594,#N/A,418,OBJ2000
+norway22108,Boolean Expressions,Challenges,JPhoneAge2,1,1,1,1,2023-03-20 01:19:07.852,2023-03-20 01:19:35.472,465,OBJ2000
+norway22108,Boolean Expressions,Challenges,JFailCourse2,1,1,1,1,2023-03-20 01:19:37.022,2023-03-20 01:19:58.596,466,OBJ2000
+norway22108,Boolean Expressions,Challenges,JBooleanDryHot2,0,3,0.33,"0,0,1",2023-03-20 01:20:04.718,2023-03-20 01:20:38.889,467,OBJ2000
+norway22108,Boolean Expressions,Challenges,JBooleanDryHot2,-1,3,0.33,"0,0,1",2023-03-20 01:20:04.719,2023-03-20 01:20:38.890,468,OBJ2000
+norway22114,File processing,Challenges,JWorkHours2,0,3,0.33,"0,0,1",2023-03-20 10:45:03.392,2023-03-20 10:50:25.338,486,OBJ2000
+norway22114,File processing,Challenges,JInputStat2,0,5,0.2,"0,0,0,0,1",2023-03-20 10:51:11.676,2023-03-28 15:05:23.65,490,OBJ2000
+norway22114,File processing,Challenges,JInputStat2,-1,5,0.2,"0,0,0,0,1",2023-03-20 10:51:11.677,2023-03-28 15:05:23.66,491,OBJ2000
+norway22142,Variables and Operations,Challenges,PythagoreanTheorem2,1,1,1,1,2023-03-20 11:52:06.525,2023-03-20 11:54:19.355,542,OBJ2000
+norway22142,Variables and Operations,Challenges,JDecInc2,1,1,1,1,2023-03-20 11:54:20.818,2023-03-20 12:00:56.36,546,OBJ2000
+norway22142,Variables and Operations,Challenges,BmiCalculator2,0,2,0.5,"0,1",2023-03-20 12:00:59.461,2023-03-20 12:03:47.502,548,OBJ2000
+norway22142,Variables and Operations,Challenges,BmiCalculator2,-1,2,0.5,"0,1",2023-03-20 12:00:59.462,2023-03-20 12:03:47.502,549,OBJ2000
+norway22114,Exception handling,Challenges,JCheckAge2,0,9,0.11,"0,0,0,0,0,0,0,0,1",2023-03-20 12:15:21.786,2023-03-20 12:24:39.986,550,OBJ2000
+norway22114,Exception handling,Challenges,JCheckProductCode2,0,2,0.5,"0,1",2023-03-20 12:40:23.445,2023-03-20 12:42:43.223,551,OBJ2000
+norway22114,Exception handling,Challenges,JCheckProductCode2,-1,2,0.5,"0,1",2023-03-20 12:40:23.446,2023-03-20 12:42:43.224,552,OBJ2000
+norway22114,Arrays,Challenges,JArrayBasic2,1,1,1,1,2023-03-20 12:43:02.811,2023-03-20 13:26:59.68,553,OBJ2000
+norway22114,Arrays,Challenges,JArrayBasic3,1,1,1,1,2023-03-20 13:27:00.39,2023-03-20 13:27:22.411,554,OBJ2000
+norway22114,Arrays,Challenges,JArrayFillUserInput,1,1,1,1,2023-03-20 13:27:22.176,2023-03-20 13:28:14.124,555,OBJ2000
+norway22114,Arrays,Challenges,JArraySwapAdjacentElements,0,4,0.25,"0,0,0,1",2023-03-20 13:28:14.394,2023-03-20 13:43:33.277,556,OBJ2000
+norway22114,Arrays,Challenges,JAverageArrayElements,0,2,0.5,"0,1",2023-03-20 13:43:33.382,2023-03-20 13:46:47.654,557,OBJ2000
+norway22114,Arrays,Challenges,JArrayMin,0,6,0.17,"0,0,0,0,0,1",2023-03-20 13:46:56.332,2023-03-20 13:51:49.885,558,OBJ2000
+norway22142,Nested Loops,Challenges,JRepeatedSequence2,1,1,1,1,2023-03-20 13:47:06.201,2023-03-20 13:47:45.141,559,OBJ2000
+norway22142,Nested Loops,Challenges,JRepeatedSequence2,-1,1,1,1,2023-03-20 13:47:06.202,2023-03-20 13:47:45.141,560,OBJ2000
+norway22114,Arrays,Challenges,JTemperatureListDaysAboveThreshold,0,3,0.33,"0,0,1",2023-03-20 13:51:51.246,2023-03-20 14:01:05.618,561,OBJ2000
+norway22114,Arrays,Challenges,JArrayRotateLeftTwice,0,6,0.17,"0,0,0,0,0,1",2023-03-20 14:01:17.759,2023-03-20 14:04:32.153,562,OBJ2000
+norway22114,Arrays,Challenges,JArrayRotateRight,0,2,0.5,"0,1",2023-03-20 14:04:36.914,2023-03-20 14:07:09.091,563,OBJ2000
+norway22114,Arrays,Challenges,JArrayRotateRightTwice,0,2,0.5,"0,1",2023-03-20 14:08:30.457,2023-03-20 14:09:43.979,564,OBJ2000
+norway22114,Arrays,Challenges,JSearchArrayTotalCounts,0,4,0.25,"0,0,0,1",2023-03-20 14:09:44.767,2023-03-20 14:17:24.204,565,OBJ2000
+norway22142,Arrays,Challenges,JArrayFillUserInput,0,2,0.5,"0,1",2023-03-20 14:12:17.439,2023-03-20 14:13:01.65,566,OBJ2000
+norway22114,Arrays,Challenges,JSearchArrayCountsEach,0,6,0.17,"0,0,0,0,0,1",2023-03-20 14:17:23.901,2023-03-20 14:19:01.088,567,OBJ2000
+norway22114,Arrays,Challenges,JSearchArrayCountsEach,-1,6,0.17,"0,0,0,0,0,1",2023-03-20 14:17:23.902,2023-03-20 14:19:01.089,568,OBJ2000
+norway22114,ArrayLists,Challenges,JVocabulary2,0,2,0.5,"0,1",2023-03-20 14:28:38.335,2023-03-20 14:31:30.11,569,OBJ2000
+norway22114,ArrayLists,Challenges,JVocabulary2,-1,2,0.5,"0,1",2023-03-20 14:28:38.336,2023-03-20 14:31:30.12,570,OBJ2000
+norway22114,Inheritance,Challenges,AnimalTester2,0,3,0.33,"0,0,1",2023-03-20 14:32:28.091,2023-03-20 14:36:30.169,571,OBJ2000
+norway22132,Variables and Operations,Challenges,PythagoreanTheorem2,0,2,0.5,"0,1",2023-03-20 18:15:53.158,2023-03-20 18:17:59.578,581,OBJ2000
+norway22132,Variables and Operations,Challenges,VendingMachine2,0,3,0.33,"0,0,1",2023-03-20 18:18:21.18,2023-03-20 18:25:22.485,582,OBJ2000
+norway22132,Variables and Operations,Challenges,DisplayTime2,0,4,0.25,"0,0,0,1",2023-03-20 18:25:25.726,2023-03-20 18:28:17.205,583,OBJ2000
+norway22132,Variables and Operations,Challenges,BmiCalculator2,0,3,0.33,"0,0,1",2023-03-20 18:28:18.743,2023-03-20 18:29:11.839,584,OBJ2000
+norway22132,Variables and Operations,Challenges,FahrenheitToCelsius,0,2,0.5,"0,1",2023-03-20 18:29:24.939,2023-03-20 18:30:17.281,585,OBJ2000
+norway22132,Variables and Operations,Challenges,FahrenheitToCelsius,-1,2,0.5,"0,1",2023-03-20 18:29:24.940,2023-03-20 18:30:17.281,586,OBJ2000
+norway22138,Strings,Challenges,JCharAt2,0,4,0.25,"0,0,0,1",2023-03-20 20:23:30.184,2023-03-20 20:27:13.955,587,OBJ2000
+norway22138,Strings,Challenges,Initials2,0,4,0.25,"0,0,0,1",2023-03-20 20:28:38.338,2023-03-20 20:33:28.121,588,OBJ2000
+norway22138,Strings,Challenges,JStringEqual2,0,14,0.07,"0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-03-20 20:34:04.39,2023-03-20 20:43:19.18,589,OBJ2000
+norway22138,Strings,Challenges,Initials3,0,2,0.5,"0,1",2023-03-20 20:43:29.932,2023-03-20 20:47:42.041,590,OBJ2000
+norway22138,Strings,Challenges,StringAddition2,0,4,0.25,"0,0,0,1",2023-03-20 20:47:50.092,2023-03-20 20:50:31.705,591,OBJ2000
+norway22138,Strings,Challenges,JEscapeChar2,0,4,0.25,"0,0,0,1",2023-03-20 20:50:33.281,2023-03-20 20:52:10.489,592,OBJ2000
+norway22138,Strings,Challenges,JEscapeChar3,0,7,0.14,"0,0,0,0,0,0,1",2023-03-20 20:52:11.097,2023-03-20 20:54:15.871,593,OBJ2000
+norway22138,Strings,Challenges,JEscapeChar3,-1,7,0.14,"0,0,0,0,0,0,1",2023-03-20 20:52:11.098,2023-03-20 20:54:15.871,594,OBJ2000
+norway22105,Objects and Classes,Challenges,PointTester2,0,5,0.2,"0,0,0,0,1",2023-03-21 11:31:45.196,2023-03-21 11:32:57.998,599,OBJ2000
+norway22105,Objects and Classes,Challenges,TVTester2,0,3,0.33,"0,0,1",2023-03-21 11:32:57.894,2023-03-21 11:33:57.541,600,OBJ2000
+norway22105,Objects and Classes,Challenges,LoanTester2,0,2,0.5,"0,1",2023-03-21 11:33:58.158,2023-03-21 11:34:53.834,601,OBJ2000
+norway22105,Objects and Classes,Challenges,Transactions2,0,4,0.25,"0,0,0,1",2023-03-21 11:34:52.637,2023-03-21 11:35:40.485,602,OBJ2000
+norway22105,Objects and Classes,Challenges,Transactions2,-1,4,0.25,"0,0,0,1",2023-03-21 11:34:52.638,2023-03-21 11:35:40.485,603,OBJ2000
+norway22110,Variables and Operations,Challenges,JDecInc2,0,7,0.29,"0,0,1,0,0,0,1",2023-03-21 13:15:24.606,2023-03-21 13:50:16.812,614,OBJ2000
+norway22110,Variables and Operations,Challenges,JDecInc3,0,2,1,"1,1",2023-03-21 13:50:42.42,2023-03-21 13:55:37.008,618,OBJ2000
+norway22110,Variables and Operations,Challenges,FahrenheitToCelsius,0,4,0.25,"0,0,0,1",2023-03-21 14:26:35.395,2023-03-21 14:32:47.817,619,OBJ2000
+norway22110,Variables and Operations,Challenges,DisplayTime2,0,7,0.14,"0,0,0,0,0,0,1",2023-03-21 14:33:16.033,2023-03-21 15:19:22.185,620,OBJ2000
+norway22114,If-Else,Challenges,JIfElseIfGrade2,1,1,1,1,2023-03-22 08:58:32.301,2023-03-22 09:06:59.096,650,OBJ2000
+norway22114,If-Else,Challenges,JNestedIfTemperature2,1,1,1,1,2023-03-22 09:06:57.979,2023-03-22 09:08:37.87,651,OBJ2000
+norway22114,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-03-22 09:08:38.123,2023-03-22 09:09:55.135,652,OBJ2000
+norway22114,If-Else,Challenges,JNestedIfMaxOfThree,-1,1,1,1,2023-03-22 09:08:38.124,2023-03-22 09:09:55.136,653,OBJ2000
+norway22114,While Loops,Challenges,JLargestDivisor,0,3,0.33,"0,0,1",2023-03-22 09:10:58.501,2023-03-22 09:12:31.468,654,OBJ2000
+norway22114,While Loops,Challenges,JInput2,0,2,0.5,"0,1",2023-03-22 09:12:30.953,2023-03-22 09:13:59.538,655,OBJ2000
+norway22114,While Loops,Challenges,JInput3,1,1,1,1,2023-03-22 09:13:59.199,2023-03-22 09:15:14.034,656,OBJ2000
+norway22114,While Loops,Challenges,JInput4,1,1,1,1,2023-03-22 09:15:14.013,2023-03-22 09:16:16.395,657,OBJ2000
+norway22114,While Loops,Challenges,JAverageEvenNums,0,3,0.33,"0,0,1",2023-03-22 09:16:16.221,2023-03-22 09:20:14.181,658,OBJ2000
+norway22114,While Loops,Challenges,JAverageDouble,1,1,1,1,2023-03-22 09:26:52.144,2023-03-22 09:29:28.769,659,OBJ2000
+norway22114,While Loops,Challenges,JAdjacentConsecutives,1,1,1,1,2023-03-22 09:29:28.928,2023-03-22 10:05:02.437,660,OBJ2000
+norway22114,While Loops,Challenges,JAdjacentGreater,0,6,0.17,"0,0,0,0,0,1",2023-03-22 10:05:02.592,2023-03-22 10:14:56.346,661,OBJ2000
+norway22114,While Loops,Challenges,JSumDigits,1,1,1,1,2023-03-22 10:14:56.519,2023-03-22 10:16:44.823,662,OBJ2000
+norway22114,While Loops,Challenges,JReverseNumber,1,1,1,1,2023-03-22 10:16:44.11,2023-03-22 10:19:15.088,663,OBJ2000
+norway22114,While Loops,Challenges,JWinPercentageInput,0,4,0.25,"0,0,0,1",2023-03-22 10:19:14.952,2023-03-22 10:21:46.79,664,OBJ2000
+norway22114,While Loops,Challenges,JWinPercentageWonEqual,1,1,1,1,2023-03-22 10:21:46.515,2023-03-22 10:27:21.811,665,OBJ2000
+norway22114,While Loops,Challenges,JWinPercentageWonEqual,-1,1,1,1,2023-03-22 10:21:46.516,2023-03-22 10:27:21.812,666,OBJ2000
+norway22114,For Loops,Challenges,JForOne2,0,4,0.25,"0,0,0,1",2023-03-22 10:28:41.828,2023-03-22 10:30:25.198,667,OBJ2000
+norway22114,For Loops,Challenges,JForTwo2,1,1,1,1,2023-03-22 10:30:24.644,2023-03-22 10:30:51.638,668,OBJ2000
+norway22114,For Loops,Challenges,JForThree2,1,1,1,1,2023-03-22 10:30:52.056,2023-03-22 10:31:22.823,669,OBJ2000
+norway22114,For Loops,Challenges,JWriteSquaresOdd,1,1,1,1,2023-03-22 10:31:46.471,2023-03-22 10:32:46.135,670,OBJ2000
+norway22114,For Loops,Challenges,JWriteSquaresRange,0,5,0.2,"0,0,0,0,1",2023-03-22 10:32:47.022,2023-03-23 07:46:16.453,671,OBJ2000
+norway22114,For Loops,Challenges,JWriteSquaresRange,-1,5,0.2,"0,0,0,0,1",2023-03-22 10:32:47.023,2023-03-23 07:46:16.454,672,OBJ2000
+norway22109,Variables and Operations,Challenges,JDecInc2,0,5,0.2,"0,0,0,0,1",2023-03-26 07:54:57.508,2023-04-05 00:08:16.67,806,OBJ2000
+norway22102,If-Else,Challenges,JIfElseWages2,1,1,1,1,2023-03-27 14:19:44.919,2023-03-27 14:27:27.492,842,OBJ2000
+norway22102,If-Else,Challenges,JIfElseIfGrade2,0,2,0.5,"0,1",2023-03-27 15:54:58.874,2023-03-27 15:56:35.548,843,OBJ2000
+norway22102,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-03-27 16:16:26.079,2023-03-27 16:18:36.681,844,OBJ2000
+norway22102,If-Else,Challenges,JNestedIfMaxOfThree,-1,1,1,1,2023-03-27 16:16:26.080,2023-03-27 16:18:36.681,845,OBJ2000
+norway22102,While Loops,Challenges,JInput2,1,1,1,1,2023-03-27 16:41:56.606,2023-03-27 16:50:13.615,846,OBJ2000
+norway22102,While Loops,Challenges,JInput3,0,5,0.4,"0,0,0,1,1",2023-03-27 16:50:14.149,2023-03-27 18:50:43.018,847,OBJ2000
+norway22102,While Loops,Challenges,JInput4,0,3,0.33,"0,0,1",2023-03-27 18:52:24.946,2023-03-27 18:56:58.859,848,OBJ2000
+norway22102,While Loops,Challenges,JAverageEvenNums,0,5,0.2,"0,0,0,0,1",2023-03-27 18:57:08.504,#N/A,849,OBJ2000
+norway22102,While Loops,Challenges,JAverageDouble,0,3,0.33,"0,0,1",2023-03-27 19:54:12.748,#N/A,850,OBJ2000
+norway22102,While Loops,Challenges,JAverageDouble,-1,3,0.33,"0,0,1",2023-03-27 19:54:12.749,#N/A,851,OBJ2000
+norway22112,Variables and Operations,Challenges,JDecInc3,0,5,0.2,"0,0,0,0,1",2023-03-27 21:02:02.99,2023-03-27 21:06:32.402,852,OBJ2000
+norway22112,Variables and Operations,Challenges,JDecInc2,0,4,0.25,"0,0,0,1",2023-03-27 21:11:33.1,2023-03-27 21:15:34.221,853,OBJ2000
+norway22112,Variables and Operations,Challenges,JDecInc2,-1,4,0.25,"0,0,0,1",2023-03-27 21:11:33.2,2023-03-27 21:15:34.222,854,OBJ2000
+norway22150,Variables and Operations,Challenges,BmiCalculator2,0,3,0.33,"0,0,1",2023-03-27 22:08:07.067,2023-03-27 22:10:25.961,855,OBJ2000
+norway22150,Variables and Operations,Challenges,PythagoreanTheorem2,0,5,0.2,"0,0,0,0,1",2023-03-27 22:10:34.297,2023-03-27 22:26:47.181,856,OBJ2000
+norway22150,Variables and Operations,Challenges,FahrenheitToCelsius,1,1,1,1,2023-03-27 22:13:03.905,2023-03-27 22:14:03.628,857,OBJ2000
+norway22150,Variables and Operations,Challenges,VendingMachine2,0,3,0.33,"0,0,1",2023-03-27 22:14:05.825,2023-03-27 22:17:05.775,858,OBJ2000
+norway22150,Variables and Operations,Challenges,DisplayTime2,0,6,0.17,"0,0,0,0,0,1",2023-03-27 22:17:07.83,2023-03-27 22:26:23.909,859,OBJ2000
+norway22150,Variables and Operations,Challenges,JDecInc2,0,3,0.33,"0,0,1",2023-03-27 22:19:29.584,2023-03-27 22:21:24,860,OBJ2000
+norway22150,Variables and Operations,Challenges,JDecInc3,0,3,0.33,"0,0,1",2023-03-27 22:21:24.448,2023-03-27 22:22:31.053,861,OBJ2000
+norway22150,Variables and Operations,Challenges,JDecInc3,-1,3,0.33,"0,0,1",2023-03-27 22:21:24.449,2023-03-27 22:22:31.053,862,OBJ2000
+norway22114,Inheritance,Challenges,InheritancePointTester2,0,2,0.5,"0,1",2023-03-28 14:48:01.922,2023-03-28 14:51:42.919,930,OBJ2000
+norway22114,Inheritance,Challenges,InheritancePointTester2,-1,2,0.5,"0,1",2023-03-28 14:48:01.923,2023-03-28 14:51:42.920,931,OBJ2000
+norway22150,Strings,Challenges,JStringEqual2,0,5,0.2,"0,0,0,0,1",2023-03-29 18:52:55.779,2023-03-29 18:58:30.678,1012,OBJ2000
+norway22150,Strings,Challenges,JCharAt2,0,2,1,"1,1",2023-03-29 18:58:32.216,2023-03-29 19:16:03.952,1013,OBJ2000
+norway22150,Strings,Challenges,JEscapeChar3,0,6,0.17,"0,0,0,0,0,1",2023-03-29 19:16:05.421,#N/A,1014,OBJ2000
+norway22150,Strings,Challenges,JEscapeChar2,0,8,0.12,"0,0,0,0,0,0,0,1",2023-03-29 21:08:26.654,2023-03-29 21:10:29.647,1024,OBJ2000
+norway22150,Strings,Challenges,Initials3,1,1,1,1,2023-03-29 21:10:31.725,2023-03-29 21:12:16.004,1025,OBJ2000
+norway22150,Strings,Challenges,Initials2,1,1,1,1,2023-03-29 21:12:16.37,2023-03-29 21:13:57.327,1026,OBJ2000
+norway22150,Strings,Challenges,StringAddition2,0,2,0.5,"0,1",2023-03-29 21:13:57.223,2023-03-29 21:14:50.986,1027,OBJ2000
+norway22150,Strings,Challenges,StringAddition2,-1,2,0.5,"0,1",2023-03-29 21:13:57.224,2023-03-29 21:14:50.986,1028,OBJ2000
+norway22137,Variables and Operations,Challenges,PythagoreanTheorem2,0,3,0.33,"0,0,1",2023-03-30 15:59:16.196,2023-03-30 16:00:51.967,1035,OBJ2000
+norway22137,Variables and Operations,Challenges,JDecInc2,0,4,0.25,"0,0,0,1",2023-03-30 16:00:53.847,2023-03-30 16:03:06.589,1036,OBJ2000
+norway22137,Variables and Operations,Challenges,FahrenheitToCelsius,0,5,0.2,"0,0,0,0,1",2023-03-30 16:03:12.306,2023-03-30 16:09:47.15,1037,OBJ2000
+norway22137,Variables and Operations,Challenges,BmiCalculator2,0,6,0.17,"0,0,0,0,0,1",2023-03-30 16:03:17.396,2023-03-30 16:17:39.01,1038,OBJ2000
+norway22137,Strings,Challenges,Initials2,0,2,0,0,2023-03-30 16:04:07.535,#N/A,1039,OBJ2000
+norway22137,Strings,Challenges,Initials2,-1,2,0,0,2023-03-30 16:04:07.536,#N/A,1040,OBJ2000
+norway22137,Variables and Operations,Challenges,JDecInc3,1,1,1,1,2023-03-30 16:10:07.084,2023-03-30 16:11:26.512,1041,OBJ2000
+norway22137,Variables and Operations,Challenges,JDecInc3,-1,1,1,1,2023-03-30 16:10:07.085,2023-03-30 16:11:26.512,1042,OBJ2000
+norway22160,Variables and Operations,Challenges,JDecInc2,0,2,0.5,"0,1",2023-03-30 19:44:14.702,2023-03-30 19:46:12.927,1043,OBJ2000
+norway22160,Variables and Operations,Challenges,FahrenheitToCelsius,0,2,0.5,"0,1",2023-03-30 19:46:19.867,2023-03-30 19:48:53.449,1044,OBJ2000
+norway22160,Variables and Operations,Challenges,BmiCalculator2,0,3,0.33,"0,0,1",2023-03-30 19:48:59.751,2023-03-30 19:50:35.249,1045,OBJ2000
+norway22160,Variables and Operations,Challenges,DisplayTime2,0,5,0.2,"0,0,0,0,1",2023-03-30 19:50:35.734,2023-03-30 19:52:40.31,1046,OBJ2000
+norway22160,Variables and Operations,Challenges,VendingMachine2,0,2,0.5,"0,1",2023-03-30 19:52:48.8,2023-03-30 19:54:14.18,1047,OBJ2000
+norway22160,Variables and Operations,Challenges,VendingMachine2,-1,2,0.5,"0,1",2023-03-30 19:52:48.9,2023-03-30 19:54:14.18,1048,OBJ2000
+norway22137,Boolean Expressions,Challenges,JThreeBoolean2,0,3,0.33,"0,0,1",2023-03-30 21:05:01.359,2023-03-30 21:25:06.051,1049,OBJ2000
+norway22137,Boolean Expressions,Challenges,JThreeBoolean3,1,1,1,1,2023-03-30 21:25:14.494,2023-03-30 21:28:22.414,1050,OBJ2000
+norway22137,Boolean Expressions,Challenges,JBooleanDryHot2,1,1,1,1,2023-03-30 21:38:53.194,2023-03-30 21:44:57.782,1051,OBJ2000
+norway22137,Boolean Expressions,Challenges,JFailCourse2,0,5,0.2,"0,0,0,0,1",2023-03-30 21:45:00.758,2023-03-30 21:52:05.13,1052,OBJ2000
+norway22137,Boolean Expressions,Challenges,JRentCar2,0,2,0.5,"0,1",2023-03-30 21:52:07.903,2023-03-30 21:55:13.089,1053,OBJ2000
+norway22137,Boolean Expressions,Challenges,JPhoneAge2,1,1,1,1,2023-03-30 21:55:15.546,2023-03-30 22:04:15.168,1054,OBJ2000
+norway22137,Boolean Expressions,Challenges,JPhoneAge2,-1,1,1,1,2023-03-30 21:55:15.547,2023-03-30 22:04:15.168,1055,OBJ2000
+norway22104,Variables and Operations,Challenges,PythagoreanTheorem2,0,2,0.5,"0,1",2023-03-31 10:51:40.626,2023-03-31 11:01:35.517,1056,OBJ2000
+norway22104,Variables and Operations,Challenges,BmiCalculator2,1,1,1,1,2023-03-31 11:01:37.97,2023-03-31 11:04:34.35,1057,OBJ2000
+norway22104,Variables and Operations,Challenges,VendingMachine2,0,4,0.25,"0,0,0,1",2023-03-31 11:04:35.815,2023-03-31 11:15:15.011,1058,OBJ2000
+norway22104,Variables and Operations,Challenges,DisplayTime2,0,3,0.67,"2000,1,1",2023-03-31 11:18:21.401,2023-03-31 11:28:02.941,1059,OBJ2000
+norway22104,Variables and Operations,Challenges,FahrenheitToCelsius,0,2,0.5,"0,1",2023-03-31 13:21:13.93,2023-03-31 13:26:21.658,1090,OBJ2000
+norway22104,Variables and Operations,Challenges,JDecInc3,0,3,0.33,"0,0,1",2023-03-31 13:26:28.806,2023-03-31 13:32:22.122,1100,OBJ2000
+norway22104,Variables and Operations,Challenges,JDecInc2,1,1,1,1,2023-03-31 13:41:08.84,2023-03-31 13:56:41.409,1114,OBJ2000
+norway22104,Variables and Operations,Challenges,JDecInc2,-1,1,1,1,2023-03-31 13:41:08.85,2023-03-31 13:56:41.409,1115,OBJ2000
+norway22104,Strings,Challenges,JCharAt2,0,2,1,"1,1",2023-03-31 14:46:41.333,2023-03-31 15:22:41.946,1157,OBJ2000
+norway22104,Strings,Challenges,JStringEqual2,1,1,1,1,2023-03-31 15:23:06.133,2023-03-31 15:24:42.425,1158,OBJ2000
+norway22104,Strings,Challenges,JEscapeChar3,0,2,0.5,"0,1",2023-03-31 15:24:43.129,2023-03-31 15:37:05.894,1159,OBJ2000
+norway22104,Strings,Challenges,JEscapeChar2,1,1,1,1,2023-03-31 15:37:07.274,2023-03-31 15:39:03.603,1160,OBJ2000
+norway22104,Strings,Challenges,StringAddition2,0,2,0.5,"0,1",2023-03-31 15:39:04.545,2023-03-31 15:46:14.871,1161,OBJ2000
+norway22104,Strings,Challenges,Initials3,1,1,1,1,2023-03-31 15:46:15.647,2023-04-01 10:51:20.403,1162,OBJ2000
+norway22175,If-Else,Challenges,JNestedIfMaxOfThree,0,4,0.25,"0,0,0,1",2023-03-31 16:40:21.918,2023-03-31 16:45:09.994,1165,OBJ2000
+norway22175,If-Else,Challenges,ifElseOddEven,0,5,0.2,"0,0,0,0,1",2023-03-31 16:45:14.791,2023-03-31 16:50:51.424,1166,OBJ2000
+norway22175,If-Else,Challenges,JIfElseWages2,0,12,0.08,"0,0,0,0,0,0,0,0,0,0,0,1",2023-03-31 16:50:53.491,2023-04-03 12:00:19.196,1167,OBJ2000
+norway22131,Nested Loops,Challenges,JRepeatedSequence2,0,8,0.12,"0,0,0,0,0,0,0,1",2023-04-01 23:42:38.448,2023-04-01 23:44:42.529,1181,OBJ2000
+norway22131,Nested Loops,Challenges,JStars2,0,2,0.5,"0,1",2023-04-01 23:44:46.943,2023-04-01 23:46:32.998,1183,OBJ2000
+norway22131,Nested Loops,Challenges,JStars2,-1,2,0.5,"0,1",2023-04-01 23:44:46.944,2023-04-01 23:46:32.998,1184,OBJ2000
+norway22131,Strings,Challenges,JEscapeChar2,0,5,0.2,"0,0,0,0,1",2023-04-01 23:59:17.129,2023-04-01 23:59:44.212,1192,OBJ2000
+norway22131,Strings,Challenges,JEscapeChar3,0,9,0.11,"0,0,0,0,0,0,0,0,1",2023-04-01 23:59:44.8,2023-04-02 00:02:46.756,1193,OBJ2000
+norway22131,Strings,Challenges,JEscapeChar3,-1,9,0.11,"0,0,0,0,0,0,0,0,1",2023-04-01 23:59:44.9,2023-04-02 00:02:46.756,1194,OBJ2000
+norway22175,If-Else,Challenges,JNestedIfTemperature2,0,2,0.5,"0,1",2023-04-03 12:00:20.507,2023-04-03 12:02:59.947,1270,OBJ2000
+norway22175,If-Else,Challenges,JIfElseIfGrade2,0,3,0.33,"0,0,1",2023-04-03 12:03:00.887,2023-04-03 12:04:49.428,1271,OBJ2000
+norway22175,If-Else,Challenges,JIfElseIfGrade2,-1,3,0.33,"0,0,1",2023-04-03 12:03:00.888,2023-04-03 12:04:49.428,1272,OBJ2000
+norway22107,Variables and Operations,Challenges,FahrenheitToCelsius,0,3,0.33,"0,0,1",2023-04-03 12:23:16.952,2023-04-03 12:24:57.949,1276,OBJ2000
+norway22107,Variables and Operations,Challenges,JDecInc2,1,1,1,1,2023-04-03 12:24:57.291,2023-04-03 12:27:05.542,1277,OBJ2000
+norway22107,Variables and Operations,Challenges,JDecInc3,1,1,1,1,2023-04-03 12:27:08.393,2023-04-03 12:28:38.019,1278,OBJ2000
+norway22107,Variables and Operations,Challenges,BmiCalculator2,1,1,1,1,2023-04-03 12:28:38.864,2023-04-03 12:29:40.489,1279,OBJ2000
+norway22107,Variables and Operations,Challenges,DisplayTime2,0,5,0.2,"0,0,0,0,1",2023-04-03 12:30:03.982,2023-04-03 12:34:50.494,1280,OBJ2000
+norway22107,Variables and Operations,Challenges,PythagoreanTheorem2,1,1,1,1,2023-04-03 12:34:52.845,2023-04-03 12:36:32.937,1286,OBJ2000
+norway22107,Variables and Operations,Challenges,VendingMachine2,1,1,1,1,2023-04-03 12:36:31.357,2023-04-03 12:38:37.419,1289,OBJ2000
+norway22107,Variables and Operations,Challenges,VendingMachine2,-1,1,1,1,2023-04-03 12:36:31.358,2023-04-03 12:38:37.419,1290,OBJ2000
+norway22175,Objects and Classes,Challenges,LoanTester2,0,26,0.04,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-03 12:47:23.47,2023-04-03 12:57:48.009,1293,OBJ2000
+norway22175,Objects and Classes,Challenges,Transactions2,0,3,0.33,"0,0,1",2023-04-03 13:00:11.066,2023-04-03 13:00:39.714,1307,OBJ2000
+norway22175,Objects and Classes,Challenges,TVTester2,0,19,0.05,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-03 13:00:40.2,2023-04-03 13:04:58.369,1308,OBJ2000
+norway22175,Objects and Classes,Challenges,PointTester2,0,7,0.14,"0,0,0,0,0,0,1",2023-04-03 13:04:58.403,2023-04-03 13:05:31.936,1310,OBJ2000
+norway22175,Objects and Classes,Challenges,PointTester2,-1,7,0.14,"0,0,0,0,0,0,1",2023-04-03 13:04:58.404,2023-04-03 13:05:31.936,1311,OBJ2000
+norway22107,Strings,Challenges,JCharAt2,1,1,1,1,2023-04-03 13:26:20.186,2023-04-03 13:27:12.905,1314,OBJ2000
+norway22107,Strings,Challenges,JStringEqual2,0,2,0.5,"0,1",2023-04-03 13:27:11.565,2023-04-03 13:28:11.29,1315,OBJ2000
+norway22107,Strings,Challenges,Initials2,0,2,0.5,"0,1",2023-04-03 13:28:09.402,2023-04-03 13:29:25.827,1316,OBJ2000
+norway22107,Strings,Challenges,JEscapeChar3,0,2,0.5,"0,1",2023-04-03 13:29:24.462,2023-04-03 13:31:28.929,1317,OBJ2000
+norway22107,Strings,Challenges,JEscapeChar2,1,1,1,1,2023-04-03 13:31:31.266,2023-04-03 13:32:18.774,1318,OBJ2000
+norway22107,Strings,Challenges,Initials3,1,1,1,1,2023-04-03 13:32:17.775,2023-04-03 13:33:24.149,1319,OBJ2000
+norway22107,Strings,Challenges,StringAddition2,1,1,1,1,2023-04-03 13:33:22.535,2023-04-03 13:34:14.45,1320,OBJ2000
+norway22107,Strings,Challenges,StringAddition2,-1,1,1,1,2023-04-03 13:33:22.536,2023-04-03 13:34:14.45,1321,OBJ2000
+norway22107,If-Else,Challenges,ifElseOddEven,1,1,1,1,2023-04-03 17:02:22.606,2023-04-03 17:02:52.776,1364,OBJ2000
+norway22107,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-04-03 17:02:50.476,2023-04-03 17:03:33.307,1365,OBJ2000
+norway22107,If-Else,Challenges,JIfElseWages2,1,1,1,1,2023-04-03 17:03:33.193,2023-04-03 17:06:56.257,1366,OBJ2000
+norway22107,If-Else,Challenges,JNestedIfTemperature2,0,2,0.5,"0,1",2023-04-03 17:06:56.187,2023-04-03 17:08:43.918,1367,OBJ2000
+norway22107,If-Else,Challenges,JIfElseIfGrade2,1,1,1,1,2023-04-03 17:08:41.576,2023-04-03 17:09:54.488,1369,OBJ2000
+norway22107,If-Else,Challenges,JIfElseIfGrade2,-1,1,1,1,2023-04-03 17:08:41.577,2023-04-03 17:09:54.488,1370,OBJ2000
+norway22104,Strings,Challenges,Initials2,1,1,1,1,2023-04-03 18:22:02.688,2023-04-03 18:24:11.371,1373,OBJ2000
+norway22104,Strings,Challenges,Initials2,-1,1,1,1,2023-04-03 18:22:02.689,2023-04-03 18:24:11.371,1374,OBJ2000
+norway22160,For Loops,Challenges,JForOne2,0,2,0.5,"0,1",2023-04-03 22:24:27.837,2023-04-03 22:25:04.387,1378,OBJ2000
+norway22160,For Loops,Challenges,JForTwo2,1,1,1,1,2023-04-03 22:25:06.363,2023-04-03 22:25:37.36,1379,OBJ2000
+norway22160,For Loops,Challenges,JWriteSquaresRange,0,2,0.5,"0,1",2023-04-03 22:25:37.912,2023-04-03 22:26:20.206,1380,OBJ2000
+norway22160,For Loops,Challenges,JWriteSquaresRange,-1,2,0.5,"0,1",2023-04-03 22:25:37.913,2023-04-03 22:26:20.206,1381,OBJ2000
+norway22101,Variables and Operations,Challenges,JDecInc2,0,2,1,"1,1",2023-04-04 23:00:11.356,2023-04-04 23:04:57.793,1496,OBJ2000
+norway22101,Variables and Operations,Challenges,JDecInc3,0,2,0.5,"0,1",2023-04-04 23:05:11.837,2023-04-04 23:05:50.336,1497,OBJ2000
+norway22101,Variables and Operations,Challenges,PythagoreanTheorem2,0,3,0.33,"0,0,1",2023-04-04 23:05:51.584,2023-04-04 23:06:38.059,1498,OBJ2000
+norway22101,Variables and Operations,Challenges,FahrenheitToCelsius,0,10,0.2,"0,0,0,0,0,0,0,0,1,1",2023-04-04 23:06:37.297,2023-04-04 23:08:03.394,1499,OBJ2000
+norway22101,Variables and Operations,Challenges,DisplayTime2,0,5,0.2,"0,0,0,0,1",2023-04-04 23:08:54.73,2023-04-04 23:09:56.436,1500,OBJ2000
+norway22101,Variables and Operations,Challenges,VendingMachine2,0,3,0.33,"0,0,1",2023-04-04 23:09:59.126,2023-04-04 23:10:35.22,1501,OBJ2000
+norway22101,Variables and Operations,Challenges,BmiCalculator2,0,16,0.06,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-04 23:10:35.167,2023-04-04 23:13:39.217,1502,OBJ2000
+norway22101,Variables and Operations,Challenges,BmiCalculator2,-1,16,0.06,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-04 23:10:35.168,2023-04-04 23:13:39.217,1503,OBJ2000
+norway22101,Strings,Challenges,Initials2,0,10,0,"0,0,0,0,0,0,0,0,0,0",2023-04-04 23:23:00.288,#N/A,1504,OBJ2000
+norway22101,Strings,Challenges,Initials2,-1,10,0,"0,0,0,0,0,0,0,0,0,0",2023-04-04 23:23:00.289,#N/A,1505,OBJ2000
+norway22109,If-Else,Challenges,ifElseOddEven,0,4,0.25,"0,0,0,1",2023-04-04 23:25:45.072,2023-04-04 23:27:46.154,1506,OBJ2000
+norway22109,If-Else,Challenges,JNestedIfTemperature2,0,3,0.33,"0,0,1",2023-04-04 23:28:14.631,2023-04-04 23:30:37.034,1507,OBJ2000
+norway22109,If-Else,Challenges,JNestedIfMaxOfThree,0,3,0.33,"0,0,1",2023-04-04 23:30:50.766,2023-04-04 23:32:03.555,1508,OBJ2000
+norway22109,If-Else,Challenges,JNestedIfMaxOfThree,-1,3,0.33,"0,0,1",2023-04-04 23:30:50.767,2023-04-04 23:32:03.556,1509,OBJ2000
+norway22101,If-Else,Challenges,ifElseOddEven,1,1,1,1,2023-04-04 23:39:29.871,2023-04-04 23:39:38.473,1510,OBJ2000
+norway22101,If-Else,Challenges,JIfElseWages2,0,14,0.07,"0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-04 23:39:39.094,2023-04-04 23:41:47.704,1511,OBJ2000
+norway22101,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-04-04 23:41:48.125,2023-04-04 23:41:55.662,1512,OBJ2000
+norway22101,If-Else,Challenges,JNestedIfMaxOfThree,-1,1,1,1,2023-04-04 23:41:48.126,2023-04-04 23:41:55.662,1513,OBJ2000
+norway22101,Arrays,Challenges,JArrayBasic2,1,1,1,1,2023-04-04 23:52:44.278,2023-04-04 23:52:51.9,1514,OBJ2000
+norway22101,Arrays,Challenges,JArrayBasic3,0,8,0.12,"0,0,0,0,0,0,0,1",2023-04-04 23:52:52.3,2023-04-04 23:54:22.63,1515,OBJ2000
+norway22101,Arrays,Challenges,JArraySwapAdjacentElements,0,6,0.17,"0,0,0,0,0,1",2023-04-04 23:54:45.637,2023-04-04 23:55:24.821,1516,OBJ2000
+norway22101,Arrays,Challenges,JArraySwapAdjacentElements,-1,6,0.17,"0,0,0,0,0,1",2023-04-04 23:54:45.638,2023-04-04 23:55:24.821,1517,OBJ2000
+norway22109,Variables and Operations,Challenges,JDecInc3,0,4,0.25,"0,0,0,1",2023-04-05 00:08:17.93,2023-04-05 00:08:58.976,1518,OBJ2000
+norway22109,Variables and Operations,Challenges,VendingMachine2,0,3,0.33,"0,0,1",2023-04-05 00:09:02.151,2023-04-05 00:10:13.414,1519,OBJ2000
+norway22109,Variables and Operations,Challenges,PythagoreanTheorem2,0,4,0.25,"0,0,0,1",2023-04-05 00:10:14.382,2023-04-05 00:10:46.493,1521,OBJ2000
+norway22109,Variables and Operations,Challenges,FahrenheitToCelsius,0,4,0.25,"0,0,0,1",2023-04-05 00:10:47.407,2023-04-05 00:11:39.802,1522,OBJ2000
+norway22104,Boolean Expressions,Challenges,JPhoneAge2,1,1,1,1,2023-04-07 16:40:36.586,2023-04-07 16:51:46.751,1779,OBJ2000
+norway22104,Boolean Expressions,Challenges,JFailCourse2,1,1,1,1,2023-04-07 16:43:59.206,2023-04-07 16:44:49.473,1780,OBJ2000
+norway22104,Boolean Expressions,Challenges,JRentCar2,1,1,1,1,2023-04-07 16:44:51.109,2023-04-07 16:46:26.786,1781,OBJ2000
+norway22104,Boolean Expressions,Challenges,JThreeBoolean3,1,1,1,1,2023-04-07 16:46:30.438,2023-04-07 16:47:51.255,1782,OBJ2000
+norway22104,Boolean Expressions,Challenges,JThreeBoolean2,0,2,0.5,"0,1",2023-04-07 16:47:53.553,2023-04-07 16:51:25.391,1783,OBJ2000
+norway22104,Boolean Expressions,Challenges,JFailCourse3,1,1,1,1,2023-04-07 16:51:47.768,2023-04-07 16:52:34.801,1784,OBJ2000
+norway22104,Boolean Expressions,Challenges,JRentCar3,1,1,1,1,2023-04-07 16:52:34.436,2023-04-07 16:53:39.18,1785,OBJ2000
+norway22104,Boolean Expressions,Challenges,JBooleanDryHot2,1,1,1,1,2023-04-07 16:53:39.489,2023-04-07 16:54:44.544,1786,OBJ2000
+norway22104,Boolean Expressions,Challenges,JBooleanDryHot4,0,3,0.33,"0,0,1",2023-04-07 16:54:48.04,2023-04-07 16:57:35.961,1787,OBJ2000
+norway22104,Boolean Expressions,Challenges,JBooleanDryHot3,1,1,1,1,2023-04-07 16:57:39.38,2023-04-07 16:58:03.415,1788,OBJ2000
+norway22104,Boolean Expressions,Challenges,JBooleanDryHot3,-1,1,1,1,2023-04-07 16:57:39.39,2023-04-07 16:58:03.415,1789,OBJ2000
+norway22150,Boolean Expressions,Challenges,JPhoneAge2,0,3,0.33,"0,0,1",2023-04-11 10:23:12.393,2023-04-11 10:26:47.902,1790,OBJ2000
+norway22150,Boolean Expressions,Challenges,JThreeBoolean3,1,1,1,1,2023-04-11 10:26:51.313,2023-04-11 10:28:14.316,1791,OBJ2000
+norway22150,Boolean Expressions,Challenges,JThreeBoolean2,0,2,0.5,"0,1",2023-04-11 10:28:19.223,2023-04-11 10:29:54.668,1792,OBJ2000
+norway22150,Boolean Expressions,Challenges,JBooleanDryHot4,0,4,0.25,"0,0,0,1",2023-04-11 10:29:56.513,2023-04-11 10:32:20.024,1793,OBJ2000
+norway22150,Boolean Expressions,Challenges,JBooleanDryHot3,1,1,1,1,2023-04-11 10:32:21.694,2023-04-11 10:43:11.574,1794,OBJ2000
+norway22150,Boolean Expressions,Challenges,JBooleanDryHot2,1,1,1,1,2023-04-11 10:43:12.758,2023-04-11 10:43:46.791,1795,OBJ2000
+norway22150,Boolean Expressions,Challenges,JRentCar3,1,1,1,1,2023-04-11 10:47:15.373,2023-04-11 10:48:45.713,1796,OBJ2000
+norway22150,Boolean Expressions,Challenges,JRentCar2,1,1,1,1,2023-04-11 10:48:56.824,2023-04-11 10:51:53.874,1797,OBJ2000
+norway22150,Boolean Expressions,Challenges,JFailCourse3,1,1,1,1,2023-04-11 10:51:53.713,2023-04-11 10:52:54.461,1798,OBJ2000
+norway22150,Boolean Expressions,Challenges,JFailCourse2,1,1,1,1,2023-04-11 10:52:54.715,2023-04-11 10:54:06.785,1799,OBJ2000
+norway22150,Boolean Expressions,Challenges,JFailCourse2,-1,1,1,1,2023-04-11 10:52:54.716,2023-04-11 10:54:06.785,1800,OBJ2000
+norway22149,Variables and Operations,Challenges,PythagoreanTheorem2,0,9,0,"0,0,0,0,0,0,0,0,0",2023-04-12 09:08:25.083,#N/A,1801,OBJ2000
+norway22175,For Loops,Challenges,JForOne2,0,4,0.25,"0,0,0,1",2023-04-12 10:25:15.086,2023-04-12 10:25:37.5,1802,OBJ2000
+norway22175,For Loops,Challenges,JForTwo2,0,4,0.25,"0,0,0,1",2023-04-12 10:25:39.294,2023-04-12 10:25:58.402,1803,OBJ2000
+norway22175,For Loops,Challenges,JForThree2,0,2,1,"1,1",2023-04-12 10:25:59.551,2023-04-12 10:26:09.733,1804,OBJ2000
+norway22175,For Loops,Challenges,JWriteSquaresRange,1,1,1,1,2023-04-12 10:26:25.023,2023-04-12 10:26:32.38,1805,OBJ2000
+norway22175,For Loops,Challenges,JWriteSquaresOdd,0,3,0.33,"0,0,1",2023-04-12 10:26:32.438,2023-04-12 10:26:45.055,1806,OBJ2000
+norway22175,For Loops,Challenges,JWriteSquaresOdd,-1,3,0.33,"0,0,1",2023-04-12 10:26:32.439,2023-04-12 10:26:45.055,1807,OBJ2000
+norway22150,If-Else,Challenges,JNestedIfMaxOfThree,1,1,1,1,2023-04-12 20:43:22.814,2023-04-12 20:44:18.094,1808,OBJ2000
+norway22150,If-Else,Challenges,ifElseOddEven,1,1,1,1,2023-04-12 20:44:30.138,2023-04-12 20:45:22.374,1809,OBJ2000
+norway22150,If-Else,Challenges,JNestedIfTemperature2,1,1,1,1,2023-04-12 20:45:22.022,2023-04-12 20:46:04.562,1810,OBJ2000
+norway22150,If-Else,Challenges,JIfElseIfGrade2,0,3,0.33,"0,0,1",2023-04-12 20:46:05.328,2023-04-12 20:47:05.991,1811,OBJ2000
+norway22150,If-Else,Challenges,JIfElseWages2,0,3,0.33,"0,0,1",2023-04-12 20:47:55.043,2023-04-12 20:50:27.332,1812,OBJ2000
+norway22150,If-Else,Challenges,JIfElseWages2,-1,3,0.33,"0,0,1",2023-04-12 20:47:55.044,2023-04-12 20:50:27.332,1813,OBJ2000
+norway22149,Variables and Operations,Challenges,JDecInc2,0,2,0.5,"0,1",2023-04-13 07:55:26.166,2023-04-13 07:58:25.733,1814,OBJ2000
+norway22149,Variables and Operations,Challenges,BmiCalculator2,1,1,1,1,2023-04-13 07:58:29.024,2023-04-13 08:00:19.83,1815,OBJ2000
+norway22149,Variables and Operations,Challenges,JDecInc3,0,5,0.2,"0,0,0,0,1",2023-04-13 08:00:23.956,2023-04-13 08:02:41.907,1816,OBJ2000
+norway22149,Variables and Operations,Challenges,FahrenheitToCelsius,0,3,0.33,"0,0,1",2023-04-13 08:02:47.877,2023-04-13 08:04:41.216,1817,OBJ2000
+norway22149,Variables and Operations,Challenges,DisplayTime2,0,3,0,"0,0,0",2023-04-13 08:04:43.336,#N/A,1818,OBJ2000
+norway22149,Variables and Operations,Challenges,DisplayTime2,-1,3,0,"0,0,0",2023-04-13 08:04:43.337,#N/A,1819,OBJ2000
+norway22149,Boolean Expressions,Challenges,JThreeBoolean3,0,2,0.5,"0,1",2023-04-13 08:11:56.052,2023-04-13 08:13:43.194,1820,OBJ2000
+norway22149,Boolean Expressions,Challenges,JThreeBoolean3,-1,2,0.5,"0,1",2023-04-13 08:11:56.053,2023-04-13 08:13:43.194,1821,OBJ2000
+norway22149,Strings,Challenges,Initials2,0,3,0.33,"0,0,1",2023-04-13 09:43:41.646,#N/A,1822,OBJ2000
+norway22149,Strings,Challenges,Initials3,0,2,0.5,"0,1",2023-04-13 09:44:52.425,2023-04-13 09:48:06.1,1823,OBJ2000
+norway22149,Strings,Challenges,StringAddition2,0,5,0.2,"0,0,0,0,1",2023-04-13 09:48:06.731,2023-04-13 09:49:46.256,1824,OBJ2000
+norway22149,Strings,Challenges,StringAddition2,-1,5,0.2,"0,0,0,0,1",2023-04-13 09:48:06.732,2023-04-13 09:49:46.256,1825,OBJ2000
+norway22149,If-Else,Challenges,ifElseOddEven,0,2,0.5,"0,1",2023-04-13 10:24:38.004,2023-04-13 10:25:41.158,1826,OBJ2000
+norway22149,If-Else,Challenges,JIfElseWages2,0,3,0.33,"0,0,1",2023-04-13 10:25:40.762,2023-04-13 10:27:45.976,1827,OBJ2000
+norway22149,If-Else,Challenges,JIfElseIfGrade2,1,1,1,1,2023-04-13 10:27:46.222,2023-04-13 10:31:18.383,1828,OBJ2000
+norway22149,If-Else,Challenges,JIfElseIfGrade2,-1,1,1,1,2023-04-13 10:27:46.223,2023-04-13 10:31:18.383,1829,OBJ2000
+norway22150,While Loops,Challenges,JLargestDivisor,1,1,1,1,2023-04-14 17:04:48.384,2023-04-14 17:05:51.434,1830,OBJ2000
+norway22150,While Loops,Challenges,JAverageDouble,1,1,1,1,2023-04-14 17:05:57.887,2023-04-14 17:45:51.204,1831,OBJ2000
+norway22150,While Loops,Challenges,JWinPercentageWonEqual,0,3,0.33,"0,0,1",2023-04-14 17:49:26.746,2023-04-14 17:52:29.93,1832,OBJ2000
+norway22150,While Loops,Challenges,JWinPercentageInput,0,15,0.07,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,1",2023-04-14 17:52:29.939,2023-04-14 17:56:56.03,1833,OBJ2000
+norway22150,While Loops,Challenges,JReverseNumber,1,1,1,1,2023-04-14 17:56:56.788,2023-04-14 17:57:25.305,1834,OBJ2000
+norway22150,While Loops,Challenges,JSumDigits,1,1,1,1,2023-04-14 17:57:25.308,2023-04-14 17:59:33.671,1835,OBJ2000
+norway22150,While Loops,Challenges,JAdjacentGreater,0,12,0.08,"0,0,0,0,0,0,0,0,0,0,0,1",2023-04-14 17:59:33.726,2023-04-14 18:03:36.806,1836,OBJ2000
+norway22150,While Loops,Challenges,JAdjacentConsecutives,0,4,0.25,"0,0,0,1",2023-04-14 18:03:36.674,2023-04-14 18:04:53.271,1837,OBJ2000
+norway22150,While Loops,Challenges,JAverageEvenNums,0,3,0.33,"0,0,1",2023-04-15 11:58:24.227,2023-04-15 12:01:43.306,1838,OBJ2000
+norway22150,While Loops,Challenges,JInput4,0,3,0.33,"0,0,1",2023-04-15 12:01:43.326,2023-04-15 12:05:56.356,1839,OBJ2000
+norway22150,While Loops,Challenges,JInput3,1,1,1,1,2023-04-15 12:05:59.165,2023-04-15 12:10:40.512,1840,OBJ2000
+norway22150,While Loops,Challenges,JInput2,1,1,1,1,2023-04-15 12:10:40.876,2023-04-15 12:12:22.152,1841,OBJ2000
+norway22150,While Loops,Challenges,JInput2,-1,1,1,1,2023-04-15 12:10:40.877,2023-04-15 12:12:22.152,1842,OBJ2000
+norway22150,ArrayLists,Challenges,JVocabulary2,0,2,0.5,"0,1",2023-04-15 12:52:49.744,2023-04-15 12:54:44.7,1843,OBJ2000
+norway22150,ArrayLists,Challenges,JVocabulary2,-1,2,0.5,"0,1",2023-04-15 12:52:49.745,2023-04-15 12:54:44.7,1844,OBJ2000
+norway22150,Inheritance,Challenges,InheritancePointTester2,0,4,0.25,"0,0,0,1",2023-04-17 11:55:03.641,2023-04-17 11:58:44.9,1845,OBJ2000
+norway22150,Inheritance,Challenges,AnimalTester2,0,5,0.2,"0,0,0,0,1",2023-04-17 11:55:06.399,2023-04-17 11:57:34.406,1846,OBJ2000
+norway22150,Inheritance,Challenges,AnimalTester2,-1,5,0.2,"0,0,0,0,1",2023-04-17 11:55:06.400,2023-04-17 11:57:34.406,1847,OBJ2000

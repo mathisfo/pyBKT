@@ -1,4 +1,4 @@
-user_id,skill_name,type,activityId,correct,visited_At,order_id,class
+user_id,skill_name,type,template_id,correct,visited_At,order_id,class
 norway22103,ArrayLists,Coding,array_lst_1,1,2023-03-17 20:49:11.879,1246,OBJ2100
 norway22103,ArrayLists,Coding,array_lst_1,-1,2023-03-17 20:49:11.880,1247,OBJ2100
 norway22103,Boolean Expressions,Coding,love6,0,2023-03-17 20:39:09.523,1248,OBJ2100

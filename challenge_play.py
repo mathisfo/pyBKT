@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import csv
 
+forgets = True
+
 
 def main():
     # Initialize the model with an optional seed
@@ -13,26 +15,39 @@ def main():
     # model.fetch_dataset('https://raw.githubusercontent.com/CAHLR/pyBKT-examples/master/data/as.csv', '.')
 
     # load data from csv
-    df = pd.read_csv("data/challenges.csv")
+    df = pd.read_csv("data/-1/challenges.csv")
 
     # Train a simple BKT model on one skill in the CT dataset
     # Note that calling fit deletes any previous trained BKT model!
     # model.fit(data_path = 'ct.csv', skills = "Plot imperfect radical")
 
-    # model.fit(data_path = 'as.csv', forgets = True, skills = 'Box and Whisker')
-    model.fit(data=df, forgets=False, skills="Strings", multiprior='user_id')
+    model.fit(
+        data_path="data/-1/challenges.csv",
+        multigs="class",
+        multilearn="class",
+        forgets=False,
+    )
 
     preds_df = model.predict(data=df)
-    model.params().to_json("challenges_multiprior_forgets_false.json")
 
-    # View the trained parameters!
-    # print(model.params())
+    model.params().to_json("challenge_multigs_multilearn_forget_False_params.json")
 
-    # Save predictions to a CSV file
+    training_auc = model.evaluate(data_path="data/-1/challenges.csv", metric="auc")
+    training_rmse = model.evaluate(data_path="data/-1/challenges.csv", metric="rmse")
 
-    preds_df[preds_df["skill_name"] == "Strings"][
-        ["user_id", "correct", "correct_predictions", "state_predictions"]
-    ].to_csv("challenges_multiprior_forgets_false.csv", index=False)
+    print("Training AUC", training_auc)
+    print("Training RMSE ", training_rmse)
+
+    preds_df[
+        [
+            "user_id",
+            "correct",
+            "correct_predictions",
+            "state_predictions",
+            "skill_name",
+            "class",
+        ]
+    ].to_csv("challenge_multigs_multilearn_forget_False.csv", index=False)
 
 
 if __name__ == "__main__":

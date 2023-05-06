@@ -1,0 +1,21 @@
+{
+  "value": {
+    "('Strings', 'prior', 'default')": 0.5273840174,
+    "('Strings', 'learns', 'default')": 0.0002380827,
+    "('Strings', 'guesses', 'end_characters')": 0.1852812233,
+    "('Strings', 'guesses', 'first_half')": 0.1576356438,
+    "('Strings', 'guesses', 'first_last_swap')": 0.1348069035,
+    "('Strings', 'guesses', 'is_is_substring_or_ not_is_not_substring')": 0.1613989645,
+    "('Strings', 'guesses', 'make_out_word')": 0.369503874,
+    "('Strings', 'guesses', 'non_start')": 0.4208688533,
+    "('Strings', 'guesses', 'repeat_last_char')": 0.171558411,
+    "('Strings', 'slips', 'end_characters')": 0.2237187827,
+    "('Strings', 'slips', 'first_half')": 0.1793599602,
+    "('Strings', 'slips', 'first_last_swap')": 0.1042295239,
+    "('Strings', 'slips', 'is_is_substring_or_ not_is_not_substring')": 0.5168872558,
+    "('Strings', 'slips', 'make_out_word')": 1.050148272e-33,
+    "('Strings', 'slips', 'non_start')": 0.16214347,
+    "('Strings', 'slips', 'repeat_last_char')": 0.0906445871,
+    "('Strings', 'forgets', 'default')": 0.0389897597
+  }
+}

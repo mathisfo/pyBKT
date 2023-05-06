@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import csv
 
-forgets = False
-
 
 def main():
     # Initialize the model with an optional seed
@@ -15,32 +13,40 @@ def main():
     # model.fetch_dataset('https://raw.githubusercontent.com/CAHLR/pyBKT-examples/master/data/as.csv', '.')
 
     # load data from csv
-    df = pd.read_csv("data/-1/Coding_Ext_OBJ2100_-1.csv")
+    df = pd.read_csv("data/-1/everything.csv")
 
     # Train a simple BKT model on one skill in the CT dataset
     # Note that calling fit deletes any previous trained BKT model!
     # model.fit(data_path = 'ct.csv', skills = "Plot imperfect radical")
 
-    # model.fit(data_path = 'as.csv', forgets = True, skills = 'Box and Whisker')
     model.fit(
-        data=df,
-        forgets=forgets,
-        multigs="user_id",
+        data_path="data/-1/everything.csv",
+        multigs="type",
+        multilearn="class",
+        forgets=True,
     )
 
     preds_df = model.predict(data=df)
 
-    model.params().to_json("OBJ2100_All_coding_-1_F_False_multigs.json")
+    model.params().to_json("all_multigs_multilearn_forget_True_params.json")
 
-    # training_auc = model.evaluate(data_path="data/Coding_Ext_OBJ2100.csv", metric="auc")
-    # training_rmse = model.evaluate(data_path="data/Coding_Ext_OBJ2100.csv", metric="rmse")
+    training_auc = model.evaluate(data_path="data/-1/everything.csv", metric="auc")
+    training_rmse = model.evaluate(data_path="data/-1/everything.csv", metric="rmse")
 
-    # print("Training AUC OBJ2100: ", training_auc)
-    # print("Training RMSE OBJ2100: ", training_rmse)
+    print("Training AUC all multigs multilearn forget true", training_auc)
+    print("Training RMSE all multigs multilearn forget true", training_rmse)
 
     preds_df[
-        ["user_id", "correct", "correct_predictions", "state_predictions", "skill_name"]
-    ].to_csv("OBJ2100_All_coding_-1_F_False_multigs.csv", index=False)
+        [
+            "user_id",
+            "correct",
+            "correct_predictions",
+            "state_predictions",
+            "skill_name",
+            "class",
+            "type",
+        ]
+    ].to_csv("all_multigs_multilearn_forget_true.csv", index=False)
 
 
 if __name__ == "__main__":
