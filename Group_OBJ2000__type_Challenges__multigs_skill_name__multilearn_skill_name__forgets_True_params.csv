@@ -1,0 +1,21 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.3498437204440585
+Variables and Operations,learns,Variables and Operations,0.11207597041017517
+Variables and Operations,guesses,Variables and Operations,0.08599231281799177
+Variables and Operations,slips,Variables and Operations,0.4647911125921818
+Variables and Operations,forgets,Variables and Operations,0.2756114016356346
+Strings,prior,default,0.08633304859351151
+Strings,learns,Strings,0.027755051056446548
+Strings,guesses,Strings,0.3175348652372035
+Strings,slips,Strings,0.458081107276792
+Strings,forgets,Strings,0.4588927359164696
+If-Else,prior,default,0.605999469462561
+If-Else,learns,If-Else,0.36327265456482255
+If-Else,guesses,If-Else,0.09948422787714062
+If-Else,slips,If-Else,0.03883302378687163
+If-Else,forgets,If-Else,0.4197868469178986
+Boolean Expressions,prior,default,0.3431002120831582
+Boolean Expressions,learns,Boolean Expressions,0.42757264349689456
+Boolean Expressions,guesses,Boolean Expressions,0.42710998191106314
+Boolean Expressions,slips,Boolean Expressions,0.22396501078844938
+Boolean Expressions,forgets,Boolean Expressions,0.029635319135941512

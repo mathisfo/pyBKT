@@ -1,0 +1,715 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.2354647025535392
+Variables and Operations,learns,default,0.024721527716377773
+Variables and Operations,guesses,norway22101,0.0
+Variables and Operations,guesses,norway22102,0.194933524917717
+Variables and Operations,guesses,norway22103,0.0
+Variables and Operations,guesses,norway22104,0.2823592459784447
+Variables and Operations,guesses,norway22105,0.1538055188582256
+Variables and Operations,guesses,norway22107,0.7070434365195374
+Variables and Operations,guesses,norway22109,0.0
+Variables and Operations,guesses,norway22110,0.0
+Variables and Operations,guesses,norway22112,0.0
+Variables and Operations,guesses,norway22113,0.15000321146084009
+Variables and Operations,guesses,norway22114,0.7249656960683133
+Variables and Operations,guesses,norway22115,0.0
+Variables and Operations,guesses,norway22116,0.0
+Variables and Operations,guesses,norway22117,0.139151044622237
+Variables and Operations,guesses,norway22118,0.43200913258785073
+Variables and Operations,guesses,norway22120,0.0
+Variables and Operations,guesses,norway22121,0.0
+Variables and Operations,guesses,norway22125,0.0
+Variables and Operations,guesses,norway22126,0.0
+Variables and Operations,guesses,norway22127,0.49374226771990354
+Variables and Operations,guesses,norway22128,0.0
+Variables and Operations,guesses,norway22130,0.27865093742876984
+Variables and Operations,guesses,norway22131,0.0
+Variables and Operations,guesses,norway22132,0.0
+Variables and Operations,guesses,norway22133,0.0
+Variables and Operations,guesses,norway22135,0.28951653707407105
+Variables and Operations,guesses,norway22137,0.19011447037861243
+Variables and Operations,guesses,norway22139,0.0
+Variables and Operations,guesses,norway22140,0.15000321146084009
+Variables and Operations,guesses,norway22141,1.0
+Variables and Operations,guesses,norway22142,0.6749750677166063
+Variables and Operations,guesses,norway22144,0.15000321146084009
+Variables and Operations,guesses,norway22145,0.4215102906006817
+Variables and Operations,guesses,norway22147,0.0
+Variables and Operations,guesses,norway22148,0.3417113471278137
+Variables and Operations,guesses,norway22149,0.16861167567716295
+Variables and Operations,guesses,norway22150,0.14629490291116523
+Variables and Operations,guesses,norway22151,0.14629490291116523
+Variables and Operations,guesses,norway22152,0.26806705273345
+Variables and Operations,guesses,norway22153,0.0
+Variables and Operations,guesses,norway22155,0.2964837882723076
+Variables and Operations,guesses,norway22156,0.2406926877787855
+Variables and Operations,guesses,norway22157,0.13571101821584547
+Variables and Operations,guesses,norway22158,0.139151044622237
+Variables and Operations,guesses,norway22160,0.0
+Variables and Operations,guesses,norway22161,0.0
+Variables and Operations,guesses,norway22165,0.4178019820510069
+Variables and Operations,guesses,norway22166,0.5784897093993183
+Variables and Operations,guesses,norway22167,0.0
+Variables and Operations,guesses,norway22168,1.0
+Variables and Operations,guesses,norway22172,1.0
+Variables and Operations,guesses,norway22173,0.0
+Variables and Operations,guesses,norway22176,0.13571101821584547
+Variables and Operations,guesses,norway22178,0.15000321146084009
+Variables and Operations,guesses,norway22179,0.0
+Variables and Operations,guesses,norway22181,0.16861167567716295
+Variables and Operations,guesses,norway22182,0.1998747336863477
+Variables and Operations,slips,norway22101,1.0
+Variables and Operations,slips,norway22102,0.7864631645326847
+Variables and Operations,slips,norway22103,1.0
+Variables and Operations,slips,norway22104,0.7060671340325012
+Variables and Operations,slips,norway22105,0.8839622434666655
+Variables and Operations,slips,norway22107,0.26797344038195353
+Variables and Operations,slips,norway22109,1.0
+Variables and Operations,slips,norway22110,1.0
+Variables and Operations,slips,norway22112,1.0
+Variables and Operations,slips,norway22113,0.8746480263624785
+Variables and Operations,slips,norway22114,0.31187620756739287
+Variables and Operations,slips,norway22115,1.0
+Variables and Operations,slips,norway22116,1.0
+Variables and Operations,slips,norway22117,0.8480643161513808
+Variables and Operations,slips,norway22118,0.5798496479493465
+Variables and Operations,slips,norway22120,1.0
+Variables and Operations,slips,norway22121,1.0
+Variables and Operations,slips,norway22125,1.0
+Variables and Operations,slips,norway22126,1.0
+Variables and Operations,slips,norway22127,0.4807070974030368
+Variables and Operations,slips,norway22128,1.0
+Variables and Operations,slips,norway22130,0.6969831786046116
+Variables and Operations,slips,norway22131,1.0
+Variables and Operations,slips,norway22132,1.0
+Variables and Operations,slips,norway22133,1.0
+Variables and Operations,slips,norway22135,0.7235997941189447
+Variables and Operations,slips,norway22137,0.7735873983748688
+Variables and Operations,slips,norway22139,1.0
+Variables and Operations,slips,norway22140,0.8746480263624785
+Variables and Operations,slips,norway22141,0.0
+Variables and Operations,slips,norway22142,0.35770822391053514
+Variables and Operations,slips,norway22144,0.8746480263624785
+Variables and Operations,slips,norway22145,0.5541314501838822
+Variables and Operations,slips,norway22147,1.0
+Variables and Operations,slips,norway22148,0.6912457846301922
+Variables and Operations,slips,norway22149,0.8383054613188339
+Variables and Operations,slips,norway22150,0.8655640709345889
+Variables and Operations,slips,norway22151,0.8655640709345889
+Variables and Operations,slips,norway22152,0.671056658322302
+Variables and Operations,slips,norway22153,1.0
+Variables and Operations,slips,norway22155,0.7406669282292497
+Variables and Operations,slips,norway22156,0.7239654680054154
+Variables and Operations,slips,norway22157,0.8396375506522791
+Variables and Operations,slips,norway22158,0.8480643161513808
+Variables and Operations,slips,norway22160,1.0
+Variables and Operations,slips,norway22161,1.0
+Variables and Operations,slips,norway22165,0.5450474947559926
+Variables and Operations,slips,norway22166,0.44586854981611773
+Variables and Operations,slips,norway22167,1.0
+Variables and Operations,slips,norway22168,0.0
+Variables and Operations,slips,norway22172,0.0
+Variables and Operations,slips,norway22173,1.0
+Variables and Operations,slips,norway22176,0.8396375506522791
+Variables and Operations,slips,norway22178,0.8746480263624785
+Variables and Operations,slips,norway22179,1.0
+Variables and Operations,slips,norway22181,0.8383054613188339
+Variables and Operations,slips,norway22182,0.7996653078422435
+Variables and Operations,forgets,default,0.0
+Strings,prior,default,0.10893489536702164
+Strings,learns,default,0.16494249839793573
+Strings,guesses,norway22101,0.0
+Strings,guesses,norway22104,0.497573923391272
+Strings,guesses,norway22107,0.5134264062236561
+Strings,guesses,norway22113,0.19214094082524938
+Strings,guesses,norway22114,0.497573923391272
+Strings,guesses,norway22115,0.0
+Strings,guesses,norway22116,0.0
+Strings,guesses,norway22117,0.3054329825660226
+Strings,guesses,norway22118,0.0
+Strings,guesses,norway22126,0.32975224314115564
+Strings,guesses,norway22127,0.32975224314115564
+Strings,guesses,norway22128,0.3419773426077251
+Strings,guesses,norway22130,0.22741372344736235
+Strings,guesses,norway22131,0.0
+Strings,guesses,norway22133,0.7032551835178447
+Strings,guesses,norway22135,0.43800913638865796
+Strings,guesses,norway22137,0.0
+Strings,guesses,norway22138,0.0
+Strings,guesses,norway22139,0.39488567255371443
+Strings,guesses,norway22140,0.0
+Strings,guesses,norway22141,0.0
+Strings,guesses,norway22144,0.390541799995411
+Strings,guesses,norway22145,0.6959747825614336
+Strings,guesses,norway22148,0.0
+Strings,guesses,norway22149,0.0
+Strings,guesses,norway22150,0.20531408111058772
+Strings,guesses,norway22152,0.23846799311966307
+Strings,guesses,norway22154,0.29443265295109444
+Strings,guesses,norway22155,0.44209624406316
+Strings,guesses,norway22156,0.7533422192420494
+Strings,guesses,norway22158,0.0
+Strings,guesses,norway22159,0.0
+Strings,guesses,norway22162,0.0
+Strings,guesses,norway22165,0.35035226973298006
+Strings,guesses,norway22166,0.07801925911866023
+Strings,guesses,norway22167,0.0
+Strings,guesses,norway22172,1.0
+Strings,guesses,norway22173,0.3724519120697547
+Strings,guesses,norway22178,0.0
+Strings,guesses,norway22179,0.32975224314115564
+Strings,slips,norway22101,1.0
+Strings,slips,norway22104,0.33711708259777073
+Strings,slips,norway22107,0.35674724113243933
+Strings,slips,norway22113,0.9181710744595892
+Strings,slips,norway22114,0.33711708259777073
+Strings,slips,norway22115,1.0
+Strings,slips,norway22116,1.0
+Strings,slips,norway22117,0.41894600813818145
+Strings,slips,norway22118,1.0
+Strings,slips,norway22126,0.6557978914545687
+Strings,slips,norway22127,0.6557978914545687
+Strings,slips,norway22128,0.7839563607163834
+Strings,slips,norway22130,0.6420920212181472
+Strings,slips,norway22131,1.0
+Strings,slips,norway22133,0.5849530493689931
+Strings,slips,norway22135,0.5831153023094672
+Strings,slips,norway22137,1.0
+Strings,slips,norway22138,1.0
+Strings,slips,norway22139,0.8534808776648827
+Strings,slips,norway22140,1.0
+Strings,slips,norway22141,1.0
+Strings,slips,norway22144,0.8440938172744771
+Strings,slips,norway22145,0.2630398254126586
+Strings,slips,norway22148,1.0
+Strings,slips,norway22149,1.0
+Strings,slips,norway22150,0.6147259936237737
+Strings,slips,norway22152,0.65578054360588
+Strings,slips,norway22154,0.7250816844079715
+Strings,slips,norway22155,0.5881763752307914
+Strings,slips,norway22156,0.46071460635844574
+Strings,slips,norway22158,1.0
+Strings,slips,norway22159,1.0
+Strings,slips,norway22162,1.0
+Strings,slips,norway22165,0.47456964373363225
+Strings,slips,norway22166,0.7768539869200343
+Strings,slips,norway22167,1.0
+Strings,slips,norway22172,0.0
+Strings,slips,norway22173,0.5019356713280059
+Strings,slips,norway22178,1.0
+Strings,slips,norway22179,0.6557978914545687
+Strings,forgets,default,0.0
+If-Else,prior,default,0.31236764794329047
+If-Else,learns,default,0.09833076837818844
+If-Else,guesses,norway22101,0.6677721493262416
+If-Else,guesses,norway22102,0.6677721493262416
+If-Else,guesses,norway22107,0.8216468396761323
+If-Else,guesses,norway22108,0.6196072636930212
+If-Else,guesses,norway22109,0.0
+If-Else,guesses,norway22113,0.0
+If-Else,guesses,norway22114,0.5364117131936565
+If-Else,guesses,norway22115,0.21922961713445502
+If-Else,guesses,norway22117,0.4039344801941908
+If-Else,guesses,norway22118,0.3761736989798628
+If-Else,guesses,norway22120,0.36810278733947227
+If-Else,guesses,norway22121,0.36810278733947227
+If-Else,guesses,norway22126,0.5583639403180017
+If-Else,guesses,norway22127,1.0
+If-Else,guesses,norway22128,0.0
+If-Else,guesses,norway22130,0.4039344801941908
+If-Else,guesses,norway22135,0.0
+If-Else,guesses,norway22136,0.5823838085350743
+If-Else,guesses,norway22141,0.6411286505939663
+If-Else,guesses,norway22144,0.3585910627664241
+If-Else,guesses,norway22145,0.6411286505939663
+If-Else,guesses,norway22149,0.29928877298411555
+If-Else,guesses,norway22150,0.6603852876270134
+If-Else,guesses,norway22153,0.3802190340675338
+If-Else,guesses,norway22158,0.2895590864167477
+If-Else,guesses,norway22165,0.7802701311381214
+If-Else,guesses,norway22167,0.36810278733947227
+If-Else,guesses,norway22173,0.0
+If-Else,guesses,norway22175,0.0
+If-Else,guesses,norway22182,1.0
+If-Else,slips,norway22101,0.3351380569394427
+If-Else,slips,norway22102,0.3351380569394427
+If-Else,slips,norway22107,0.22770037959444203
+If-Else,slips,norway22108,0.42532621096282813
+If-Else,slips,norway22109,1.0
+If-Else,slips,norway22113,1.0
+If-Else,slips,norway22114,0.31794920765179496
+If-Else,slips,norway22115,0.8253283284217557
+If-Else,slips,norway22117,0.6051382420088034
+If-Else,slips,norway22118,0.5689551356549707
+If-Else,slips,norway22120,0.7240498484147293
+If-Else,slips,norway22121,0.7240498484147293
+If-Else,slips,norway22126,0.34624857420399374
+If-Else,slips,norway22127,0.0
+If-Else,slips,norway22128,1.0
+If-Else,slips,norway22130,0.6051382420088034
+If-Else,slips,norway22135,1.0
+If-Else,slips,norway22136,0.37723022840122994
+If-Else,slips,norway22141,0.45315091862765444
+If-Else,slips,norway22144,0.5460145362178308
+If-Else,slips,norway22145,0.45315091862765444
+If-Else,slips,norway22149,0.6105284579265867
+If-Else,slips,norway22150,0.4780288246820227
+If-Else,slips,norway22153,0.5741983635519764
+If-Else,slips,norway22158,0.8080702742876781
+If-Else,slips,norway22165,0.17476229021530154
+If-Else,slips,norway22167,0.7240498484147293
+If-Else,slips,norway22173,1.0
+If-Else,slips,norway22175,1.0
+If-Else,slips,norway22182,0.0
+If-Else,forgets,default,0.0
+Arrays,prior,default,0.31450090143728
+Arrays,learns,default,0.028201406891822007
+Arrays,guesses,norway22101,0.34314887065969446
+Arrays,guesses,norway22113,0.07256631060069234
+Arrays,guesses,norway22114,0.2877804993998185
+Arrays,guesses,norway22115,0.19203019956928405
+Arrays,guesses,norway22117,0.4434250991401278
+Arrays,guesses,norway22125,0.32441945346659873
+Arrays,guesses,norway22126,0.6760553828595535
+Arrays,guesses,norway22128,0.0
+Arrays,guesses,norway22130,0.7512198230179684
+Arrays,guesses,norway22133,0.0
+Arrays,guesses,norway22134,0.8472791346576477
+Arrays,guesses,norway22135,0.37014460456172216
+Arrays,guesses,norway22142,0.0
+Arrays,guesses,norway22159,0.6760553828595535
+Arrays,guesses,norway22161,0.0
+Arrays,guesses,norway22162,0.0
+Arrays,guesses,norway22172,0.0
+Arrays,guesses,norway22173,0.0
+Arrays,guesses,norway22178,0.4981487117213636
+Arrays,guesses,norway22179,0.0
+Arrays,guesses,norway22182,1.0
+Arrays,slips,norway22101,0.686180269636085
+Arrays,slips,norway22113,0.9040938234617057
+Arrays,slips,norway22114,0.8000112482261675
+Arrays,slips,norway22115,0.8648183337113857
+Arrays,slips,norway22117,0.6240636519085816
+Arrays,slips,norway22125,0.648904832251811
+Arrays,slips,norway22126,0.3535142766178421
+Arrays,slips,norway22128,1.0
+Arrays,slips,norway22130,0.2524733691174341
+Arrays,slips,norway22133,1.0
+Arrays,slips,norway22134,0.19693173855612486
+Arrays,slips,norway22135,0.7190534345622176
+Arrays,slips,norway22142,1.0
+Arrays,slips,norway22159,0.3535142766178421
+Arrays,slips,norway22161,1.0
+Arrays,slips,norway22162,1.0
+Arrays,slips,norway22172,1.0
+Arrays,slips,norway22173,1.0
+Arrays,slips,norway22178,0.4964753524514829
+Arrays,slips,norway22179,1.0
+Arrays,slips,norway22182,0.0
+Arrays,forgets,default,0.0
+While Loops,prior,default,0.0012359426045660488
+While Loops,learns,default,0.0034729539123648854
+While Loops,guesses,norway22102,0.20641262206749808
+While Loops,guesses,norway22113,0.25070679512513694
+While Loops,guesses,norway22114,0.5833333319261362
+While Loops,guesses,norway22115,0.08339996553074715
+While Loops,guesses,norway22117,0.0
+While Loops,guesses,norway22125,0.0
+While Loops,guesses,norway22126,0.1525670437226428
+While Loops,guesses,norway22127,0.7279081583633966
+While Loops,guesses,norway22128,0.0
+While Loops,guesses,norway22130,0.7506006374956656
+While Loops,guesses,norway22133,0.17109619939157358
+While Loops,guesses,norway22135,0.16666666088223878
+While Loops,guesses,norway22139,0.0
+While Loops,guesses,norway22141,0.0
+While Loops,guesses,norway22144,0.25327866085822137
+While Loops,guesses,norway22145,0.1668002078649454
+While Loops,guesses,norway22150,0.4999999965305949
+While Loops,guesses,norway22165,0.2500000275079881
+While Loops,guesses,norway22173,0.16666664120820202
+While Loops,slips,norway22102,0.9999995446449315
+While Loops,slips,norway22113,0.9999960330253254
+While Loops,slips,norway22114,0.35980800076499625
+While Loops,slips,norway22115,0.999525402365185
+While Loops,slips,norway22117,1.0
+While Loops,slips,norway22125,1.0
+While Loops,slips,norway22126,0.999999752571978
+While Loops,slips,norway22127,0.9999889783698982
+While Loops,slips,norway22128,1.0
+While Loops,slips,norway22130,0.9999889786816374
+While Loops,slips,norway22133,0.999998042379281
+While Loops,slips,norway22135,0.003183108980451313
+While Loops,slips,norway22139,1.0
+While Loops,slips,norway22141,1.0
+While Loops,slips,norway22144,0.9999917010336395
+While Loops,slips,norway22145,0.9996725175748425
+While Loops,slips,norway22150,0.0002397692523617515
+While Loops,slips,norway22165,0.7979559991174087
+While Loops,slips,norway22173,0.7131365491910712
+While Loops,forgets,default,0.0
+Boolean Expressions,prior,default,0.2242172005911937
+Boolean Expressions,learns,default,0.03439510353038707
+Boolean Expressions,guesses,norway22103,0.6507488172677168
+Boolean Expressions,guesses,norway22104,0.8130453657403293
+Boolean Expressions,guesses,norway22108,0.6784168025678553
+Boolean Expressions,guesses,norway22113,0.20778772157058106
+Boolean Expressions,guesses,norway22114,0.5912182835037353
+Boolean Expressions,guesses,norway22115,0.18934926529743187
+Boolean Expressions,guesses,norway22117,0.5005428830397092
+Boolean Expressions,guesses,norway22118,0.39586984343941894
+Boolean Expressions,guesses,norway22120,1.0
+Boolean Expressions,guesses,norway22121,0.0
+Boolean Expressions,guesses,norway22126,0.513878583805995
+Boolean Expressions,guesses,norway22127,0.9157443400630294
+Boolean Expressions,guesses,norway22130,0.5850829768334957
+Boolean Expressions,guesses,norway22135,0.6276336386735628
+Boolean Expressions,guesses,norway22137,0.49576822696059797
+Boolean Expressions,guesses,norway22141,0.0
+Boolean Expressions,guesses,norway22144,0.704323703358067
+Boolean Expressions,guesses,norway22145,0.7312151593841729
+Boolean Expressions,guesses,norway22148,0.3193445238522842
+Boolean Expressions,guesses,norway22149,0.0
+Boolean Expressions,guesses,norway22150,0.6521039461288218
+Boolean Expressions,guesses,norway22154,0.5085836759108682
+Boolean Expressions,guesses,norway22155,0.6659058804140431
+Boolean Expressions,guesses,norway22165,0.5124476375396835
+Boolean Expressions,guesses,norway22166,1.0
+Boolean Expressions,guesses,norway22167,0.0
+Boolean Expressions,guesses,norway22172,1.0
+Boolean Expressions,guesses,norway22173,0.0942362336233192
+Boolean Expressions,guesses,norway22178,0.10696230781419863
+Boolean Expressions,guesses,norway22179,0.0
+Boolean Expressions,guesses,norway22181,0.34360412224881626
+Boolean Expressions,slips,norway22103,0.29464002463992867
+Boolean Expressions,slips,norway22104,0.21622446566730177
+Boolean Expressions,slips,norway22108,0.36238700431555937
+Boolean Expressions,slips,norway22113,0.837306549785797
+Boolean Expressions,slips,norway22114,0.3833847684445339
+Boolean Expressions,slips,norway22115,0.7533113299251308
+Boolean Expressions,slips,norway22117,0.5013040358068153
+Boolean Expressions,slips,norway22118,0.5877680697430038
+Boolean Expressions,slips,norway22120,0.0
+Boolean Expressions,slips,norway22121,1.0
+Boolean Expressions,slips,norway22126,0.5334220064806533
+Boolean Expressions,slips,norway22127,0.11542980200754972
+Boolean Expressions,slips,norway22130,0.37241634952659813
+Boolean Expressions,slips,norway22135,0.45505850550395344
+Boolean Expressions,slips,norway22137,0.48908653525861895
+Boolean Expressions,slips,norway22141,1.0
+Boolean Expressions,slips,norway22144,0.3066014106987168
+Boolean Expressions,slips,norway22145,0.3487805155038531
+Boolean Expressions,slips,norway22148,0.6227151485434607
+Boolean Expressions,slips,norway22149,1.0
+Boolean Expressions,slips,norway22150,0.22942508457332803
+Boolean Expressions,slips,norway22154,0.524783428392652
+Boolean Expressions,slips,norway22155,0.24882432423389989
+Boolean Expressions,slips,norway22165,0.5307804515008481
+Boolean Expressions,slips,norway22166,0.0
+Boolean Expressions,slips,norway22167,1.0
+Boolean Expressions,slips,norway22172,0.0
+Boolean Expressions,slips,norway22173,0.8683360099089061
+Boolean Expressions,slips,norway22178,0.9419689672511758
+Boolean Expressions,slips,norway22179,1.0
+Boolean Expressions,slips,norway22181,0.6995992552779217
+Boolean Expressions,forgets,default,0.0
+Objects and Classes,prior,default,0.12384626985549137
+Objects and Classes,learns,default,0.03706364216251542
+Objects and Classes,guesses,norway22105,0.0
+Objects and Classes,guesses,norway22113,0.0
+Objects and Classes,guesses,norway22114,0.2360202605679516
+Objects and Classes,guesses,norway22115,0.24510473474902786
+Objects and Classes,guesses,norway22117,0.2360202605679516
+Objects and Classes,guesses,norway22119,0.34599887746523683
+Objects and Classes,guesses,norway22126,0.0
+Objects and Classes,guesses,norway22127,0.7356638677503271
+Objects and Classes,guesses,norway22128,0.49055913300129933
+Objects and Classes,guesses,norway22130,0.0
+Objects and Classes,guesses,norway22135,0.0
+Objects and Classes,guesses,norway22140,0.0
+Objects and Classes,guesses,norway22144,0.0
+Objects and Classes,guesses,norway22145,0.49055913300129933
+Objects and Classes,guesses,norway22152,0.0
+Objects and Classes,guesses,norway22161,0.2545388724333476
+Objects and Classes,guesses,norway22165,0.49055913300129933
+Objects and Classes,guesses,norway22166,0.0
+Objects and Classes,guesses,norway22167,0.0
+Objects and Classes,guesses,norway22168,0.0
+Objects and Classes,guesses,norway22173,0.0
+Objects and Classes,guesses,norway22175,0.0
+Objects and Classes,guesses,norway22178,0.0
+Objects and Classes,guesses,norway22179,0.0
+Objects and Classes,slips,norway22105,1.0
+Objects and Classes,slips,norway22113,1.0
+Objects and Classes,slips,norway22114,0.6824005361900601
+Objects and Classes,slips,norway22115,0.7263287929806099
+Objects and Classes,slips,norway22117,0.6824005361900601
+Objects and Classes,slips,norway22119,0.7352329342083421
+Objects and Classes,slips,norway22126,1.0
+Objects and Classes,slips,norway22127,0.18067718766169627
+Objects and Classes,slips,norway22128,0.44204605534009095
+Objects and Classes,slips,norway22130,1.0
+Objects and Classes,slips,norway22135,1.0
+Objects and Classes,slips,norway22140,1.0
+Objects and Classes,slips,norway22144,1.0
+Objects and Classes,slips,norway22145,0.4543483946810863
+Objects and Classes,slips,norway22152,1.0
+Objects and Classes,slips,norway22161,0.7719478584910263
+Objects and Classes,slips,norway22165,0.4543483946810863
+Objects and Classes,slips,norway22166,1.0
+Objects and Classes,slips,norway22167,1.0
+Objects and Classes,slips,norway22168,1.0
+Objects and Classes,slips,norway22173,1.0
+Objects and Classes,slips,norway22175,1.0
+Objects and Classes,slips,norway22178,1.0
+Objects and Classes,slips,norway22179,1.0
+Objects and Classes,forgets,default,0.0
+For Loops,prior,default,0.36582178089157436
+For Loops,learns,default,0.047203829921253763
+For Loops,guesses,norway22113,0.2272860792168027
+For Loops,guesses,norway22114,0.6033141542815638
+For Loops,guesses,norway22115,0.19057267804891895
+For Loops,guesses,norway22117,0.8182996429306185
+For Loops,guesses,norway22126,0.19057267804891895
+For Loops,guesses,norway22128,0.5133979408694229
+For Loops,guesses,norway22130,1.0
+For Loops,guesses,norway22135,0.6196468435347569
+For Loops,guesses,norway22136,1.0
+For Loops,guesses,norway22144,0.2272860792168027
+For Loops,guesses,norway22145,0.6196468435347569
+For Loops,guesses,norway22147,0.6672674357862023
+For Loops,guesses,norway22159,0.6102038837624367
+For Loops,guesses,norway22160,0.3344920607316313
+For Loops,guesses,norway22165,0.7999452193116573
+For Loops,guesses,norway22167,0.6845629653623548
+For Loops,guesses,norway22173,0.40233291953756556
+For Loops,guesses,norway22175,0.19057267804891895
+For Loops,guesses,norway22178,0.18189656485386374
+For Loops,slips,norway22113,0.8253731696817029
+For Loops,slips,norway22114,0.40567960456732294
+For Loops,slips,norway22115,0.7911370231244794
+For Loops,slips,norway22117,0.24129556765473326
+For Loops,slips,norway22126,0.7911370231244794
+For Loops,slips,norway22128,0.5189503072322772
+For Loops,slips,norway22130,0.0
+For Loops,slips,norway22135,0.43294474868332505
+For Loops,slips,norway22136,0.0
+For Loops,slips,norway22144,0.8253731696817029
+For Loops,slips,norway22145,0.43294474868332505
+For Loops,slips,norway22147,0.33429406996727057
+For Loops,slips,norway22159,0.4172562959162876
+For Loops,slips,norway22160,0.6680415854909808
+For Loops,slips,norway22165,0.19987657317081162
+For Loops,slips,norway22167,0.36201315775600035
+For Loops,slips,norway22173,0.6028964834578653
+For Loops,slips,norway22175,0.7911370231244794
+For Loops,slips,norway22178,0.7831367808951994
+For Loops,forgets,default,0.0
+Nested Loops,prior,default,0.3269938612763596
+Nested Loops,learns,default,0.2612666617333818
+Nested Loops,guesses,norway22113,0.0
+Nested Loops,guesses,norway22115,0.0
+Nested Loops,guesses,norway22117,0.0
+Nested Loops,guesses,norway22126,0.0
+Nested Loops,guesses,norway22130,1.0
+Nested Loops,guesses,norway22131,0.0
+Nested Loops,guesses,norway22135,0.42486867998003525
+Nested Loops,guesses,norway22142,1.0
+Nested Loops,guesses,norway22145,0.5751313200199648
+Nested Loops,guesses,norway22157,1.0
+Nested Loops,guesses,norway22162,0.0
+Nested Loops,guesses,norway22165,0.0
+Nested Loops,guesses,norway22173,0.5751313200199648
+Nested Loops,guesses,norway22178,0.5751313200199648
+Nested Loops,slips,norway22113,1.0
+Nested Loops,slips,norway22115,1.0
+Nested Loops,slips,norway22117,1.0
+Nested Loops,slips,norway22126,1.0
+Nested Loops,slips,norway22130,0.0
+Nested Loops,slips,norway22131,1.0
+Nested Loops,slips,norway22135,0.39405311516052705
+Nested Loops,slips,norway22142,0.0
+Nested Loops,slips,norway22145,0.6059468848394729
+Nested Loops,slips,norway22157,0.0
+Nested Loops,slips,norway22162,1.0
+Nested Loops,slips,norway22165,1.0
+Nested Loops,slips,norway22173,0.6059468848394729
+Nested Loops,slips,norway22178,0.6059468848394729
+Nested Loops,forgets,default,0.0
+Inheritance,prior,default,0.2758464226039251
+Inheritance,learns,default,0.15965015684283446
+Inheritance,guesses,norway22113,0.0
+Inheritance,guesses,norway22114,0.0
+Inheritance,guesses,norway22115,0.0
+Inheritance,guesses,norway22117,0.6073099568899292
+Inheritance,guesses,norway22119,0.5433749478221355
+Inheritance,guesses,norway22126,0.0
+Inheritance,guesses,norway22128,0.0
+Inheritance,guesses,norway22130,0.0
+Inheritance,guesses,norway22131,0.0
+Inheritance,guesses,norway22135,0.0
+Inheritance,guesses,norway22140,0.0
+Inheritance,guesses,norway22141,0.0
+Inheritance,guesses,norway22145,0.0
+Inheritance,guesses,norway22150,0.0
+Inheritance,guesses,norway22152,0.0
+Inheritance,guesses,norway22165,0.45662505217786453
+Inheritance,guesses,norway22168,1.0
+Inheritance,guesses,norway22173,0.0
+Inheritance,guesses,norway22178,0.0
+Inheritance,guesses,norway22179,0.0
+Inheritance,slips,norway22113,1.0
+Inheritance,slips,norway22114,1.0
+Inheritance,slips,norway22115,1.0
+Inheritance,slips,norway22117,0.2386388932558941
+Inheritance,slips,norway22119,0.5866256000240668
+Inheritance,slips,norway22126,1.0
+Inheritance,slips,norway22128,1.0
+Inheritance,slips,norway22130,1.0
+Inheritance,slips,norway22131,1.0
+Inheritance,slips,norway22135,1.0
+Inheritance,slips,norway22140,1.0
+Inheritance,slips,norway22141,1.0
+Inheritance,slips,norway22145,1.0
+Inheritance,slips,norway22150,1.0
+Inheritance,slips,norway22152,1.0
+Inheritance,slips,norway22165,0.41337439997593317
+Inheritance,slips,norway22168,0.0
+Inheritance,slips,norway22173,1.0
+Inheritance,slips,norway22178,1.0
+Inheritance,slips,norway22179,1.0
+Inheritance,forgets,default,0.0
+ArrayLists,prior,default,0.09852418717496568
+ArrayLists,learns,default,0.04563658363788368
+ArrayLists,guesses,norway22113,0.0
+ArrayLists,guesses,norway22114,0.0
+ArrayLists,guesses,norway22115,0.0
+ArrayLists,guesses,norway22117,0.0
+ArrayLists,guesses,norway22126,0.0
+ArrayLists,guesses,norway22128,0.0
+ArrayLists,guesses,norway22130,0.0
+ArrayLists,guesses,norway22135,0.0
+ArrayLists,guesses,norway22139,0.0
+ArrayLists,guesses,norway22140,0.0
+ArrayLists,guesses,norway22141,0.0
+ArrayLists,guesses,norway22147,0.0
+ArrayLists,guesses,norway22150,0.0
+ArrayLists,guesses,norway22165,0.0
+ArrayLists,guesses,norway22166,1.0
+ArrayLists,guesses,norway22168,1.0
+ArrayLists,guesses,norway22173,0.0
+ArrayLists,guesses,norway22178,0.0
+ArrayLists,slips,norway22113,1.0
+ArrayLists,slips,norway22114,1.0
+ArrayLists,slips,norway22115,1.0
+ArrayLists,slips,norway22117,1.0
+ArrayLists,slips,norway22126,1.0
+ArrayLists,slips,norway22128,1.0
+ArrayLists,slips,norway22130,1.0
+ArrayLists,slips,norway22135,1.0
+ArrayLists,slips,norway22139,1.0
+ArrayLists,slips,norway22140,1.0
+ArrayLists,slips,norway22141,1.0
+ArrayLists,slips,norway22147,1.0
+ArrayLists,slips,norway22150,1.0
+ArrayLists,slips,norway22165,1.0
+ArrayLists,slips,norway22166,0.0
+ArrayLists,slips,norway22168,0.0
+ArrayLists,slips,norway22173,1.0
+ArrayLists,slips,norway22178,1.0
+ArrayLists,forgets,default,0.0
+Two-Dimensional Arrays,prior,default,0.0479680559654089
+Two-Dimensional Arrays,learns,default,0.001619021502161815
+Two-Dimensional Arrays,guesses,norway22113,0.20033518615926732
+Two-Dimensional Arrays,guesses,norway22114,0.40098808568639976
+Two-Dimensional Arrays,guesses,norway22115,0.20067138410527977
+Two-Dimensional Arrays,guesses,norway22117,0.20033518615926732
+Two-Dimensional Arrays,guesses,norway22121,0.33334301969321395
+Two-Dimensional Arrays,guesses,norway22125,0.0
+Two-Dimensional Arrays,guesses,norway22126,0.33334301969321395
+Two-Dimensional Arrays,guesses,norway22128,0.19969149561195296
+Two-Dimensional Arrays,guesses,norway22130,0.40098808568639976
+Two-Dimensional Arrays,guesses,norway22131,1.0
+Two-Dimensional Arrays,guesses,norway22135,0.20000863547646414
+Two-Dimensional Arrays,guesses,norway22140,0.20033518615926732
+Two-Dimensional Arrays,guesses,norway22141,1.0
+Two-Dimensional Arrays,guesses,norway22144,0.20033518615926732
+Two-Dimensional Arrays,guesses,norway22148,0.0
+Two-Dimensional Arrays,guesses,norway22151,0.0
+Two-Dimensional Arrays,guesses,norway22152,0.6009608342026759
+Two-Dimensional Arrays,guesses,norway22173,0.20067138410527977
+Two-Dimensional Arrays,guesses,norway22178,0.40098808568639976
+Two-Dimensional Arrays,guesses,norway22179,0.49961972450222963
+Two-Dimensional Arrays,slips,norway22113,0.8060885282005859
+Two-Dimensional Arrays,slips,norway22114,0.619171830611546
+Two-Dimensional Arrays,slips,norway22115,0.8121752598247415
+Two-Dimensional Arrays,slips,norway22117,0.8060885282005859
+Two-Dimensional Arrays,slips,norway22121,0.666853362453105
+Two-Dimensional Arrays,slips,norway22125,1.0
+Two-Dimensional Arrays,slips,norway22126,0.666853362453105
+Two-Dimensional Arrays,slips,norway22128,0.7943852252793869
+Two-Dimensional Arrays,slips,norway22130,0.619171830611546
+Two-Dimensional Arrays,slips,norway22131,0.0
+Two-Dimensional Arrays,slips,norway22135,0.8001570478794522
+Two-Dimensional Arrays,slips,norway22140,0.8060885282005859
+Two-Dimensional Arrays,slips,norway22141,0.0
+Two-Dimensional Arrays,slips,norway22144,0.8060885282005859
+Two-Dimensional Arrays,slips,norway22148,1.0
+Two-Dimensional Arrays,slips,norway22151,1.0
+Two-Dimensional Arrays,slips,norway22152,0.4199708569430867
+Two-Dimensional Arrays,slips,norway22173,0.8121752598247415
+Two-Dimensional Arrays,slips,norway22178,0.619171830611546
+Two-Dimensional Arrays,slips,norway22179,0.4924471739073923
+Two-Dimensional Arrays,forgets,default,0.0
+Exception handling,prior,default,0.07959544314531215
+Exception handling,learns,default,0.05794287636137421
+Exception handling,guesses,norway22113,0.0
+Exception handling,guesses,norway22114,0.0
+Exception handling,guesses,norway22115,0.0
+Exception handling,guesses,norway22116,0.0
+Exception handling,guesses,norway22117,0.5149179124692307
+Exception handling,guesses,norway22119,1.0
+Exception handling,guesses,norway22130,0.0
+Exception handling,guesses,norway22135,0.0
+Exception handling,guesses,norway22165,0.0
+Exception handling,guesses,norway22168,0.5149179124692307
+Exception handling,guesses,norway22173,0.0
+Exception handling,guesses,norway22179,0.0
+Exception handling,slips,norway22113,1.0
+Exception handling,slips,norway22114,1.0
+Exception handling,slips,norway22115,1.0
+Exception handling,slips,norway22116,1.0
+Exception handling,slips,norway22117,0.6254715846382055
+Exception handling,slips,norway22119,0.0
+Exception handling,slips,norway22130,1.0
+Exception handling,slips,norway22135,1.0
+Exception handling,slips,norway22165,1.0
+Exception handling,slips,norway22168,0.6254715846382055
+Exception handling,slips,norway22173,1.0
+Exception handling,slips,norway22179,1.0
+Exception handling,forgets,default,0.0
+File processing,prior,default,0.2736264886093735
+File processing,learns,default,0.16640458144582024
+File processing,guesses,norway22113,0.43392971397430097
+File processing,guesses,norway22114,0.0
+File processing,guesses,norway22115,0.0
+File processing,guesses,norway22117,0.43392971397430097
+File processing,guesses,norway22119,1.0
+File processing,guesses,norway22130,0.0
+File processing,guesses,norway22134,0.5337450707912867
+File processing,guesses,norway22135,0.0
+File processing,guesses,norway22157,0.43392971397430097
+File processing,guesses,norway22168,0.0
+File processing,guesses,norway22173,0.0
+File processing,slips,norway22113,0.4000458625135134
+File processing,slips,norway22114,1.0
+File processing,slips,norway22115,1.0
+File processing,slips,norway22117,0.4000458625135134
+File processing,slips,norway22119,0.0
+File processing,slips,norway22130,1.0
+File processing,slips,norway22134,0.553078905291562
+File processing,slips,norway22135,1.0
+File processing,slips,norway22157,0.4000458625135134
+File processing,slips,norway22168,1.0
+File processing,slips,norway22173,1.0
+File processing,forgets,default,0.0

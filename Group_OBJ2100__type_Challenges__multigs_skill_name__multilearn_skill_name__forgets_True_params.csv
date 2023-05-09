@@ -1,0 +1,71 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.39110177569597415
+Variables and Operations,learns,Variables and Operations,0.20982763452119613
+Variables and Operations,guesses,Variables and Operations,0.032129189416011235
+Variables and Operations,slips,Variables and Operations,0.586917730387499
+Variables and Operations,forgets,Variables and Operations,0.3380006372330172
+Boolean Expressions,prior,default,0.3671142952508648
+Boolean Expressions,learns,Boolean Expressions,0.30761735722567746
+Boolean Expressions,guesses,Boolean Expressions,0.2362189783423723
+Boolean Expressions,slips,Boolean Expressions,0.11456548911090766
+Boolean Expressions,forgets,Boolean Expressions,0.6461127619636352
+Strings,prior,default,0.3755084913008965
+Strings,learns,Strings,0.12496393182450462
+Strings,guesses,Strings,0.11536504162842462
+Strings,slips,Strings,0.39396252931042886
+Strings,forgets,Strings,0.325374894454908
+If-Else,prior,default,0.45719397739524414
+If-Else,learns,If-Else,0.21809450003649583
+If-Else,guesses,If-Else,0.21534621058427025
+If-Else,slips,If-Else,0.3926448182169686
+If-Else,forgets,If-Else,0.25857769269804637
+While Loops,prior,default,0.7365893852735186
+While Loops,learns,While Loops,0.2170007864058221
+While Loops,guesses,While Loops,0.08861920082220098
+While Loops,slips,While Loops,0.5799280974728144
+While Loops,forgets,While Loops,0.4384354880639593
+For Loops,prior,default,0.7469409101609384
+For Loops,learns,For Loops,0.12133213279461298
+For Loops,guesses,For Loops,0.25932131077487414
+For Loops,slips,For Loops,0.04366571877609451
+For Loops,forgets,For Loops,0.5156708899448659
+Objects and Classes,prior,default,0.07002335414725745
+Objects and Classes,learns,Objects and Classes,0.08079249562236467
+Objects and Classes,guesses,Objects and Classes,0.09565065861815711
+Objects and Classes,slips,Objects and Classes,0.47411397896601004
+Objects and Classes,forgets,Objects and Classes,0.73117622920363
+Nested Loops,prior,default,0.4441113315413385
+Nested Loops,learns,Nested Loops,0.20476554464810093
+Nested Loops,guesses,Nested Loops,0.11295425535697431
+Nested Loops,slips,Nested Loops,0.4346352838339806
+Nested Loops,forgets,Nested Loops,0.02542667566675504
+Inheritance,prior,default,0.13538288261879974
+Inheritance,learns,Inheritance,0.16082860642336214
+Inheritance,guesses,Inheritance,0.014163544519739241
+Inheritance,slips,Inheritance,0.24042775323274665
+Inheritance,forgets,Inheritance,0.08043417334792165
+ArrayLists,prior,default,0.13688806869319398
+ArrayLists,learns,ArrayLists,0.06594182176182234
+ArrayLists,guesses,ArrayLists,0.05287828349300334
+ArrayLists,slips,ArrayLists,0.42025537091889076
+ArrayLists,forgets,ArrayLists,0.49946019667867075
+Arrays,prior,default,0.4888059587894621
+Arrays,learns,Arrays,0.05479660520291011
+Arrays,guesses,Arrays,0.07900038494398581
+Arrays,slips,Arrays,0.14514108105093673
+Arrays,forgets,Arrays,0.2191948319919542
+Two-Dimensional Arrays,prior,default,0.24399608260010217
+Two-Dimensional Arrays,learns,Two-Dimensional Arrays,0.03524695347680112
+Two-Dimensional Arrays,guesses,Two-Dimensional Arrays,0.18757278460751656
+Two-Dimensional Arrays,slips,Two-Dimensional Arrays,0.1849433021258566
+Two-Dimensional Arrays,forgets,Two-Dimensional Arrays,0.5163629002407665
+Exception handling,prior,default,0.19446476382523892
+Exception handling,learns,Exception handling,0.0420882526214399
+Exception handling,guesses,Exception handling,0.0538957642175659
+Exception handling,slips,Exception handling,0.030107866961126686
+Exception handling,forgets,Exception handling,0.9792256217467651
+File processing,prior,default,0.1677319775268336
+File processing,learns,File processing,0.1843020229047318
+File processing,guesses,File processing,0.1981348856244574
+File processing,slips,File processing,0.2871491446516714
+File processing,forgets,File processing,0.6761255086706442

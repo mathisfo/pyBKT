@@ -1,0 +1,225 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.5079934091281217
+Variables and Operations,learns,compute_average,0.029112224837832736
+Variables and Operations,learns,days_to_week_conversion,0.02538839968289362
+Variables and Operations,learns,percentage_correctness,0.02211827984255569
+Variables and Operations,learns,rectangle_perimeter,0.050227050688745625
+Variables and Operations,learns,second_in_days,0.0663930771316283
+Variables and Operations,guesses,compute_average,0.2557155537049048
+Variables and Operations,guesses,days_to_week_conversion,0.30404652438489105
+Variables and Operations,guesses,percentage_correctness,0.09693687091263928
+Variables and Operations,guesses,rectangle_perimeter,0.3157121978664758
+Variables and Operations,guesses,second_in_days,0.20123283036166997
+Variables and Operations,slips,compute_average,0.01356820926412019
+Variables and Operations,slips,days_to_week_conversion,0.008092673583645781
+Variables and Operations,slips,percentage_correctness,0.019270289647276513
+Variables and Operations,slips,rectangle_perimeter,0.01585894784927191
+Variables and Operations,slips,second_in_days,0.04481662393851576
+Variables and Operations,forgets,compute_average,0.264351268521747
+Variables and Operations,forgets,days_to_week_conversion,0.22449177499470813
+Variables and Operations,forgets,percentage_correctness,0.15034143021825924
+Variables and Operations,forgets,rectangle_perimeter,0.17307226132121067
+Variables and Operations,forgets,second_in_days,0.2036449165908577
+Boolean Expressions,prior,default,0.736055129096169
+Boolean Expressions,learns,check_start_end_character,0.06086173037442893
+Boolean Expressions,learns,in_order,0.050037039879587714
+Boolean Expressions,learns,is_special,0.09294289480135783
+Boolean Expressions,learns,love6,0.06695179359900366
+Boolean Expressions,learns,squirrel_play,0.09594571917251293
+Boolean Expressions,guesses,check_start_end_character,0.09317310483699467
+Boolean Expressions,guesses,in_order,0.03809137797069061
+Boolean Expressions,guesses,is_special,0.0904073938738023
+Boolean Expressions,guesses,love6,0.07008648170693735
+Boolean Expressions,guesses,squirrel_play,0.09012455808299213
+Boolean Expressions,slips,check_start_end_character,0.31157319677679507
+Boolean Expressions,slips,in_order,0.46921727119714257
+Boolean Expressions,slips,is_special,0.2959376168725445
+Boolean Expressions,slips,love6,0.4703960576419697
+Boolean Expressions,slips,squirrel_play,0.42117764240049704
+Boolean Expressions,forgets,check_start_end_character,0.4628763141106601
+Boolean Expressions,forgets,in_order,0.5000202405021947
+Boolean Expressions,forgets,is_special,0.39786031406735956
+Boolean Expressions,forgets,love6,0.33216668270936694
+Boolean Expressions,forgets,squirrel_play,0.40811969139872384
+Inheritance,prior,default,0.006523591044980806
+Inheritance,learns,inheritance_1,0.1316200528647242
+Inheritance,learns,inheritance_2,0.12502240620431251
+Inheritance,guesses,inheritance_1,0.21404543978930834
+Inheritance,guesses,inheritance_2,0.26178469448285724
+Inheritance,slips,inheritance_1,0.3049490271099805
+Inheritance,slips,inheritance_2,0.17501859086307156
+Inheritance,forgets,inheritance_1,0.7071699101386996
+Inheritance,forgets,inheritance_2,0.7354712937375119
+ArrayLists,prior,default,0.17564623226615775
+ArrayLists,learns,array_lst_1,0.07128255385232043
+ArrayLists,guesses,array_lst_1,0.19840317845384817
+ArrayLists,slips,array_lst_1,0.03286098975420641
+ArrayLists,forgets,array_lst_1,0.49846184975236135
+Objects and Classes,prior,default,0.573601413201416
+Objects and Classes,learns,object_classes_1,0.02969124929608079
+Objects and Classes,learns,object_classes_2,0.04179517226560789
+Objects and Classes,learns,object_classes_3,0.04721916546434292
+Objects and Classes,learns,object_classes_4,0.025404600137421816
+Objects and Classes,guesses,object_classes_1,0.09953242723687511
+Objects and Classes,guesses,object_classes_2,0.08846605671604624
+Objects and Classes,guesses,object_classes_3,0.09695295512040876
+Objects and Classes,guesses,object_classes_4,0.08399091880094955
+Objects and Classes,slips,object_classes_1,0.3084039228557074
+Objects and Classes,slips,object_classes_2,0.31894125595961426
+Objects and Classes,slips,object_classes_3,0.312729835639799
+Objects and Classes,slips,object_classes_4,0.24065854409482032
+Objects and Classes,forgets,object_classes_1,0.190852261280824
+Objects and Classes,forgets,object_classes_2,0.18660536242841097
+Objects and Classes,forgets,object_classes_3,0.16956719436662832
+Objects and Classes,forgets,object_classes_4,0.20390238027421756
+Strings,prior,default,0.9551342273427262
+Strings,learns,end_characters,0.2634870162451718
+Strings,learns,first_half,0.24814423933113802
+Strings,learns,first_last_swap,0.2341227638713615
+Strings,learns,is_is_substring_or_ not_is_not_substring,0.25279782548856666
+Strings,learns,make_out_word,0.34348412401224826
+Strings,learns,non_start,0.41001731049165846
+Strings,learns,repeat_last_char,0.2577952682528586
+Strings,guesses,end_characters,0.16569054234462868
+Strings,guesses,first_half,0.12894327543934833
+Strings,guesses,first_last_swap,0.12593619852067978
+Strings,guesses,is_is_substring_or_ not_is_not_substring,0.12316774369670581
+Strings,guesses,make_out_word,0.3696544309626706
+Strings,guesses,non_start,0.41645739958336264
+Strings,guesses,repeat_last_char,0.18895683250021628
+Strings,slips,end_characters,0.4072684689582984
+Strings,slips,first_half,0.5105517469640874
+Strings,slips,first_last_swap,0.4941360293402852
+Strings,slips,is_is_substring_or_ not_is_not_substring,0.47076935793610813
+Strings,slips,make_out_word,0.18789948774248652
+Strings,slips,non_start,0.2006327015057904
+Strings,slips,repeat_last_char,0.3958484805628068
+Strings,forgets,end_characters,0.8202168851633608
+Strings,forgets,first_half,0.7559521113064164
+Strings,forgets,first_last_swap,0.8416805354992473
+Strings,forgets,is_is_substring_or_ not_is_not_substring,0.7966940079485686
+Strings,forgets,make_out_word,0.7334943462575674
+Strings,forgets,non_start,0.7097184509910263
+Strings,forgets,repeat_last_char,0.7871479228340809
+If-Else,prior,default,0.6349680089710819
+If-Else,learns,greenTicket,0.271184728854311
+If-Else,learns,in1To10,0.17817465161031631
+If-Else,learns,sortaSum,0.19553734283200333
+If-Else,learns,twoAsOne,0.2105416181588641
+If-Else,learns,without2,0.1683425237589449
+If-Else,guesses,greenTicket,0.06555469665513214
+If-Else,guesses,in1To10,0.04452412092000499
+If-Else,guesses,sortaSum,0.0344872530118484
+If-Else,guesses,twoAsOne,0.050245569637439126
+If-Else,guesses,without2,0.019150880323963834
+If-Else,slips,greenTicket,0.3559210433038107
+If-Else,slips,in1To10,0.30334350467741694
+If-Else,slips,sortaSum,0.4054755129031272
+If-Else,slips,twoAsOne,0.36463123181651486
+If-Else,slips,without2,0.4806128539231468
+If-Else,forgets,greenTicket,0.4273169363253796
+If-Else,forgets,in1To10,0.44590645189433814
+If-Else,forgets,sortaSum,0.4378505556390021
+If-Else,forgets,twoAsOne,0.5017181276001842
+If-Else,forgets,without2,0.4045992091859231
+While Loops,prior,default,0.5801848848118624
+While Loops,learns,smallest_integer,0.12808071296646903
+While Loops,learns,while1_coding,0.21087158212762222
+While Loops,learns,while2_coding,0.13205519322207845
+While Loops,learns,while3_coding,0.060878439273920656
+While Loops,learns,while4_coding,0.32639688114228016
+While Loops,learns,while5_coding,0.15725751786471728
+While Loops,guesses,smallest_integer,0.07142087219758912
+While Loops,guesses,while1_coding,0.09260941814337112
+While Loops,guesses,while2_coding,0.18777581289904607
+While Loops,guesses,while3_coding,0.04362544898529715
+While Loops,guesses,while4_coding,0.24907423341733245
+While Loops,guesses,while5_coding,0.0953184325809664
+While Loops,slips,smallest_integer,0.01821706057791523
+While Loops,slips,while1_coding,0.012017337457325552
+While Loops,slips,while2_coding,0.006169798489712592
+While Loops,slips,while3_coding,0.0288192035905903
+While Loops,slips,while4_coding,0.0031404137551370483
+While Loops,slips,while5_coding,0.01061926069376509
+While Loops,forgets,smallest_integer,0.926781123928979
+While Loops,forgets,while1_coding,0.575993876380756
+While Loops,forgets,while2_coding,0.7831337479242931
+While Loops,forgets,while3_coding,0.6963183454816406
+While Loops,forgets,while4_coding,0.7769525778621106
+While Loops,forgets,while5_coding,0.8198572421158297
+For Loops,prior,default,0.841519173890898
+For Loops,learns,for1_coding,0.05600606355134104
+For Loops,learns,for2_coding,0.11191637892738128
+For Loops,learns,for3_coding,0.13206432166583537
+For Loops,learns,for4_coding,0.06562565293173808
+For Loops,learns,largest_palindrome_product,0.08206835388073258
+For Loops,learns,largest_prime_factor,0.07690747641514531
+For Loops,learns,sum_square_difference,0.05633622074284397
+For Loops,guesses,for1_coding,0.1431048179635206
+For Loops,guesses,for2_coding,0.12632774897902346
+For Loops,guesses,for3_coding,0.31859459931275147
+For Loops,guesses,for4_coding,0.47300308977235817
+For Loops,guesses,largest_palindrome_product,0.07192743655910037
+For Loops,guesses,largest_prime_factor,0.22372889106440705
+For Loops,guesses,sum_square_difference,0.1135224095761677
+For Loops,slips,for1_coding,0.3132273350172396
+For Loops,slips,for2_coding,0.244245452557448
+For Loops,slips,for3_coding,0.2692398503634777
+For Loops,slips,for4_coding,0.1678359870140373
+For Loops,slips,largest_palindrome_product,0.45153774692037574
+For Loops,slips,largest_prime_factor,0.22650886413247767
+For Loops,slips,sum_square_difference,0.5563684929266166
+For Loops,forgets,for1_coding,0.17349484334950235
+For Loops,forgets,for2_coding,0.15035572370562225
+For Loops,forgets,for3_coding,0.15462398235832547
+For Loops,forgets,for4_coding,0.35404850907975616
+For Loops,forgets,largest_palindrome_product,0.21131418196827292
+For Loops,forgets,largest_prime_factor,0.27215271359437304
+For Loops,forgets,sum_square_difference,0.25578525245296685
+Nested Loops,prior,default,0.7193708712466473
+Nested Loops,learns,nested_loops_1,0.32143637449964435
+Nested Loops,learns,nested_loops_2,0.21440937985933864
+Nested Loops,learns,symmetrical_array,0.17106770744472372
+Nested Loops,guesses,nested_loops_1,0.1264056708676036
+Nested Loops,guesses,nested_loops_2,0.1632887880109981
+Nested Loops,guesses,symmetrical_array,0.017054612364191632
+Nested Loops,slips,nested_loops_1,0.34097332368380706
+Nested Loops,slips,nested_loops_2,0.32322902185503355
+Nested Loops,slips,symmetrical_array,0.8399797961814065
+Nested Loops,forgets,nested_loops_1,0.568513966725212
+Nested Loops,forgets,nested_loops_2,0.7971771439565452
+Nested Loops,forgets,symmetrical_array,0.8337119948558888
+Arrays,prior,default,0.4252738219098194
+Arrays,learns,array_4,0.14562080003555877
+Arrays,learns,arrays_1,0.2633596529321396
+Arrays,learns,arrays_2,0.12444148610720855
+Arrays,learns,arrays_3,0.174213116159869
+Arrays,learns,fixing_order_of_numbers,0.14576388085813058
+Arrays,guesses,array_4,1.4296998189039527e-53
+Arrays,guesses,arrays_1,7.559934373346979e-51
+Arrays,guesses,arrays_2,9.327085827215359e-52
+Arrays,guesses,arrays_3,4.135888459105264e-51
+Arrays,guesses,fixing_order_of_numbers,1.0
+Arrays,slips,array_4,0.05065748777489061
+Arrays,slips,arrays_1,0.057773912577654456
+Arrays,slips,arrays_2,0.156687236168536
+Arrays,slips,arrays_3,0.053211519573819144
+Arrays,slips,fixing_order_of_numbers,0.0
+Arrays,forgets,array_4,0.01189228833044082
+Arrays,forgets,arrays_1,0.4551374254587834
+Arrays,forgets,arrays_2,0.08871558053653635
+Arrays,forgets,arrays_3,0.12024472341309751
+Arrays,forgets,fixing_order_of_numbers,0.012459275675008047
+Two-Dimensional Arrays,prior,default,0.04528610388573343
+Two-Dimensional Arrays,learns,pcrs_2d_arrays_1,0.08834822667693729
+Two-Dimensional Arrays,learns,pcrs_2d_arrays_2,0.06066163116754956
+Two-Dimensional Arrays,learns,pcrs_2d_arrays_3,0.06995909218868396
+Two-Dimensional Arrays,guesses,pcrs_2d_arrays_1,0.22039701721231877
+Two-Dimensional Arrays,guesses,pcrs_2d_arrays_2,0.14105006382626994
+Two-Dimensional Arrays,guesses,pcrs_2d_arrays_3,0.32887582413591004
+Two-Dimensional Arrays,slips,pcrs_2d_arrays_1,0.24504009879395344
+Two-Dimensional Arrays,slips,pcrs_2d_arrays_2,0.3410730989588254
+Two-Dimensional Arrays,slips,pcrs_2d_arrays_3,0.14816871613944246
+Two-Dimensional Arrays,forgets,pcrs_2d_arrays_1,0.8212600652538936
+Two-Dimensional Arrays,forgets,pcrs_2d_arrays_2,0.8202433821894604
+Two-Dimensional Arrays,forgets,pcrs_2d_arrays_3,0.8676397029423294

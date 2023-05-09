@@ -1,0 +1,71 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.16611726114573713
+Variables and Operations,learns,default,0.09642359140603965
+Variables and Operations,guesses,default,0.10308720181130797
+Variables and Operations,slips,default,0.3202428519159341
+Variables and Operations,forgets,default,0.690061940813297
+Boolean Expressions,prior,default,0.601553215291473
+Boolean Expressions,learns,default,0.3660263123061552
+Boolean Expressions,guesses,default,0.038955885104156984
+Boolean Expressions,slips,default,0.24106843355103805
+Boolean Expressions,forgets,default,0.2977794022127339
+Strings,prior,default,0.31364234463528756
+Strings,learns,default,0.2920121843293029
+Strings,guesses,default,0.12937403225683788
+Strings,slips,default,0.30971464907355384
+Strings,forgets,default,0.8940119478070987
+If-Else,prior,default,0.40323799804286375
+If-Else,learns,default,0.26603282231836556
+If-Else,guesses,default,0.24469734706620433
+If-Else,slips,default,0.19990253980821845
+If-Else,forgets,default,0.887533755810295
+While Loops,prior,default,0.25632652342581785
+While Loops,learns,default,0.20100920838102998
+While Loops,guesses,default,0.013210690819407423
+While Loops,slips,default,0.3481263031234322
+While Loops,forgets,default,0.37591956345006733
+For Loops,prior,default,0.7215408259788847
+For Loops,learns,default,0.12429469295151616
+For Loops,guesses,default,0.28011801385794993
+For Loops,slips,default,0.031692453131581075
+For Loops,forgets,default,0.5603023308809837
+Objects and Classes,prior,default,0.022378185203970904
+Objects and Classes,learns,default,0.16961460508878598
+Objects and Classes,guesses,default,0.03730139092086271
+Objects and Classes,slips,default,0.1331389924220043
+Objects and Classes,forgets,default,0.9908145055140527
+Nested Loops,prior,default,0.5719676674397389
+Nested Loops,learns,default,0.12379502310301425
+Nested Loops,guesses,default,0.20158323230520325
+Nested Loops,slips,default,0.40523738740523185
+Nested Loops,forgets,default,0.9166422103503479
+Inheritance,prior,default,0.5088017889436207
+Inheritance,learns,default,0.059236239877791204
+Inheritance,guesses,default,0.18874615723718952
+Inheritance,slips,default,0.8516739120646905
+Inheritance,forgets,default,0.8607060428169744
+ArrayLists,prior,default,0.8181623194244726
+ArrayLists,learns,default,0.1895734173340733
+ArrayLists,guesses,default,0.016937563130322277
+ArrayLists,slips,default,0.850982977446891
+ArrayLists,forgets,default,0.41455509840925925
+Arrays,prior,default,0.1841393671176659
+Arrays,learns,default,0.17650134840626758
+Arrays,guesses,default,0.28937534319760744
+Arrays,slips,default,0.3323699653329401
+Arrays,forgets,default,0.8798333257521567
+Two-Dimensional Arrays,prior,default,0.601941156829728
+Two-Dimensional Arrays,learns,default,0.20688281480003143
+Two-Dimensional Arrays,guesses,default,0.12722333748201037
+Two-Dimensional Arrays,slips,default,0.45988136619443976
+Two-Dimensional Arrays,forgets,default,0.6117951317892644
+Exception handling,prior,default,0.36055286534480024
+Exception handling,learns,default,0.09314253545900571
+Exception handling,guesses,default,0.0641288386613487
+Exception handling,slips,default,0.6500549901116526
+Exception handling,forgets,default,0.25541489174822474
+File processing,prior,default,0.17463182011354705
+File processing,learns,default,0.3503651758750613
+File processing,guesses,default,0.10924188714085434
+File processing,slips,default,0.2014146341263316
+File processing,forgets,default,0.5937871016570714

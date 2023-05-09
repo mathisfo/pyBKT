@@ -1,0 +1,43 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.25588762526410563
+Variables and Operations,learns,BmiCalculator2,0.003039194482020976
+Variables and Operations,learns,DisplayTime2,0.0028048176558930675
+Variables and Operations,learns,FahrenheitToCelsius,0.003081095994434464
+Variables and Operations,learns,JDecInc2,0.0027993144891258572
+Variables and Operations,learns,JDecInc3,0.0028570751459455275
+Variables and Operations,learns,PythagoreanTheorem2,0.0027177979605562093
+Variables and Operations,learns,VendingMachine2,0.0030426682769125004
+Variables and Operations,guesses,BmiCalculator2,0.3410943936168893
+Variables and Operations,guesses,DisplayTime2,0.0
+Variables and Operations,guesses,FahrenheitToCelsius,0.15757158564405493
+Variables and Operations,guesses,JDecInc2,0.3062849775357872
+Variables and Operations,guesses,JDecInc3,0.30357124256305307
+Variables and Operations,guesses,PythagoreanTheorem2,0.24888883864125497
+Variables and Operations,guesses,VendingMachine2,0.273458840607463
+Variables and Operations,slips,BmiCalculator2,0.9384520655753575
+Variables and Operations,slips,DisplayTime2,1.0
+Variables and Operations,slips,FahrenheitToCelsius,0.9842239847251859
+Variables and Operations,slips,JDecInc2,0.868923783402354
+Variables and Operations,slips,JDecInc3,0.969658210763021
+Variables and Operations,slips,PythagoreanTheorem2,0.7422156543130275
+Variables and Operations,slips,VendingMachine2,0.8772011272119182
+Variables and Operations,forgets,BmiCalculator2,0.9349853344447779
+Variables and Operations,forgets,DisplayTime2,0.9413008356214297
+Variables and Operations,forgets,FahrenheitToCelsius,0.9522311346060987
+Variables and Operations,forgets,JDecInc2,0.9404634409804589
+Variables and Operations,forgets,JDecInc3,0.9341148543791026
+Variables and Operations,forgets,PythagoreanTheorem2,0.9409659926995836
+Variables and Operations,forgets,VendingMachine2,0.9347554413633102
+If-Else,prior,default,0.5228762710231435
+If-Else,learns,JIfElseIfGrade2,0.013789062925384371
+If-Else,learns,JIfElseWages2,0.19845241935782684
+If-Else,learns,ifElseOddEven,0.040001535396179067
+If-Else,guesses,JIfElseIfGrade2,0.4476511357689373
+If-Else,guesses,JIfElseWages2,0.20781277026456071
+If-Else,guesses,ifElseOddEven,0.21523170526790558
+If-Else,slips,JIfElseIfGrade2,0.06605487486493826
+If-Else,slips,JIfElseWages2,0.08896795199354667
+If-Else,slips,ifElseOddEven,0.10066573293835028
+If-Else,forgets,JIfElseIfGrade2,0.9279548259900491
+If-Else,forgets,JIfElseWages2,0.5264692913015581
+If-Else,forgets,ifElseOddEven,0.64042129880953

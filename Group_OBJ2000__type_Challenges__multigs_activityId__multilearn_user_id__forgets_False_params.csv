@@ -1,0 +1,77 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.11190061537900037
+Variables and Operations,learns,norway22101,0.00016336374889853444
+Variables and Operations,learns,norway22102,0.0007925608236427252
+Variables and Operations,learns,norway22104,0.0011871390386796188
+Variables and Operations,learns,norway22105,0.00016336374889853447
+Variables and Operations,learns,norway22107,0.027193768554356887
+Variables and Operations,learns,norway22109,0.0002399238390861097
+Variables and Operations,learns,norway22110,0.0003075573837187611
+Variables and Operations,learns,norway22112,0.0005938220376816032
+Variables and Operations,learns,norway22114,0.004677089448986133
+Variables and Operations,learns,norway22127,0.0041724917142582476
+Variables and Operations,learns,norway22131,0.0004146479663956953
+Variables and Operations,learns,norway22132,0.0002399238390861097
+Variables and Operations,learns,norway22137,0.0016834653135965236
+Variables and Operations,learns,norway22142,0.0011265715535961236
+Variables and Operations,learns,norway22149,0.00025750160130408106
+Variables and Operations,learns,norway22150,0.00018406977793075516
+Variables and Operations,learns,norway22160,0.0002399238390861097
+Variables and Operations,guesses,BmiCalculator2,0.24286019239950563
+Variables and Operations,guesses,DisplayTime2,0.0
+Variables and Operations,guesses,FahrenheitToCelsius,0.10848543892039923
+Variables and Operations,guesses,JDecInc2,0.1844795051926031
+Variables and Operations,guesses,JDecInc3,0.19202690753934404
+Variables and Operations,guesses,PythagoreanTheorem2,0.19403170295591346
+Variables and Operations,guesses,VendingMachine2,0.1557969487121174
+Variables and Operations,slips,BmiCalculator2,0.15798028407429734
+Variables and Operations,slips,DisplayTime2,1.0
+Variables and Operations,slips,FahrenheitToCelsius,0.5028644610941395
+Variables and Operations,slips,JDecInc2,0.07744691902519851
+Variables and Operations,slips,JDecInc3,0.03260240851677775
+Variables and Operations,slips,PythagoreanTheorem2,0.43547802546921627
+Variables and Operations,slips,VendingMachine2,0.016002968727553465
+Variables and Operations,forgets,norway22101,0.0
+Variables and Operations,forgets,norway22102,0.0
+Variables and Operations,forgets,norway22104,0.0
+Variables and Operations,forgets,norway22105,0.0
+Variables and Operations,forgets,norway22107,0.0
+Variables and Operations,forgets,norway22109,0.0
+Variables and Operations,forgets,norway22110,0.0
+Variables and Operations,forgets,norway22112,0.0
+Variables and Operations,forgets,norway22114,0.0
+Variables and Operations,forgets,norway22127,0.0
+Variables and Operations,forgets,norway22131,0.0
+Variables and Operations,forgets,norway22132,0.0
+Variables and Operations,forgets,norway22137,0.0
+Variables and Operations,forgets,norway22142,0.0
+Variables and Operations,forgets,norway22149,0.0
+Variables and Operations,forgets,norway22150,0.0
+Variables and Operations,forgets,norway22160,0.0
+If-Else,prior,default,0.781598362163445
+If-Else,learns,norway22101,0.022186528983433988
+If-Else,learns,norway22102,0.022186528983433988
+If-Else,learns,norway22107,0.24478777633568927
+If-Else,learns,norway22108,0.09888118632978349
+If-Else,learns,norway22109,1.0
+If-Else,learns,norway22114,0.09888118632978349
+If-Else,learns,norway22127,0.24478777633568927
+If-Else,learns,norway22149,0.09888118632978349
+If-Else,learns,norway22150,0.016223821990939198
+If-Else,learns,norway22175,0.016223821990939198
+If-Else,guesses,JIfElseIfGrade2,0.30825846462906414
+If-Else,guesses,JIfElseWages2,0.10347355589160401
+If-Else,guesses,ifElseOddEven,0.22104774685020206
+If-Else,slips,JIfElseIfGrade2,0.3555257371040589
+If-Else,slips,JIfElseWages2,0.5335565076020788
+If-Else,slips,ifElseOddEven,0.3456876645531055
+If-Else,forgets,norway22101,0.0
+If-Else,forgets,norway22102,0.0
+If-Else,forgets,norway22107,0.0
+If-Else,forgets,norway22108,0.0
+If-Else,forgets,norway22109,0.0
+If-Else,forgets,norway22114,0.0
+If-Else,forgets,norway22127,0.0
+If-Else,forgets,norway22149,0.0
+If-Else,forgets,norway22150,0.0
+If-Else,forgets,norway22175,0.0

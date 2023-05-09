@@ -1,0 +1,267 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.0778157812119081
+Variables and Operations,learns,BmiCalculator2,0.040068305153692314
+Variables and Operations,learns,DisplayTime2,0.0468757978990155
+Variables and Operations,learns,FahrenheitToCelsius,0.03635290609495786
+Variables and Operations,learns,JDecInc2,0.03829954191783046
+Variables and Operations,learns,JDecInc3,0.04499594030807329
+Variables and Operations,learns,PythagoreanTheorem2,0.04960030420204623
+Variables and Operations,learns,VendingMachine2,0.051182089022748026
+Variables and Operations,guesses,BmiCalculator2,0.16453697589074623
+Variables and Operations,guesses,DisplayTime2,0.026113840876414274
+Variables and Operations,guesses,FahrenheitToCelsius,0.1513282950783622
+Variables and Operations,guesses,JDecInc2,0.1529200205456571
+Variables and Operations,guesses,JDecInc3,0.18389114088833894
+Variables and Operations,guesses,PythagoreanTheorem2,0.12660083030138483
+Variables and Operations,guesses,VendingMachine2,0.14368911209519378
+Variables and Operations,slips,BmiCalculator2,0.6178216349097444
+Variables and Operations,slips,DisplayTime2,0.7378314717291029
+Variables and Operations,slips,FahrenheitToCelsius,0.5274091214017448
+Variables and Operations,slips,JDecInc2,0.40503664161190983
+Variables and Operations,slips,JDecInc3,0.6270875982238626
+Variables and Operations,slips,PythagoreanTheorem2,0.6349814049497938
+Variables and Operations,slips,VendingMachine2,0.6276590560406985
+Variables and Operations,forgets,BmiCalculator2,0.0
+Variables and Operations,forgets,DisplayTime2,0.0
+Variables and Operations,forgets,FahrenheitToCelsius,0.0
+Variables and Operations,forgets,JDecInc2,0.0
+Variables and Operations,forgets,JDecInc3,0.0
+Variables and Operations,forgets,PythagoreanTheorem2,0.0
+Variables and Operations,forgets,VendingMachine2,0.0
+Boolean Expressions,prior,default,0.011279939083312854
+Boolean Expressions,learns,JBooleanDryHot2,1.719950980737972e-05
+Boolean Expressions,learns,JBooleanDryHot3,4.758841304374898e-18
+Boolean Expressions,learns,JBooleanDryHot4,1.2191469467312723e-17
+Boolean Expressions,learns,JFailCourse2,7.533686017499391e-05
+Boolean Expressions,learns,JFailCourse3,5.6417230460250905e-05
+Boolean Expressions,learns,JPhoneAge2,4.437528393841781e-05
+Boolean Expressions,learns,JRentCar2,3.599782331769597e-05
+Boolean Expressions,learns,JRentCar3,2.488276104614002e-05
+Boolean Expressions,learns,JThreeBoolean2,1.600714649116887e-05
+Boolean Expressions,learns,JThreeBoolean3,4.7839647006770975e-05
+Boolean Expressions,guesses,JBooleanDryHot2,0.692249748479349
+Boolean Expressions,guesses,JBooleanDryHot3,0.6153055690435482
+Boolean Expressions,guesses,JBooleanDryHot4,0.14285714285714285
+Boolean Expressions,guesses,JFailCourse2,0.6449547067360428
+Boolean Expressions,guesses,JFailCourse3,0.3845690199776953
+Boolean Expressions,guesses,JPhoneAge2,0.42388169251130803
+Boolean Expressions,guesses,JRentCar2,0.69226848421884
+Boolean Expressions,guesses,JRentCar3,0.21416647848723783
+Boolean Expressions,guesses,JThreeBoolean2,0.26174618384606774
+Boolean Expressions,guesses,JThreeBoolean3,0.4413307354311592
+Boolean Expressions,slips,JBooleanDryHot2,2.4434916468430813e-40
+Boolean Expressions,slips,JBooleanDryHot3,8.0023317636681245e-28
+Boolean Expressions,slips,JBooleanDryHot4,0.907426983772679
+Boolean Expressions,slips,JFailCourse2,9.141015867596267e-16
+Boolean Expressions,slips,JFailCourse3,3.142542751884131e-14
+Boolean Expressions,slips,JPhoneAge2,1.281915305653499e-13
+Boolean Expressions,slips,JRentCar2,6.906666686304305e-67
+Boolean Expressions,slips,JRentCar3,2.9345265774134736e-12
+Boolean Expressions,slips,JThreeBoolean2,1.8198905372750131e-16
+Boolean Expressions,slips,JThreeBoolean3,1.6283273068452802e-15
+Boolean Expressions,forgets,JBooleanDryHot2,0.0
+Boolean Expressions,forgets,JBooleanDryHot3,0.0
+Boolean Expressions,forgets,JBooleanDryHot4,0.0
+Boolean Expressions,forgets,JFailCourse2,0.0
+Boolean Expressions,forgets,JFailCourse3,0.0
+Boolean Expressions,forgets,JPhoneAge2,0.0
+Boolean Expressions,forgets,JRentCar2,0.0
+Boolean Expressions,forgets,JRentCar3,0.0
+Boolean Expressions,forgets,JThreeBoolean2,0.0
+Boolean Expressions,forgets,JThreeBoolean3,0.0
+Strings,prior,default,0.012323054506015993
+Strings,learns,Initials2,4.7725838014008046e-11
+Strings,learns,Initials3,1.969367038141264e-09
+Strings,learns,JCharAt2,2.733044474792019e-09
+Strings,learns,JEscapeChar2,1.7743906910042684e-10
+Strings,learns,JEscapeChar3,1.2458788213896632e-08
+Strings,learns,JStringEqual2,6.262476311098001e-09
+Strings,learns,StringAddition2,8.935413623914618e-10
+Strings,guesses,Initials2,0.17784592361485568
+Strings,guesses,Initials3,0.24017395725917942
+Strings,guesses,JCharAt2,0.6607361609869239
+Strings,guesses,JEscapeChar2,0.3325785534401651
+Strings,guesses,JEscapeChar3,0.05006091513983327
+Strings,guesses,JStringEqual2,0.21411151369687575
+Strings,guesses,StringAddition2,0.2493813069075661
+Strings,slips,Initials2,0.012157873487117183
+Strings,slips,Initials3,0.9661294165043428
+Strings,slips,JCharAt2,0.0018751784341045298
+Strings,slips,JEscapeChar2,0.02709436522831039
+Strings,slips,JEscapeChar3,0.9999928770772746
+Strings,slips,JStringEqual2,6.021398575996656e-05
+Strings,slips,StringAddition2,0.15180926158085087
+Strings,forgets,Initials2,0.0
+Strings,forgets,Initials3,0.0
+Strings,forgets,JCharAt2,0.0
+Strings,forgets,JEscapeChar2,0.0
+Strings,forgets,JEscapeChar3,0.0
+Strings,forgets,JStringEqual2,0.0
+Strings,forgets,StringAddition2,0.0
+If-Else,prior,default,0.44194678369506557
+If-Else,learns,JIfElseIfGrade2,0.09204296817182878
+If-Else,learns,JIfElseWages2,0.10314208424602413
+If-Else,learns,JNestedIfMaxOfThree,0.07176300398085071
+If-Else,learns,JNestedIfTemperature2,0.07172358164402567
+If-Else,learns,ifElseOddEven,0.06928580671803183
+If-Else,guesses,JIfElseIfGrade2,0.24642588938917784
+If-Else,guesses,JIfElseWages2,0.029183983151741647
+If-Else,guesses,JNestedIfMaxOfThree,0.30543526276799104
+If-Else,guesses,JNestedIfTemperature2,0.16306382353845836
+If-Else,guesses,ifElseOddEven,0.34495680959647584
+If-Else,slips,JIfElseIfGrade2,0.34498320833307244
+If-Else,slips,JIfElseWages2,0.8061653530694938
+If-Else,slips,JNestedIfMaxOfThree,0.28375536527553974
+If-Else,slips,JNestedIfTemperature2,0.4579308118148168
+If-Else,slips,ifElseOddEven,0.36839023685494476
+If-Else,forgets,JIfElseIfGrade2,0.0
+If-Else,forgets,JIfElseWages2,0.0
+If-Else,forgets,JNestedIfMaxOfThree,0.0
+If-Else,forgets,JNestedIfTemperature2,0.0
+If-Else,forgets,ifElseOddEven,0.0
+While Loops,prior,default,0.0018422267967854735
+While Loops,learns,JAdjacentConsecutives,0.0036802789465529228
+While Loops,learns,JInput2,1.3276037553367052e-05
+While Loops,learns,JInput3,0.009081441711362132
+While Loops,learns,JInput4,0.0026029745168729018
+While Loops,learns,JLargestDivisor,5.2652122615980734e-05
+While Loops,learns,JSumDigits,0.0007439792217607562
+While Loops,guesses,JAdjacentConsecutives,0.28892900947551814
+While Loops,guesses,JInput2,0.30607404622816153
+While Loops,guesses,JInput3,0.16709147720741196
+While Loops,guesses,JInput4,0.1720272224420977
+While Loops,guesses,JLargestDivisor,0.16459534461792807
+While Loops,guesses,JSumDigits,0.17756461002781898
+While Loops,slips,JAdjacentConsecutives,0.0003492430281152958
+While Loops,slips,JInput2,0.0007516697189906658
+While Loops,slips,JInput3,0.9999999968956259
+While Loops,slips,JInput4,8.850585898182113e-05
+While Loops,slips,JLargestDivisor,0.0012282067109596017
+While Loops,slips,JSumDigits,0.005953871195264569
+While Loops,forgets,JAdjacentConsecutives,0.0
+While Loops,forgets,JInput2,0.0
+While Loops,forgets,JInput3,0.0
+While Loops,forgets,JInput4,0.0
+While Loops,forgets,JLargestDivisor,0.0
+While Loops,forgets,JSumDigits,0.0
+For Loops,prior,default,0.008155588856876101
+For Loops,learns,JForOne2,9.709732942700814e-05
+For Loops,learns,JForThree2,7.607508513768739e-05
+For Loops,learns,JForTwo2,0.00010008944351281253
+For Loops,learns,JWriteSquaresOdd,0.00011775189071507756
+For Loops,learns,JWriteSquaresRange,0.0005917912983380985
+For Loops,guesses,JForOne2,0.7479443375171138
+For Loops,guesses,JForThree2,0.4618516892637993
+For Loops,guesses,JForTwo2,0.495839768382698
+For Loops,guesses,JWriteSquaresOdd,0.5687783406295535
+For Loops,guesses,JWriteSquaresRange,0.24456766206083003
+For Loops,slips,JForOne2,1.3987586484280386e-10
+For Loops,slips,JForThree2,2.77907161136038e-10
+For Loops,slips,JForTwo2,5.42593536991808e-06
+For Loops,slips,JWriteSquaresOdd,8.765820521117227e-06
+For Loops,slips,JWriteSquaresRange,3.149487422378517e-05
+For Loops,forgets,JForOne2,0.0
+For Loops,forgets,JForThree2,0.0
+For Loops,forgets,JForTwo2,0.0
+For Loops,forgets,JWriteSquaresOdd,0.0
+For Loops,forgets,JWriteSquaresRange,0.0
+Objects and Classes,prior,default,1.5178110892256462e-06
+Objects and Classes,learns,LoanTester2,0.00013505373055884304
+Objects and Classes,learns,PointTester2,0.00030798643672500225
+Objects and Classes,learns,TVTester2,0.00012024579625946139
+Objects and Classes,learns,Transactions2,0.0007986333796989361
+Objects and Classes,guesses,LoanTester2,0.35663967604885416
+Objects and Classes,guesses,PointTester2,0.0
+Objects and Classes,guesses,TVTester2,0.11737347365429941
+Objects and Classes,guesses,Transactions2,0.12500668305222778
+Objects and Classes,slips,LoanTester2,0.12444073695281185
+Objects and Classes,slips,PointTester2,1.0
+Objects and Classes,slips,TVTester2,0.10157856105857094
+Objects and Classes,slips,Transactions2,0.9004168338517731
+Objects and Classes,forgets,LoanTester2,0.0
+Objects and Classes,forgets,PointTester2,0.0
+Objects and Classes,forgets,TVTester2,0.0
+Objects and Classes,forgets,Transactions2,0.0
+Nested Loops,prior,default,0.1879856452545738
+Nested Loops,learns,JRepeatedSequence2,0.0012294958745429699
+Nested Loops,learns,JStars2,0.004515003844188424
+Nested Loops,guesses,JRepeatedSequence2,0.21473664175622492
+Nested Loops,guesses,JStars2,0.21672117260011292
+Nested Loops,slips,JRepeatedSequence2,0.16542526520863698
+Nested Loops,slips,JStars2,0.16323868275414816
+Nested Loops,forgets,JRepeatedSequence2,0.0
+Nested Loops,forgets,JStars2,0.0
+Inheritance,prior,default,0.17316184576006566
+Inheritance,learns,AnimalTester2,0.14905573161216457
+Inheritance,learns,InheritancePointTester2,0.07923323339720255
+Inheritance,guesses,AnimalTester2,0.03265723117258072
+Inheritance,guesses,InheritancePointTester2,0.02513411805673018
+Inheritance,slips,AnimalTester2,0.4962647677150384
+Inheritance,slips,InheritancePointTester2,0.32737946953657643
+Inheritance,forgets,AnimalTester2,0.0
+Inheritance,forgets,InheritancePointTester2,0.0
+ArrayLists,prior,default,0.8619933543753172
+ArrayLists,learns,JVocabulary2,1.0
+ArrayLists,guesses,JVocabulary2,0.0030086716568567752
+ArrayLists,slips,JVocabulary2,0.8554689746916468
+ArrayLists,forgets,JVocabulary2,0.0
+Arrays,prior,default,0.06838547883797257
+Arrays,learns,JArrayBasic2,0.0068917979140369285
+Arrays,learns,JArrayBasic3,0.00791007262704524
+Arrays,learns,JArrayFillUserInput,0.0008701461438716566
+Arrays,learns,JAverageArrayElements,0.0023368738868445884
+Arrays,learns,JSearchArrayCountsEach,1.5160301425703225e-05
+Arrays,guesses,JArrayBasic2,0.526039113823118
+Arrays,guesses,JArrayBasic3,0.4857489639398369
+Arrays,guesses,JArrayFillUserInput,0.3132845251072022
+Arrays,guesses,JAverageArrayElements,0.31195779589491995
+Arrays,guesses,JSearchArrayCountsEach,0.02182730115851206
+Arrays,slips,JArrayBasic2,2.006506700618399e-07
+Arrays,slips,JArrayBasic3,2.247851350008147e-05
+Arrays,slips,JArrayFillUserInput,0.0006714797113660379
+Arrays,slips,JAverageArrayElements,7.36306914747753e-05
+Arrays,slips,JSearchArrayCountsEach,0.004428283393551364
+Arrays,forgets,JArrayBasic2,0.0
+Arrays,forgets,JArrayBasic3,0.0
+Arrays,forgets,JArrayFillUserInput,0.0
+Arrays,forgets,JAverageArrayElements,0.0
+Arrays,forgets,JSearchArrayCountsEach,0.0
+Two-Dimensional Arrays,prior,default,0.13307757695914071
+Two-Dimensional Arrays,learns,JArrays2dBasic2,0.0018922861220013658
+Two-Dimensional Arrays,learns,JArrays2dBasic3,0.0012221124432762675
+Two-Dimensional Arrays,learns,JPrintMedalsRowColumnTotal,0.0009492977073887306
+Two-Dimensional Arrays,learns,JSodaSurverySodaAvg,0.0016133085171953269
+Two-Dimensional Arrays,learns,JSodaSurverySodaRespondentAvg,0.001148539887019327
+Two-Dimensional Arrays,guesses,JArrays2dBasic2,0.28372691935771704
+Two-Dimensional Arrays,guesses,JArrays2dBasic3,0.604411370846487
+Two-Dimensional Arrays,guesses,JPrintMedalsRowColumnTotal,0.1282376038112469
+Two-Dimensional Arrays,guesses,JSodaSurverySodaAvg,0.0
+Two-Dimensional Arrays,guesses,JSodaSurverySodaRespondentAvg,0.08054285703383643
+Two-Dimensional Arrays,slips,JArrays2dBasic2,0.3437046812376616
+Two-Dimensional Arrays,slips,JArrays2dBasic3,0.09227851231303191
+Two-Dimensional Arrays,slips,JPrintMedalsRowColumnTotal,0.43550582564811824
+Two-Dimensional Arrays,slips,JSodaSurverySodaAvg,1.0
+Two-Dimensional Arrays,slips,JSodaSurverySodaRespondentAvg,0.9590927419669999
+Two-Dimensional Arrays,forgets,JArrays2dBasic2,0.0
+Two-Dimensional Arrays,forgets,JArrays2dBasic3,0.0
+Two-Dimensional Arrays,forgets,JPrintMedalsRowColumnTotal,0.0
+Two-Dimensional Arrays,forgets,JSodaSurverySodaAvg,0.0
+Two-Dimensional Arrays,forgets,JSodaSurverySodaRespondentAvg,0.0
+Exception handling,prior,default,0.2909662210280049
+Exception handling,learns,JCheckAge2,1.0
+Exception handling,learns,JDecInc2,1.0
+Exception handling,guesses,JCheckAge2,0.12444248269209876
+Exception handling,guesses,JDecInc2,0.0
+Exception handling,slips,JCheckAge2,0.30328317870430194
+Exception handling,slips,JDecInc2,1.0
+Exception handling,forgets,JCheckAge2,0.0
+Exception handling,forgets,JDecInc2,0.0
+File processing,prior,default,0.453806589905333
+File processing,learns,JInputStat2,0.00045394675425330016
+File processing,learns,JWorkHours2,0.0030254592608851896
+File processing,guesses,JInputStat2,0.11213207026521281
+File processing,guesses,JWorkHours2,0.0
+File processing,slips,JInputStat2,0.2540302113600123
+File processing,slips,JWorkHours2,1.0
+File processing,forgets,JInputStat2,0.0
+File processing,forgets,JWorkHours2,0.0

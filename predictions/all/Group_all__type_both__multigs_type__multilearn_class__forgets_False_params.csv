@@ -1,0 +1,123 @@
+skill,param,class,value
+Variables and Operations,prior,default,0.8891471356673798
+Variables and Operations,learns,OBJ2000,0.016713908226487995
+Variables and Operations,learns,OBJ2100,0.01701585175877035
+Variables and Operations,guesses,Challenges,0.10422857962974018
+Variables and Operations,guesses,Coding,0.09885048533124752
+Variables and Operations,slips,Challenges,0.7969470052187463
+Variables and Operations,slips,Coding,0.6711409845129208
+Variables and Operations,forgets,OBJ2000,0.0
+Variables and Operations,forgets,OBJ2100,0.0
+Strings,prior,default,0.21486410473742
+Strings,learns,OBJ2000,0.009386740664561405
+Strings,learns,OBJ2100,0.017488046730527836
+Strings,guesses,Challenges,0.23127029846117106
+Strings,guesses,Coding,0.15286849823183715
+Strings,slips,Challenges,0.569916621192139
+Strings,slips,Coding,0.39342001900867835
+Strings,forgets,OBJ2000,0.0
+Strings,forgets,OBJ2100,0.0
+Arrays,prior,default,0.13122428322482474
+Arrays,learns,OBJ2000,0.01091439623669508
+Arrays,learns,OBJ2100,0.020642542070323622
+Arrays,guesses,Challenges,0.19977645587052476
+Arrays,guesses,Coding,0.2261084921177215
+Arrays,slips,Challenges,0.36291692614595833
+Arrays,slips,Coding,0.3218095085766566
+Arrays,forgets,OBJ2000,0.0
+Arrays,forgets,OBJ2100,0.0
+If-Else,prior,default,0.01541062984544835
+If-Else,learns,OBJ2000,3.087588904984208e-05
+If-Else,learns,OBJ2100,5.437929914146892e-05
+If-Else,guesses,Challenges,0.4378934541065008
+If-Else,guesses,Coding,0.1847228342170028
+If-Else,slips,Challenges,0.34011265434324794
+If-Else,slips,Coding,0.33767478758190395
+If-Else,forgets,OBJ2000,0.0
+If-Else,forgets,OBJ2100,0.0
+While Loops,prior,default,0.09137778427678767
+While Loops,learns,OBJ2000,0.0022621561493384656
+While Loops,learns,OBJ2100,0.004801222567954109
+While Loops,guesses,Challenges,0.2567736121007544
+While Loops,guesses,Coding,0.17827878913049813
+While Loops,slips,Challenges,0.45631464180069303
+While Loops,slips,Coding,0.17411365329709663
+While Loops,forgets,OBJ2000,0.0
+While Loops,forgets,OBJ2100,0.0
+ArrayLists,prior,default,0.6055749853374858
+ArrayLists,learns,OBJ2000,0.6130273907059555
+ArrayLists,learns,OBJ2100,0.5881385383122084
+ArrayLists,guesses,Challenges,4.196573449539997e-34
+ArrayLists,guesses,Coding,1.4311473854830525e-15
+ArrayLists,slips,Challenges,0.8477679979292282
+ArrayLists,slips,Coding,0.6644667844818095
+ArrayLists,forgets,OBJ2000,0.0
+ArrayLists,forgets,OBJ2100,0.0
+Inheritance,prior,default,0.6448878067011204
+Inheritance,learns,OBJ2000,0.1644463350704759
+Inheritance,learns,OBJ2100,0.21992316883123206
+Inheritance,guesses,Challenges,0.03176975494371089
+Inheritance,guesses,Coding,0.08368296085106738
+Inheritance,slips,Challenges,0.8115010140690245
+Inheritance,slips,Coding,0.6538760876789674
+Inheritance,forgets,OBJ2000,0.0
+Inheritance,forgets,OBJ2100,0.0
+Objects and Classes,prior,default,0.6934094955548038
+Objects and Classes,learns,OBJ2000,0.06998903133231232
+Objects and Classes,learns,OBJ2100,0.057680660747067104
+Objects and Classes,guesses,Challenges,0.11448970691424032
+Objects and Classes,guesses,Coding,0.13974176180306772
+Objects and Classes,slips,Challenges,0.8308823370287343
+Objects and Classes,slips,Coding,0.7744556311505703
+Objects and Classes,forgets,OBJ2000,0.0
+Objects and Classes,forgets,OBJ2100,0.0
+Two-Dimensional Arrays,prior,default,0.34053267327603254
+Two-Dimensional Arrays,learns,OBJ2000,0.018680148332687867
+Two-Dimensional Arrays,learns,OBJ2100,0.01968605087816858
+Two-Dimensional Arrays,guesses,Challenges,0.27807043985016977
+Two-Dimensional Arrays,guesses,Coding,0.20945846752124578
+Two-Dimensional Arrays,slips,Challenges,0.6961613716562183
+Two-Dimensional Arrays,slips,Coding,0.6923756897326312
+Two-Dimensional Arrays,forgets,OBJ2000,0.0
+Two-Dimensional Arrays,forgets,OBJ2100,0.0
+Nested Loops,prior,default,0.04440951982520001
+Nested Loops,learns,OBJ2000,0.18794181210738317
+Nested Loops,learns,OBJ2100,0.14472278835033459
+Nested Loops,guesses,Challenges,0.38029457270659994
+Nested Loops,guesses,Coding,0.4756809798129212
+Nested Loops,slips,Challenges,0.8784136493866823
+Nested Loops,slips,Coding,0.9351599738082599
+Nested Loops,forgets,OBJ2000,0.0
+Nested Loops,forgets,OBJ2100,0.0
+For Loops,prior,default,0.3119222168925163
+For Loops,learns,OBJ2000,0.06819881896876852
+For Loops,learns,OBJ2100,0.03139203879244738
+For Loops,guesses,Challenges,0.4118751906013477
+For Loops,guesses,Coding,0.2590969711875866
+For Loops,slips,Challenges,0.35821411392543157
+For Loops,slips,Coding,0.3612980971621445
+For Loops,forgets,OBJ2000,0.0
+For Loops,forgets,OBJ2100,0.0
+Boolean Expressions,prior,default,0.011471999995239197
+Boolean Expressions,learns,OBJ2000,5.865520418232983e-06
+Boolean Expressions,learns,OBJ2100,6.129874282851527e-06
+Boolean Expressions,guesses,Challenges,0.5090660188865929
+Boolean Expressions,guesses,Coding,0.17700601139366254
+Boolean Expressions,slips,Challenges,0.26626719614115346
+Boolean Expressions,slips,Coding,0.24206297889199352
+Boolean Expressions,forgets,OBJ2000,0.0
+Boolean Expressions,forgets,OBJ2100,0.0
+Exception handling,prior,default,0.28250844485585874
+Exception handling,learns,OBJ2000,0.01660815761955421
+Exception handling,learns,OBJ2100,0.01744958885612031
+Exception handling,guesses,Challenges,0.020963408349111232
+Exception handling,slips,Challenges,0.5260464399021028
+Exception handling,forgets,OBJ2000,0.0
+Exception handling,forgets,OBJ2100,0.0
+File processing,prior,default,0.4907148327126352
+File processing,learns,OBJ2000,0.08628037180400615
+File processing,learns,OBJ2100,0.13685608039337804
+File processing,guesses,Challenges,0.03777606815482171
+File processing,slips,Challenges,0.516647779256591
+File processing,forgets,OBJ2000,0.0
+File processing,forgets,OBJ2100,0.0
