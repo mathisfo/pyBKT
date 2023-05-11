@@ -127,6 +127,7 @@ def main(multilearn=False, multigs=False, forgets=False, group=all, type="both")
             "skill_name",
             "class",
             "type",
+            "order_id",
         ]
     ].to_csv(
         "Group_{}__type_{}__skills_{}__multigs_{}__multilearn_{}__forgets_{}.csv".format(
@@ -154,10 +155,10 @@ def main(multilearn=False, multigs=False, forgets=False, group=all, type="both")
 if __name__ == "__main__":
     main(
         forgets=False,
-        group="OBJ2100",
+        group="all",
         type="both",
         multigs="type",
-        multilearn="type",
+        multilearn="user_id",
     )
 
 
